@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "tours": [
+    {
+      "id": "munich_old_town_test",
+      "version": 1,
+      "fileName": "munich_old_town_test.json"
+    }
+  ]
+}

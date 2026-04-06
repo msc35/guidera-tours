@@ -1,0 +1,65 @@
+{
+  "id": "nyc_lower_manhattan",
+  "name": "New York City: Lower Manhattan Origins",
+  "city": "New York City",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_charging_bull",
+      "name": "Charging Bull",
+      "latitude": 40.705576,
+      "longitude": -74.013421,
+      "order": 0,
+      "shortDescription": "A massive bronze sculpture created by Arturo Di Modica that represents aggressive financial optimism and prosperity. It was originally dropped outside the Stock Exchange illegally in the middle of the night in 1989."
+    },
+    {
+      "id": "stop_new_york_stock_exchange",
+      "name": "New York Stock Exchange",
+      "latitude": 40.706877,
+      "longitude": -74.011265,
+      "order": 1,
+      "shortDescription": "The world's largest stock exchange by market capitalization of its listed companies. The building's majestic neoclassical facade, with six Corinthian columns, was designed by George B. Post and opened in 1903."
+    },
+    {
+      "id": "stop_federal_hall",
+      "name": "Federal Hall",
+      "latitude": 40.707379,
+      "longitude": -74.010419,
+      "order": 2,
+      "shortDescription": "The site where George Washington took the oath of office as the first President of the United States in 1789. The original building was demolished in 1812, and the current Greek Revival structure was built as a Customs House."
+    },
+    {
+      "id": "stop_trinity_church",
+      "name": "Trinity Church",
+      "latitude": 40.708107,
+      "longitude": -74.012217,
+      "order": 3,
+      "shortDescription": "An iconic historic parish church at the intersection of Wall Street and Broadway. Its adjacent graveyard is the final resting place of Alexander Hamilton and other early American prominent figures."
+    },
+    {
+      "id": "stop_9_11_memorial",
+      "name": "9/11 Memorial",
+      "latitude": 40.711488,
+      "longitude": -74.013143,
+      "order": 4,
+      "shortDescription": "A solemn tribute to the past, featuring two massive reflecting pools set within the footprints of the original Twin Towers. The names of every person who died in the 2001 and 1993 attacks are inscribed into the bronze panels."
+    },
+    {
+      "id": "stop_oculus",
+      "name": "The Oculus",
+      "latitude": 40.711586,
+      "longitude": -74.011352,
+      "order": 5,
+      "shortDescription": "A striking transportation hub and shopping mall designed by Santiago Calatrava to resemble a dove leaving a child's hands. Its stark white, ribbed structure provides a stark contrast to the surrounding glass skyscrapers."
+    },
+    {
+      "id": "stop_one_world_observatory",
+      "name": "One World Observatory",
+      "latitude": 40.712999,
+      "longitude": -74.013145,
+      "order": 6,
+      "shortDescription": "Located atop One World Trade Center, the tallest building in the Western Hemisphere at a symbolic 1,776 feet. It offers unparalleled views of the New York harbor, the skyline, and beyond."
+    }
+  ]
+}

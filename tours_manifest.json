@@ -5,6 +5,46 @@
       "id": "munich_old_town_test",
       "version": 1,
       "fileName": "munich_old_town_test.json"
+    },
+    {
+      "id": "london_royal_westminster",
+      "version": 1,
+      "fileName": "london_royal_westminster.json"
+    },
+    {
+      "id": "london_thames_bankside",
+      "version": 1,
+      "fileName": "london_thames_bankside.json"
+    },
+    {
+      "id": "paris_historic_core",
+      "version": 1,
+      "fileName": "paris_historic_core.json"
+    },
+    {
+      "id": "paris_montmartre",
+      "version": 1,
+      "fileName": "paris_montmartre.json"
+    },
+    {
+      "id": "nyc_midtown_landmarks",
+      "version": 1,
+      "fileName": "nyc_midtown_landmarks.json"
+    },
+    {
+      "id": "nyc_lower_manhattan",
+      "version": 1,
+      "fileName": "nyc_lower_manhattan.json"
+    },
+    {
+      "id": "tokyo_asakusa_tradition",
+      "version": 1,
+      "fileName": "tokyo_asakusa_tradition.json"
+    },
+    {
+      "id": "tokyo_shibuya_harajuku",
+      "version": 1,
+      "fileName": "tokyo_shibuya_harajuku.json"
     }
   ]
 }

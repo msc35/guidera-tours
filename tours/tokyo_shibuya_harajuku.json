@@ -1,0 +1,65 @@
+{
+  "id": "tokyo_shibuya_harajuku",
+  "name": "Tokyo: From Shibuya to Harajuku",
+  "city": "Tokyo",
+  "category": "shopping",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_shibuya_crossing",
+      "name": "Shibuya Crossing",
+      "latitude": 35.6595,
+      "longitude": 139.7005,
+      "order": 0,
+      "shortDescription": "Often described as the busiest intersection in the world, sending up to 3,000 people across the street during a single light change. The neon-lit crossing is a global symbol of Tokyo's kinetic energy."
+    },
+    {
+      "id": "stop_hachiko_memorial_statue",
+      "name": "Hachiko Memorial Statue",
+      "latitude": 35.659063,
+      "longitude": 139.700569,
+      "order": 1,
+      "shortDescription": "A bronze statue honoring the famously loyal Akita dog who waited at Shibuya Station every day for nine years after his owner's death. It is now Tokyo's most popular meeting spot."
+    },
+    {
+      "id": "stop_shibuya_sky",
+      "name": "Shibuya Sky",
+      "latitude": 35.658392,
+      "longitude": 139.702206,
+      "order": 2,
+      "shortDescription": "A 360-degree open-air observation deck located 229 meters above Shibuya. It offers sweeping views of the crossing below, the Tokyo skyline, and Mount Fuji on clear days."
+    },
+    {
+      "id": "stop_cat_street",
+      "name": "Cat Street",
+      "latitude": 35.6644,
+      "longitude": 139.7042,
+      "order": 3,
+      "shortDescription": "The main artery of Ura-Harajuku, a winding pedestrian street renowned for its vibrant street fashion and indie boutiques. Despite its name, you're more likely to spot stylish shoppers than felines here."
+    },
+    {
+      "id": "stop_yoyogi_park",
+      "name": "Yoyogi Park",
+      "latitude": 35.6669,
+      "longitude": 139.6965,
+      "order": 4,
+      "shortDescription": "One of Tokyo's largest city parks, originally the site of the 1964 Olympic Village. It's famous for its sprawling lawns, forested paths, and eclectic weekend gatherings of dancers and performers."
+    },
+    {
+      "id": "stop_takeshita_street",
+      "name": "Takeshita Street",
+      "latitude": 35.671393,
+      "longitude": 139.702714,
+      "order": 5,
+      "shortDescription": "The bustling, neon-hued epicenter of Japan's kawaii (cute) culture. This narrow 400-meter street is packed with crêpe stands, cosplay boutiques, and quirky youth fashion stores."
+    },
+    {
+      "id": "stop_omotesando",
+      "name": "Omotesando",
+      "latitude": 35.6687,
+      "longitude": 139.7056,
+      "order": 6,
+      "shortDescription": "Often referred to as Tokyo's Champs-Élysées, this broad, tree-lined avenue is home to striking modern architecture and flagship luxury boutiques. It offers a sophisticated contrast to the wild fashions of nearby Harajuku."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "london_royal_westminster",
+  "name": "London: Royal Westminster & The Heart of Power",
+  "city": "London",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_buckingham_palace",
+      "name": "Buckingham Palace",
+      "latitude": 51.501364,
+      "longitude": -0.14189,
+      "order": 0,
+      "shortDescription": "The official London residence of the UK's sovereigns since 1837. It features 775 rooms and is the center of national celebrations and state occasions."
+    },
+    {
+      "id": "stop_st_jamess_palace",
+      "name": "St James's Palace",
+      "latitude": 51.504663,
+      "longitude": -0.138245,
+      "order": 1,
+      "shortDescription": "Built by Henry VIII largely between 1531 and 1536, it remains the most senior royal palace in the UK. The accession of a new monarch is still proclaimed from its balcony."
+    },
+    {
+      "id": "stop_westminster_abbey",
+      "name": "Westminster Abbey",
+      "latitude": 51.499417,
+      "longitude": -0.127571,
+      "order": 2,
+      "shortDescription": "Since 1066, this World Heritage Site has been the location of the coronations of 40 English and British monarchs. It is also the final resting place of thousands of notable figures."
+    },
+    {
+      "id": "stop_houses_of_parliament",
+      "name": "Houses of Parliament",
+      "latitude": 51.499479,
+      "longitude": -0.124809,
+      "order": 3,
+      "shortDescription": "Also known as the Palace of Westminster, this is the meeting place for both the House of Commons and the House of Lords. The current stunning Gothic Revival structure was built after a disastrous fire in 1834."
+    },
+    {
+      "id": "stop_big_ben",
+      "name": "Big Ben",
+      "latitude": 51.500729,
+      "longitude": -0.124625,
+      "order": 4,
+      "shortDescription": "Big Ben is actually the nickname for the Great Bell of the striking clock, weighing nearly 14 tons. The iconic clock tower itself was officially renamed Elizabeth Tower in 2012 to mark the Queen's Diamond Jubilee."
+    },
+    {
+      "id": "stop_10_downing_street",
+      "name": "10 Downing Street",
+      "latitude": 51.503363,
+      "longitude": -0.127625,
+      "order": 5,
+      "shortDescription": "The official residence and executive office of the Prime Minister of the United Kingdom. It has served this vital political purpose since 1735 under Sir Robert Walpole."
+    },
+    {
+      "id": "stop_trafalgar_square",
+      "name": "Trafalgar Square",
+      "latitude": 51.50809,
+      "longitude": -0.128591,
+      "order": 6,
+      "shortDescription": "A public square established in the early 19th century that commemorates the Battle of Trafalgar, a British naval victory in 1805. At its center stands Nelson's Column, guarded by four massive bronze lions."
+    }
+  ]
+}

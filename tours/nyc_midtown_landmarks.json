@@ -1,0 +1,65 @@
+{
+  "id": "nyc_midtown_landmarks",
+  "name": "New York City: Midtown Architecture & Icons",
+  "city": "New York City",
+  "category": "architecture",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_grand_central_terminal",
+      "name": "Grand Central Terminal",
+      "latitude": 40.752726,
+      "longitude": -73.977229,
+      "order": 0,
+      "shortDescription": "A Beaux-Arts masterpiece opened in 1913, featuring a celestial ceiling mural in the Main Concourse. Its famous four-faced opal clock above the information booth is estimated to be worth millions."
+    },
+    {
+      "id": "stop_chrysler_building",
+      "name": "Chrysler Building",
+      "latitude": 40.751652,
+      "longitude": -73.975311,
+      "order": 1,
+      "shortDescription": "An Art Deco skyscraper completed in 1930, notable for its terraced crown and stainless-steel spire. For 11 months, it held the title of the world's tallest building before being surpassed by the Empire State Building."
+    },
+    {
+      "id": "stop_new_york_public_library",
+      "name": "New York Public Library",
+      "latitude": 40.753182,
+      "longitude": -73.982253,
+      "order": 2,
+      "shortDescription": "The Stephen A. Schwarzman Building is guarded by two famous marble lions named Patience and Fortitude. Its magnificent Rose Main Reading Room stretches the length of two city blocks."
+    },
+    {
+      "id": "stop_bryant_park",
+      "name": "Bryant Park",
+      "latitude": 40.753596,
+      "longitude": -73.983232,
+      "order": 3,
+      "shortDescription": "Built entirely over an underground structure that houses the library's vast stacks, this park is a beloved urban oasis. It hosts outdoor movies in the summer and a popular ice-skating rink in the winter."
+    },
+    {
+      "id": "stop_times_square",
+      "name": "Times Square",
+      "latitude": 40.758,
+      "longitude": -73.9855,
+      "order": 4,
+      "shortDescription": "Known as 'The Crossroads of the World', it is brightly adorned with massive digital billboards and advertisements. It was renamed from Longacre Square in 1904 when The New York Times moved its headquarters there."
+    },
+    {
+      "id": "stop_rockefeller_center",
+      "name": "Rockefeller Center",
+      "latitude": 40.75874,
+      "longitude": -73.978674,
+      "order": 5,
+      "shortDescription": "A complex of 19 commercial buildings covering 22 acres, commissioned by the Rockefeller family during the Great Depression. It is famous for its sunken plaza, gilded Prometheus statue, and the annual Christmas tree."
+    },
+    {
+      "id": "stop_st_patricks_cathedral",
+      "name": "St. Patrick's Cathedral",
+      "latitude": 40.758465,
+      "longitude": -73.976008,
+      "order": 6,
+      "shortDescription": "A stunning Neo-Gothic-style Catholic cathedral nestled amongst Midtown's towering skyscrapers. Completed in 1878, it is the largest Gothic Roman Catholic cathedral in the United States."
+    }
+  ]
+}

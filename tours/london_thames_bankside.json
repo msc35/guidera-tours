@@ -1,0 +1,73 @@
+{
+  "id": "london_thames_bankside",
+  "name": "London: Bankside & Thames Landmarks",
+  "city": "London",
+  "category": "architecture",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_tower_of_london",
+      "name": "Tower of London",
+      "latitude": 51.508112,
+      "longitude": -0.075949,
+      "order": 0,
+      "shortDescription": "Founded towards the end of 1066 by William the Conqueror, this historic castle has served as an armory, a treasury, a menagerie, and the home of the Crown Jewels."
+    },
+    {
+      "id": "stop_tower_bridge",
+      "name": "Tower Bridge",
+      "latitude": 51.505456,
+      "longitude": -0.075356,
+      "order": 1,
+      "shortDescription": "Built between 1886 and 1894, this combined bascule and suspension bridge is a quintessential London icon. It was originally powered by steam engines to lift the massive bridge sections."
+    },
+    {
+      "id": "stop_the_shard",
+      "name": "The Shard",
+      "latitude": 51.5045,
+      "longitude": -0.0865,
+      "order": 2,
+      "shortDescription": "Designed by Renzo Piano, this 72-story skyscraper stands 309.6 meters high, making it the tallest building in the UK. Its glass facades reflect the sunlight and the sky above the city."
+    },
+    {
+      "id": "stop_borough_market",
+      "name": "Borough Market",
+      "latitude": 51.50544,
+      "longitude": -0.09048,
+      "order": 3,
+      "shortDescription": "One of the largest and oldest food markets in London, with a market on the site dating back to at least the 12th century. It offers an incredible array of fresh produce and artisanal street food."
+    },
+    {
+      "id": "stop_shakespeares_globe",
+      "name": "Shakespeare's Globe",
+      "latitude": 51.50808,
+      "longitude": -0.097063,
+      "order": 4,
+      "shortDescription": "A faithful reconstruction of the Globe Theatre, an Elizabethan playhouse associated with William Shakespeare. The original theatre was famously destroyed by fire in 1613."
+    },
+    {
+      "id": "stop_tate_modern",
+      "name": "Tate Modern",
+      "latitude": 51.507595,
+      "longitude": -0.099356,
+      "order": 5,
+      "shortDescription": "Housed in the former Bankside Power Station, this institution holds the UK's national collection of international modern and contemporary art. The massive Turbine Hall hosts spectacular, large-scale installations."
+    },
+    {
+      "id": "stop_millennium_bridge",
+      "name": "Millennium Bridge",
+      "latitude": 51.509503,
+      "longitude": -0.098522,
+      "order": 6,
+      "shortDescription": "A steel suspension bridge for pedestrians crossing the River Thames, famously known as the 'Wobbly Bridge' due to its initial swaying upon opening in 2000. It directly aligns with the south transept of St Paul's Cathedral."
+    },
+    {
+      "id": "stop_st_pauls_cathedral",
+      "name": "St Paul's Cathedral",
+      "latitude": 51.513845,
+      "longitude": -0.098351,
+      "order": 7,
+      "shortDescription": "Designed by Sir Christopher Wren after the Great Fire of London, its massive dome has dominated the London skyline for over 300 years. It miraculously survived the heavy bombing of the Blitz during World War II."
+    }
+  ]
+}

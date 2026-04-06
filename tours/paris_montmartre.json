@@ -1,0 +1,65 @@
+{
+  "id": "paris_montmartre",
+  "name": "Paris: The Charm of Montmartre",
+  "city": "Paris",
+  "category": "cultural",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_moulin_rouge",
+      "name": "Moulin Rouge",
+      "latitude": 48.884134,
+      "longitude": 2.332269,
+      "order": 0,
+      "shortDescription": "Easily identified by the red windmill on its roof, this cabaret is the birthplace of the modern can-can dance. It has been entertaining Parisian society since it opened in 1889."
+    },
+    {
+      "id": "stop_cafe_des_deux_moulins",
+      "name": "Café des Deux Moulins",
+      "latitude": 48.884879,
+      "longitude": 2.333333,
+      "order": 1,
+      "shortDescription": "A typical Parisian café that gained international fame as the workplace of the title character in the 2001 film 'Amélie'. Its name references the two historical windmills nearby."
+    },
+    {
+      "id": "stop_le_mur_des_je_taime",
+      "name": "Le Mur des Je t'aime",
+      "latitude": 48.884824,
+      "longitude": 2.338583,
+      "order": 2,
+      "shortDescription": "A 40-square-meter wall in the Jehan Rictus garden square covered in enameled lava tiles. The phrase 'I love you' is written here 311 times in 250 different languages."
+    },
+    {
+      "id": "stop_place_du_tertre",
+      "name": "Place du Tertre",
+      "latitude": 48.886311,
+      "longitude": 2.34005,
+      "order": 3,
+      "shortDescription": "The vibrant artistic heart of Montmartre, where numerous artists set up their easels daily to paint portraits for tourists. It evokes the village's bohemian past when Picasso and Utrillo lived nearby."
+    },
+    {
+      "id": "stop_sacre_coeur",
+      "name": "Sacré-Cœur Basilica",
+      "latitude": 48.886705,
+      "longitude": 2.343104,
+      "order": 4,
+      "shortDescription": "Perched at the highest point in Paris, this stunning white basilica offers panoramic views of the entire city. It was built between 1875 and 1914 as a national penance following the Franco-Prussian War."
+    },
+    {
+      "id": "stop_musee_de_montmartre",
+      "name": "Musée de Montmartre",
+      "latitude": 48.88764,
+      "longitude": 2.340089,
+      "order": 5,
+      "shortDescription": "Housed in the oldest buildings of Montmartre, dating back to the 17th century. It features beautiful gardens where Auguste Renoir painted his famous 'La Balançoire' (The Swing)."
+    },
+    {
+      "id": "stop_la_maison_rose",
+      "name": "La Maison Rose",
+      "latitude": 48.887853,
+      "longitude": 2.339679,
+      "order": 6,
+      "shortDescription": "A picturesque, pastel-pink house at the corner of a cobbled street that has been operating as a restaurant for over a century. It was frequently painted by Maurice Utrillo and remains a beloved Montmartre landmark."
+    }
+  ]
+}

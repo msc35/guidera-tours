@@ -1,0 +1,65 @@
+{
+  "id": "tokyo_asakusa_tradition",
+  "name": "Tokyo: Asakusa Tradition & River Walk",
+  "city": "Tokyo",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_kaminarimon_gate",
+      "name": "Kaminarimon Gate",
+      "latitude": 35.710714,
+      "longitude": 139.796384,
+      "order": 0,
+      "shortDescription": "First built in 942, this 'Thunder Gate' features a massive red lantern weighing 700 kilograms. It serves as the majestic entrance to the Senso-ji temple complex."
+    },
+    {
+      "id": "stop_nakamise_shopping_street",
+      "name": "Nakamise Shopping Street",
+      "latitude": 35.712078,
+      "longitude": 139.796347,
+      "order": 1,
+      "shortDescription": "One of Japan's oldest shopping streets, dating back to the 17th century. It offers traditional snacks, yukata, and folding fans along its 250-meter length leading to the temple."
+    },
+    {
+      "id": "stop_senso_ji_temple",
+      "name": "Senso-ji Temple",
+      "latitude": 35.714765,
+      "longitude": 139.796655,
+      "order": 2,
+      "shortDescription": "Tokyo's oldest Buddhist temple, founded in 628 AD. Legend holds that two fishermen found a golden statue of Kannon in the Sumida River and the temple was built to enshrine it."
+    },
+    {
+      "id": "stop_asakusa_shrine",
+      "name": "Asakusa Shrine",
+      "latitude": 35.715017,
+      "longitude": 139.797282,
+      "order": 3,
+      "shortDescription": "Located right next to Sensō-ji, this Shinto shrine survived the air raids of World War II. It was built in 1649 to honor the three men who founded the neighboring Buddhist temple."
+    },
+    {
+      "id": "stop_sumida_park",
+      "name": "Sumida Park",
+      "latitude": 35.712613,
+      "longitude": 139.800976,
+      "order": 4,
+      "shortDescription": "A beautiful riverside park famous for its hundreds of cherry trees, originally planted by the eighth Tokugawa shogun. It offers a peaceful walking path along the banks of the Sumida River."
+    },
+    {
+      "id": "stop_sumida_river_walk",
+      "name": "Sumida River Walk",
+      "latitude": 35.7112,
+      "longitude": 139.801,
+      "order": 5,
+      "shortDescription": "A modern pedestrian footbridge connecting the historic Asakusa area directly to the Tokyo Skytree district. It provides excellent, unobstructed views of the river and passing boats below."
+    },
+    {
+      "id": "stop_tokyo_skytree",
+      "name": "Tokyo Skytree",
+      "latitude": 35.710063,
+      "longitude": 139.8107,
+      "order": 6,
+      "shortDescription": "Standing at an incredible 634 meters, this broadcasting and observation tower became the tallest structure in Japan upon its completion in 2012. Its height was specifically chosen because '634' can be read as 'Musashi', an old name for the region."
+    }
+  ]
+}

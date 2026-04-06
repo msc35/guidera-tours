@@ -1,0 +1,65 @@
+{
+  "id": "paris_historic_core",
+  "name": "Paris: Historic Core & The Louvre",
+  "city": "Paris",
+  "category": "art",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_notre_dame",
+      "name": "Cathédrale Notre-Dame de Paris",
+      "latitude": 48.852968,
+      "longitude": 2.349902,
+      "order": 0,
+      "shortDescription": "A masterpiece of French Gothic architecture consecrated in 1189. Famous for its gargoyles and flying buttresses, it is currently undergoing a massive restoration following the 2019 fire."
+    },
+    {
+      "id": "stop_sainte_chapelle",
+      "name": "Sainte-Chapelle",
+      "latitude": 48.855422,
+      "longitude": 2.345025,
+      "order": 1,
+      "shortDescription": "Commissioned by King Louis IX to house his collection of Passion relics, including Christ's Crown of Thorns. It boasts one of the most extensive and breathtaking 13th-century stained glass collections in the world."
+    },
+    {
+      "id": "stop_pont_neuf",
+      "name": "Pont Neuf",
+      "latitude": 48.857022,
+      "longitude": 2.341275,
+      "order": 2,
+      "shortDescription": "Ironically translating to 'New Bridge', this is actually the oldest standing bridge across the river Seine in Paris, completed in 1607. It was the first stone bridge in Paris not to have houses built upon it."
+    },
+    {
+      "id": "stop_louvre_museum",
+      "name": "Louvre Museum",
+      "latitude": 48.860611,
+      "longitude": 2.337644,
+      "order": 3,
+      "shortDescription": "The world's largest art museum, originally built as a fortress in the late 12th century. It is famously home to the Mona Lisa and the striking glass pyramid designed by I. M. Pei."
+    },
+    {
+      "id": "stop_palais_royal",
+      "name": "Palais Royal",
+      "latitude": 48.864931,
+      "longitude": 2.33718,
+      "order": 4,
+      "shortDescription": "Originally the personal residence of Cardinal Richelieu, this palace features beautiful public gardens. Its inner courtyard is famous for 'Les Deux Plateaux', a controversial art installation of black-and-white striped columns."
+    },
+    {
+      "id": "stop_jardin_des_tuileries",
+      "name": "Jardin des Tuileries",
+      "latitude": 48.863492,
+      "longitude": 2.327494,
+      "order": 5,
+      "shortDescription": "Created by Catherine de' Medici as the garden of the Tuileries Palace in 1564, it became a public park after the French Revolution. It separates the Louvre from the Place de la Concorde."
+    },
+    {
+      "id": "stop_place_de_la_concorde",
+      "name": "Place de la Concorde",
+      "latitude": 48.865633,
+      "longitude": 2.321236,
+      "order": 6,
+      "shortDescription": "The largest public square in Paris, notorious as the execution site of Louis XVI and Marie Antoinette during the French Revolution. At its center stands a 3,300-year-old Egyptian obelisk from the Luxor Temple."
+    }
+  ]
+}

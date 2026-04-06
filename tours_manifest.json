@@ -45,6 +45,56 @@
       "id": "tokyo_shibuya_harajuku",
       "version": 1,
       "fileName": "tokyo_shibuya_harajuku.json"
+    },
+    {
+      "id": "dubai_downtown",
+      "version": 1,
+      "fileName": "dubai_downtown.json"
+    },
+    {
+      "id": "rome_ancient",
+      "version": 1,
+      "fileName": "rome_ancient.json"
+    },
+    {
+      "id": "barcelona_gothic",
+      "version": 1,
+      "fileName": "barcelona_gothic.json"
+    },
+    {
+      "id": "istanbul_sultanahmet",
+      "version": 1,
+      "fileName": "istanbul_sultanahmet.json"
+    },
+    {
+      "id": "bangkok_royal",
+      "version": 1,
+      "fileName": "bangkok_royal.json"
+    },
+    {
+      "id": "milan_historic",
+      "version": 1,
+      "fileName": "milan_historic.json"
+    },
+    {
+      "id": "madrid_royal",
+      "version": 1,
+      "fileName": "madrid_royal.json"
+    },
+    {
+      "id": "amsterdam_canal",
+      "version": 1,
+      "fileName": "amsterdam_canal.json"
+    },
+    {
+      "id": "lisbon_baixa_alfama",
+      "version": 1,
+      "fileName": "lisbon_baixa_alfama.json"
+    },
+    {
+      "id": "prague_old_town",
+      "version": 1,
+      "fileName": "prague_old_town.json"
     }
   ]
 }

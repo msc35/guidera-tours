@@ -1,0 +1,57 @@
+{
+  "id": "dubai_downtown",
+  "name": "Dubai: Downtown & Architectural Wonders",
+  "city": "Dubai",
+  "category": "architecture",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_dubai_mall",
+      "name": "The Dubai Mall",
+      "latitude": 25.197197,
+      "longitude": 55.279654,
+      "order": 0,
+      "shortDescription": "One of the world's largest shopping malls, featuring over 1,200 retail outlets. It also houses an Olympic-sized ice rink and a massive indoor aquarium."
+    },
+    {
+      "id": "stop_dubai_fountain",
+      "name": "The Dubai Fountain",
+      "latitude": 25.19525,
+      "longitude": 55.275812,
+      "order": 1,
+      "shortDescription": "The world's largest choreographed fountain system, set on the 30-acre artificial Burj Khalifa Lake. It shoots water up to 500 feet in the air accompanied by lights and music."
+    },
+    {
+      "id": "stop_souk_al_bahar",
+      "name": "Souk Al Bahar",
+      "latitude": 25.193259,
+      "longitude": 55.276412,
+      "order": 2,
+      "shortDescription": "An Arabesque dining and lifestyle destination blending classic Middle Eastern architecture with modern luxury. The 'Sailor's Market' offers spectacular waterfront views."
+    },
+    {
+      "id": "stop_burj_khalifa",
+      "name": "Burj Khalifa",
+      "latitude": 25.197139,
+      "longitude": 55.274111,
+      "order": 3,
+      "shortDescription": "Standing at a staggering 828 meters, this is the tallest building in the world. Its design is inspired by the regional Hymenocallis desert flower."
+    },
+    {
+      "id": "stop_dubai_opera",
+      "name": "Dubai Opera",
+      "latitude": 25.194247,
+      "longitude": 55.273614,
+      "order": 4,
+      "shortDescription": "A radiant center of culture and arts shaped like a traditional dhow boat. This multi-format venue can transform from a theater into a concert hall or a flat-floor event space."
+    },
+    {
+      "id": "stop_burj_park",
+      "name": "Burj Park",
+      "latitude": 25.190673,
+      "longitude": 55.274384,
+      "order": 5,
+      "shortDescription": "A lush green island set against the imposing skyline of Downtown Dubai. It offers an unobstructed, peaceful vantage point of the towering Burj Khalifa above."
+    }
+  ]
+}

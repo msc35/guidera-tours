@@ -1,0 +1,57 @@
+{
+  "id": "rome_ancient",
+  "name": "Rome: The Ancient Empire",
+  "city": "Rome",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_colosseum",
+      "name": "Colosseum",
+      "latitude": 41.890251,
+      "longitude": 12.492373,
+      "order": 0,
+      "shortDescription": "The largest ancient amphitheater ever built, completed in 80 AD under Emperor Titus. It could hold an estimated 50,000 to 80,000 spectators for gladiatorial contests and public spectacles."
+    },
+    {
+      "id": "stop_arch_of_constantine",
+      "name": "Arch of Constantine",
+      "latitude": 41.889988,
+      "longitude": 12.490802,
+      "order": 1,
+      "shortDescription": "A colossal triumphal arch erected in 315 AD to commemorate Constantine I's victory at the Battle of Milvian Bridge. It is notable for heavily recycling decorative materials from older imperial monuments."
+    },
+    {
+      "id": "stop_palatine_hill",
+      "name": "Palatine Hill",
+      "latitude": 41.888334,
+      "longitude": 12.485833,
+      "order": 2,
+      "shortDescription": "The centermost of the Seven Hills of Rome and one of the most ancient parts of the city. According to Roman mythology, this is the very spot where the city was founded by Romulus and Remus."
+    },
+    {
+      "id": "stop_roman_forum",
+      "name": "Roman Forum",
+      "latitude": 41.892461,
+      "longitude": 12.485325,
+      "order": 3,
+      "shortDescription": "The ruined but sprawling heart of ancient Rome, filled with temples, basilicas, and public spaces. For centuries, it was the center of day-to-day life in the Roman Republic and Empire."
+    },
+    {
+      "id": "stop_piazza_del_campidoglio",
+      "name": "Piazza del Campidoglio",
+      "latitude": 41.893322,
+      "longitude": 12.482834,
+      "order": 4,
+      "shortDescription": "A magnificent hilltop square redesigned by Michelangelo in the 16th century. It features a striking geometric paving pattern and a replica bronze equestrian statue of Marcus Aurelius."
+    },
+    {
+      "id": "stop_capitoline_museums",
+      "name": "Capitoline Museums",
+      "latitude": 41.893041,
+      "longitude": 12.482613,
+      "order": 5,
+      "shortDescription": "Considered the world's oldest public museums, tracing their history back to 1471. They house incredible classical sculptures, including the famous bronze 'Capitoline Wolf' nursing Romulus and Remus."
+    }
+  ]
+}

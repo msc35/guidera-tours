@@ -1,0 +1,57 @@
+{
+  "id": "amsterdam_canal",
+  "name": "Amsterdam: History Along the Grachten",
+  "city": "Amsterdam",
+  "category": "cultural",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_dam_square",
+      "name": "Dam Square",
+      "latitude": 52.373056,
+      "longitude": 4.892222,
+      "order": 0,
+      "shortDescription": "The historical heart of Amsterdam, deriving its name from its original function: a dam on the Amstel River. It is a lively hub often hosting fairs, performers, and public gatherings."
+    },
+    {
+      "id": "stop_royal_palace_amsterdam",
+      "name": "Royal Palace of Amsterdam",
+      "latitude": 52.373264,
+      "longitude": 4.891411,
+      "order": 1,
+      "shortDescription": "Originally built as a city hall during the Dutch Golden Age in the 17th century, resting on 13,659 wooden piles. It later became the royal palace of King Louis Napoleon and later the Dutch Royal House."
+    },
+    {
+      "id": "stop_magna_plaza",
+      "name": "Magna Plaza",
+      "latitude": 52.37375,
+      "longitude": 4.889583,
+      "order": 2,
+      "shortDescription": "A stunning, ornate Neo-Gothic building located just behind the Royal Palace. It functioned as the Amsterdam Main Post Office before being beautifully converted into a luxurious shopping mall."
+    },
+    {
+      "id": "stop_westerkerk",
+      "name": "Westerkerk",
+      "latitude": 52.374528,
+      "longitude": 4.883972,
+      "order": 3,
+      "shortDescription": "A magnificent 17th-century Protestant church featuring the highest church tower in Amsterdam. Its bells were frequently mentioned by Anne Frank in her diary as a source of comfort."
+    },
+    {
+      "id": "stop_anne_frank_house",
+      "name": "Anne Frank House",
+      "latitude": 52.375218,
+      "longitude": 4.883977,
+      "order": 4,
+      "shortDescription": "The writer's house and biographical museum where Anne Frank and her family hid from Nazi persecution during World War II. The concealed 'Secret Annex' has been preserved exactly as it was."
+    },
+    {
+      "id": "stop_the_9_streets",
+      "name": "De 9 Straatjes (The 9 Streets)",
+      "latitude": 52.371222,
+      "longitude": 4.885667,
+      "order": 5,
+      "shortDescription": "A highly photogenic neighborhood of picturesque canal streets intersected by historic bridges. It's famous for its independent boutiques, cozy cafes, and classic Dutch step-gabled houses."
+    }
+  ]
+}

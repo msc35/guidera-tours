@@ -1,0 +1,57 @@
+{
+  "id": "istanbul_sultanahmet",
+  "name": "Istanbul: Byzantine & Ottoman Treasures",
+  "city": "Istanbul",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_hippodrome",
+      "name": "Hippodrome of Constantinople",
+      "latitude": 41.006306,
+      "longitude": 28.975841,
+      "order": 0,
+      "shortDescription": "Once the sporting and social center of the Byzantine capital, hosting spectacular chariot races. Today, the square still features ancient monuments like the 3,500-year-old Egyptian Obelisk of Theodosius."
+    },
+    {
+      "id": "stop_blue_mosque",
+      "name": "Blue Mosque (Sultan Ahmed Mosque)",
+      "latitude": 41.005422,
+      "longitude": 28.976815,
+      "order": 1,
+      "shortDescription": "An early 17th-century masterpiece with six towering minarets and cascading domes. It earns its nickname from the more than 20,000 handmade Iznik ceramic tiles that intensely decorate its interior walls."
+    },
+    {
+      "id": "stop_basilica_cistern",
+      "name": "Basilica Cistern",
+      "latitude": 41.008381,
+      "longitude": 28.977873,
+      "order": 2,
+      "shortDescription": "A massive, subterranean water reservoir built by Emperor Justinian I in the 6th century. Supported by 336 marble columns, it features two mysterious, ancient Medusa heads used as pillar bases."
+    },
+    {
+      "id": "stop_hagia_sophia",
+      "name": "Hagia Sophia",
+      "latitude": 41.008583,
+      "longitude": 28.979917,
+      "order": 3,
+      "shortDescription": "Originally built as a colossal Christian cathedral in 537 AD, later an imperial mosque, then a museum, and now a mosque again. Its massive dome was considered an architectural miracle that changed the history of architecture."
+    },
+    {
+      "id": "stop_topkapi_palace",
+      "name": "Topkapi Palace",
+      "latitude": 41.0115,
+      "longitude": 28.983375,
+      "order": 4,
+      "shortDescription": "The opulent primary residence and administrative headquarters of the Ottoman sultans for nearly 400 years. Its sprawling courtyards house sacred Islamic relics, imperial armory, and the secretive Harem."
+    },
+    {
+      "id": "stop_gulhane_park",
+      "name": "Gülhane Park",
+      "latitude": 41.013056,
+      "longitude": 28.981111,
+      "order": 5,
+      "shortDescription": "Istanbul's oldest and most expansive public park, originally part of the outer gardens of Topkapi Palace. In spring, the pathways burst into vibrant color with thousands of blooming tulips."
+    }
+  ]
+}

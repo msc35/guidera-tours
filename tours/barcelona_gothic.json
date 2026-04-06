@@ -1,0 +1,57 @@
+{
+  "id": "barcelona_gothic",
+  "name": "Barcelona: Secrets of the Gothic Quarter",
+  "city": "Barcelona",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_placa_de_catalunya",
+      "name": "Plaça de Catalunya",
+      "latitude": 41.387015,
+      "longitude": 2.170047,
+      "order": 0,
+      "shortDescription": "A large plaza considered to be the exact center of Barcelona, separating the old city from the 19th-century Eixample district. It is famous for its beautiful fountains, sculptures, and flocks of pigeons."
+    },
+    {
+      "id": "stop_cathedral_of_barcelona",
+      "name": "Cathedral of Barcelona",
+      "latitude": 41.383973,
+      "longitude": 2.176161,
+      "order": 1,
+      "shortDescription": "A stunning Gothic cathedral constructed between the 13th and 15th centuries. Its cloister is famously home to exactly 13 white geese, honoring the age of the co-patron saint, Eulalia, when she was martyred."
+    },
+    {
+      "id": "stop_pont_del_bisbe",
+      "name": "Pont del Bisbe",
+      "latitude": 41.383389,
+      "longitude": 2.176461,
+      "order": 2,
+      "shortDescription": "A picturesque neo-Gothic bridge connecting two buildings over a narrow cobblestone street. Despite looking ancient, it was actually constructed in 1928 for the Barcelona International Exposition."
+    },
+    {
+      "id": "stop_placa_de_sant_jaume",
+      "name": "Plaça de Sant Jaume",
+      "latitude": 41.382625,
+      "longitude": 2.176983,
+      "order": 3,
+      "shortDescription": "The political heart of Barcelona, housing both the City Hall and the Palace of the Generalitat de Catalunya. It sits on the exact site of the ancient Roman Forum of Barcino."
+    },
+    {
+      "id": "stop_placa_del_rei",
+      "name": "Plaça del Rei",
+      "latitude": 41.383917,
+      "longitude": 2.17725,
+      "order": 4,
+      "shortDescription": "A majestic medieval public square bordered by the Palau Reial Major, the former residence of the Catalan counts. It is widely believed to be the place where King Ferdinand and Queen Isabella welcomed Columbus after his first voyage."
+    },
+    {
+      "id": "stop_basilica_santa_maria_del_mar",
+      "name": "Basilica of Santa Maria del Mar",
+      "latitude": 41.383889,
+      "longitude": 2.182056,
+      "order": 5,
+      "shortDescription": "An outstanding example of Catalan Gothic architecture, built incredibly quickly in just 54 years during the 14th century. Its immense, unadorned stone interior gives it a feeling of vast, breathtaking space."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "bangkok_royal",
+  "name": "Bangkok: The Royal Island of Rattanakosin",
+  "city": "Bangkok",
+  "category": "cultural",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_saranrom_park",
+      "name": "Saranrom Park",
+      "latitude": 13.748318,
+      "longitude": 100.495027,
+      "order": 0,
+      "shortDescription": "A peaceful public park that formerly served as the royal garden of Saranrom Palace. It features Victorian-era bandstands, manicured lawns, and is a favorite local spot for evening aerobics."
+    },
+    {
+      "id": "stop_wat_pho",
+      "name": "Wat Pho",
+      "latitude": 13.746533,
+      "longitude": 100.493322,
+      "order": 1,
+      "shortDescription": "Known as the Temple of the Reclining Buddha, it is one of Bangkok's oldest and largest temple complexes. It is also considered the birthplace of traditional Thai massage, which is still taught on-site."
+    },
+    {
+      "id": "stop_tha_tien_pier",
+      "name": "Tha Tien Pier",
+      "latitude": 13.744576,
+      "longitude": 100.490998,
+      "order": 2,
+      "shortDescription": "A bustling historic market and ferry pier on the Chao Phraya River. From here, you can watch the river traffic or take a quick cross-river ferry to see Wat Arun."
+    },
+    {
+      "id": "stop_grand_palace",
+      "name": "The Grand Palace",
+      "latitude": 13.749969,
+      "longitude": 100.492067,
+      "order": 3,
+      "shortDescription": "The spectacular official residence of the Kings of Siam since 1782. Its dazzling buildings blend traditional Thai architecture with European Renaissance styles."
+    },
+    {
+      "id": "stop_wat_phra_kaew",
+      "name": "Wat Phra Kaew",
+      "latitude": 13.751688,
+      "longitude": 100.492667,
+      "order": 4,
+      "shortDescription": "Located within the Grand Palace grounds, this is Thailand's most sacred Buddhist temple. It houses the revered Emerald Buddha, meticulously carved from a single block of jade."
+    },
+    {
+      "id": "stop_city_pillar_shrine",
+      "name": "Bangkok City Pillar Shrine",
+      "latitude": 13.752833,
+      "longitude": 100.49425,
+      "order": 5,
+      "shortDescription": "Constructed when Bangkok was established as the new capital in 1782. Locals come here to make offerings and pray to the guardian spirits of the city for prosperity and protection."
+    }
+  ]
+}

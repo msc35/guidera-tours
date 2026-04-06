@@ -1,0 +1,57 @@
+{
+  "id": "lisbon_baixa_alfama",
+  "name": "Lisbon: From Commerce Square to the Castle",
+  "city": "Lisbon",
+  "category": "cultural",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_praca_do_comercio",
+      "name": "Praça do Comércio",
+      "latitude": 38.7075,
+      "longitude": -9.136389,
+      "order": 0,
+      "shortDescription": "A magnificent, sun-drenched square facing the Tagus River. It was built on the ruins of the old Royal Palace, which was destroyed by the catastrophic 1755 Lisbon earthquake."
+    },
+    {
+      "id": "stop_rua_augusta_arch",
+      "name": "Rua Augusta Arch",
+      "latitude": 38.708306,
+      "longitude": -9.136694,
+      "order": 1,
+      "shortDescription": "A stone, triumphal arch-like building commemorating the city's reconstruction after the 1755 earthquake. It serves as an ornate gateway into Baixa, the vibrant downtown grid."
+    },
+    {
+      "id": "stop_santa_justa_lift",
+      "name": "Santa Justa Lift",
+      "latitude": 38.712167,
+      "longitude": -9.139444,
+      "order": 2,
+      "shortDescription": "A beautifully intricate, 19th-century Neo-Gothic iron elevator created by an apprentice of Gustave Eiffel. It vertically connects the lower streets of the Baixa with the higher Carmo Square."
+    },
+    {
+      "id": "stop_lisbon_cathedral",
+      "name": "Lisbon Cathedral (Sé)",
+      "latitude": 38.709833,
+      "longitude": -9.132583,
+      "order": 3,
+      "shortDescription": "The oldest church in the city, built in 1147 right after the Christian reconquest of Lisbon. Its fortress-like, Romanesque facade is iconic, complete with rose windows and heavy twin bell towers."
+    },
+    {
+      "id": "stop_miradouro_santa_luzia",
+      "name": "Miradouro de Santa Luzia",
+      "latitude": 38.711667,
+      "longitude": -9.130278,
+      "order": 4,
+      "shortDescription": "A romantic observation deck offering sweeping views over the terracotta roofs of Alfama and the Tagus River. The terrace is beautifully decorated with traditional blue and white azulejo tiles."
+    },
+    {
+      "id": "stop_castelo_de_sao_jorge",
+      "name": "Castelo de São Jorge",
+      "latitude": 38.713889,
+      "longitude": -9.133333,
+      "order": 5,
+      "shortDescription": "A Moorish castle towering majestically over Lisbon's historic center. Walking its ancient, pine-shaded ramparts rewards you with arguably the most breathtaking panoramic views of the entire city."
+    }
+  ]
+}

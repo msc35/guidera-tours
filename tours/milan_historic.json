@@ -1,0 +1,57 @@
+{
+  "id": "milan_historic",
+  "name": "Milan: The Golden Core",
+  "city": "Milan",
+  "category": "architecture",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_piazza_del_duomo",
+      "name": "Piazza del Duomo",
+      "latitude": 45.464161,
+      "longitude": 9.189738,
+      "order": 0,
+      "shortDescription": "The monumental central square of Milan, framed by some of the city's most important buildings. It is heavily trafficked by locals, tourists, and hundreds of pigeons."
+    },
+    {
+      "id": "stop_milan_cathedral",
+      "name": "Duomo di Milano",
+      "latitude": 45.464098,
+      "longitude": 9.191926,
+      "order": 1,
+      "shortDescription": "A Gothic architectural marvel that took nearly six centuries to complete. It is adorned with over 3,400 statues, 135 gargoyles, and visitors can walk on its spectacular roof."
+    },
+    {
+      "id": "stop_galleria_vittorio_emanuele_ii",
+      "name": "Galleria Vittorio Emanuele II",
+      "latitude": 45.465597,
+      "longitude": 9.189953,
+      "order": 2,
+      "shortDescription": "Italy's oldest active shopping gallery and a major landmark of Milan. Its stunning glass arcades and mosaic floor feature a bull; spinning your heel on its testicles is said to bring good luck."
+    },
+    {
+      "id": "stop_teatro_alla_scala",
+      "name": "Teatro alla Scala",
+      "latitude": 45.467362,
+      "longitude": 9.189684,
+      "order": 3,
+      "shortDescription": "Inaugurated in 1778, this is one of the most prestigious opera houses in the world. Its relatively austere exterior hides a lavish, red-and-gold, multi-tiered auditorium inside."
+    },
+    {
+      "id": "stop_piazza_dei_mercanti",
+      "name": "Piazza dei Mercanti",
+      "latitude": 45.465103,
+      "longitude": 9.187311,
+      "order": 4,
+      "shortDescription": "A charming, intimate square that served as the center of city life in the Middle Ages. Its well-preserved buildings transport you instantly back to 13th-century Milan."
+    },
+    {
+      "id": "stop_sforzesco_castle",
+      "name": "Sforzesco Castle",
+      "latitude": 45.470487,
+      "longitude": 9.179313,
+      "order": 5,
+      "shortDescription": "A massive fortress built in the 15th century by Francesco Sforza, Duke of Milan. Today, its grand courtyards and halls house several museums, including Michelangelo's unfinished final sculpture, the Rondanini Pietà."
+    }
+  ]
+}

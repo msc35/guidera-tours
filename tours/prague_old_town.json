@@ -1,0 +1,57 @@
+{
+  "id": "prague_old_town",
+  "name": "Prague: The Royal Route",
+  "city": "Prague",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_powder_tower",
+      "name": "Powder Tower",
+      "latitude": 50.087222,
+      "longitude": 14.428056,
+      "order": 0,
+      "shortDescription": "A striking Gothic tower that once served as one of the original 13 city gates. In the 17th century, it was used to store gunpowder, which earned it its modern name."
+    },
+    {
+      "id": "stop_house_of_the_black_madonna",
+      "name": "House of the Black Madonna",
+      "latitude": 50.086944,
+      "longitude": 14.425556,
+      "order": 1,
+      "shortDescription": "A unique masterpiece of Czech Cubist architecture, easily identified by the Baroque statue of the Black Madonna on its corner. The building houses a spectacular Cubist cafe on the first floor."
+    },
+    {
+      "id": "stop_old_town_square",
+      "name": "Old Town Square",
+      "latitude": 50.0875,
+      "longitude": 14.421389,
+      "order": 2,
+      "shortDescription": "The historic core of Prague, untouched by modern development. The sprawling square is surrounded by stunning, colorful buildings spanning Gothic, Renaissance, and Baroque architectural styles."
+    },
+    {
+      "id": "stop_astronomical_clock",
+      "name": "Prague Astronomical Clock",
+      "latitude": 50.086968,
+      "longitude": 14.420653,
+      "order": 3,
+      "shortDescription": "Installed in 1410, it is the oldest still-operating astronomical clock in the world. Every hour, massive crowds gather to watch the mechanical procession of the Twelve Apostles."
+    },
+    {
+      "id": "stop_clementinum",
+      "name": "Clementinum",
+      "latitude": 50.086389,
+      "longitude": 14.416111,
+      "order": 4,
+      "shortDescription": "A vast complex of historic buildings that once housed a Jesuit college. It is famous for its breathtaking Baroque library hall, complete with intricate frescoes and rare antique globes."
+    },
+    {
+      "id": "stop_charles_bridge",
+      "name": "Charles Bridge",
+      "latitude": 50.086447,
+      "longitude": 14.411856,
+      "order": 5,
+      "shortDescription": "A historic stone bridge crossing the Vltava river, commissioned by King Charles IV in 1357. Lined with 30 statues of saints, it is one of the most romantic and photographed locations in Europe."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "madrid_royal",
+  "name": "Madrid: Habsburg Heritage & Royal Grandeur",
+  "city": "Madrid",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_puerta_del_sol",
+      "name": "Puerta del Sol",
+      "latitude": 40.416947,
+      "longitude": -3.703528,
+      "order": 0,
+      "shortDescription": "A bustling semi-circular square marking the center of the Spanish radial road network (Kilometer Zero). It features the famous clock whose bells mark the traditional eating of twelve grapes on New Year's Eve."
+    },
+    {
+      "id": "stop_plaza_mayor",
+      "name": "Plaza Mayor",
+      "latitude": 40.415364,
+      "longitude": -3.707398,
+      "order": 1,
+      "shortDescription": "A grand Renaissance square completely enclosed by residential buildings with 237 balconies facing inward. Historically, it hosted markets, bullfights, soccer games, and even public executions."
+    },
+    {
+      "id": "stop_mercado_de_san_miguel",
+      "name": "Mercado de San Miguel",
+      "latitude": 40.415392,
+      "longitude": -3.708944,
+      "order": 2,
+      "shortDescription": "A covered market built in 1916 famous for its elegant wrought-iron architecture. It is now a vibrant culinary center serving high-quality Spanish tapas, oysters, and wines."
+    },
+    {
+      "id": "stop_plaza_de_la_villa",
+      "name": "Plaza de la Villa",
+      "latitude": 40.415175,
+      "longitude": -3.710433,
+      "order": 3,
+      "shortDescription": "One of Madrid's best-preserved historical monuments, bordered by narrow streets. The buildings here represent the city's main architectural styles from the 15th, 16th, and 17th centuries."
+    },
+    {
+      "id": "stop_almudena_cathedral",
+      "name": "Almudena Cathedral",
+      "latitude": 40.415833,
+      "longitude": -3.714528,
+      "order": 4,
+      "shortDescription": "Madrid's main Catholic cathedral, consecrated by Pope John Paul II in 1993. Unusually for European cathedrals, its interior is distinctly modern, featuring pop-art style decor and brightly colored chapels."
+    },
+    {
+      "id": "stop_royal_palace_of_madrid",
+      "name": "Royal Palace of Madrid",
+      "latitude": 40.417955,
+      "longitude": -3.714312,
+      "order": 5,
+      "shortDescription": "The official residence of the Spanish royal family, though now only used for state ceremonies. With over 3,400 rooms, it is the largest functioning royal palace and largest by floor area in Europe."
+    }
+  ]
+}

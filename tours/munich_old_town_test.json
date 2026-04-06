@@ -1,0 +1,25 @@
+{
+  "id": "munich_old_town",
+  "name": "Munich Old Town Highlights",
+  "city": "Munich",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_marienplatz",
+      "name": "Marienplatz",
+      "latitude": 48.137154,
+      "longitude": 11.576124,
+      "order": 0,
+      "shortDescription": "The heart of Munich since 1158, home to the famous Glockenspiel."
+    },
+    {
+      "id": "stop_frauenkirche",
+      "name": "Frauenkirche",
+      "latitude": 48.138631,
+      "longitude": 11.573625,
+      "order": 1,
+      "shortDescription": "Munich's iconic twin-domed cathedral with the Devil's Footprint legend."
+    }
+  ]
+}

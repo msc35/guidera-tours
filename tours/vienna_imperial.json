@@ -1,0 +1,57 @@
+{
+  "id": "vienna_imperial",
+  "name": "Vienna: Imperial Splendor & Habsburg Heritage",
+  "city": "Vienna",
+  "category": "architecture",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_vienna_state_opera",
+      "name": "Vienna State Opera",
+      "latitude": 48.203,
+      "longitude": 16.3691,
+      "order": 0,
+      "shortDescription": "Opened in 1869 with a performance of Mozart's Don Giovanni, this Renaissance Revival building is one of the premier opera houses in the world. It was largely destroyed in WWII but meticulously reconstructed."
+    },
+    {
+      "id": "stop_albertina",
+      "name": "Albertina",
+      "latitude": 48.204595,
+      "longitude": 16.368213,
+      "order": 1,
+      "shortDescription": "Housed in the largest Habsburg residential palace, this museum holds one of the most important print rooms in the world. Its fully restored Habsburg State Rooms offer a glimpse into imperial living."
+    },
+    {
+      "id": "stop_hofburg_palace",
+      "name": "Hofburg Palace",
+      "latitude": 48.206507,
+      "longitude": 16.365262,
+      "order": 2,
+      "shortDescription": "The sprawling former principal imperial winter residence of the Habsburg dynasty. Today it serves as the official residence and workplace of the President of Austria."
+    },
+    {
+      "id": "stop_heldenplatz",
+      "name": "Heldenplatz",
+      "latitude": 48.206497,
+      "longitude": 16.363162,
+      "order": 3,
+      "shortDescription": "Heroes' Square is a historic public plaza in front of the Hofburg Palace, framed by two monumental equestrian statues. It gained dark historical infamy in 1938 when Adolf Hitler announced the Austrian Anschluss from its balcony."
+    },
+    {
+      "id": "stop_graben",
+      "name": "Graben",
+      "latitude": 48.208643,
+      "longitude": 16.369527,
+      "order": 4,
+      "shortDescription": "One of the most famous and exclusive streets in Vienna's innermost district. Its focal point is the elaborate Pestsäule (Plague Column), erected after the Great Plague epidemic of 1679."
+    },
+    {
+      "id": "stop_st_stephens_cathedral",
+      "name": "St. Stephen's Cathedral",
+      "latitude": 48.208493,
+      "longitude": 16.373118,
+      "order": 5,
+      "shortDescription": "The mother church of the Roman Catholic Archdiocese of Vienna, featuring a stunning multi-colored tile roof. Its towering south spire, affectionately known as 'Steffl', has dominated the city skyline for centuries."
+    }
+  ]
+}

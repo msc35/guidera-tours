@@ -1,0 +1,57 @@
+{
+  "id": "dublin_historic",
+  "name": "Dublin: Historic Core & City Legends",
+  "city": "Dublin",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_trinity_college_library",
+      "name": "Trinity College Library",
+      "latitude": 53.344093,
+      "longitude": -6.256425,
+      "order": 0,
+      "shortDescription": "The largest library in Ireland, famous for the magnificent Long Room adorned with marble busts of great philosophers. It is the permanent home of the Book of Kells, an illuminated manuscript created by Celtic monks around 800 AD."
+    },
+    {
+      "id": "stop_molly_malone_statue",
+      "name": "Molly Malone Statue",
+      "latitude": 53.343734,
+      "longitude": -6.260655,
+      "order": 1,
+      "shortDescription": "A bronze statue commemorating the semi-fictional fishmonger from Dublin's famous unofficial anthem. The statue has been affectionately nicknamed 'the tart with the cart' by locals."
+    },
+    {
+      "id": "stop_grafton_street",
+      "name": "Grafton Street",
+      "latitude": 53.342133,
+      "longitude": -6.259972,
+      "order": 2,
+      "shortDescription": "One of the two principal shopping streets in Dublin's city center. It is world-renowned for its lively street performers and buskers, some of whom have gone on to achieve international music fame."
+    },
+    {
+      "id": "stop_st_stephens_green",
+      "name": "St Stephen's Green",
+      "latitude": 53.338198,
+      "longitude": -6.259258,
+      "order": 3,
+      "shortDescription": "A beautiful Victorian public park that offers a tranquil retreat from the city hustle. During the 1916 Easter Rising, combatants briefly paused fighting every day so the park keeper could feed the ducks."
+    },
+    {
+      "id": "stop_dublin_castle",
+      "name": "Dublin Castle",
+      "latitude": 53.342886,
+      "longitude": -6.267428,
+      "order": 4,
+      "shortDescription": "For over 700 years, this complex served as the fortified seat of British rule in Ireland until 1922. Today, the lavish State Apartments are used for Irish presidential inaugurations and state receptions."
+    },
+    {
+      "id": "stop_christ_church_cathedral",
+      "name": "Christ Church Cathedral",
+      "latitude": 53.343468,
+      "longitude": -6.27105,
+      "order": 5,
+      "shortDescription": "Originally founded as a wooden Viking church around 1028, making it Dublin's oldest building. Its cavernous 12th-century crypt contains historical artifacts, including a mummified cat and rat found stuck in an organ pipe."
+    }
+  ]
+}

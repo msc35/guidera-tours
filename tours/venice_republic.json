@@ -1,0 +1,57 @@
+{
+  "id": "venice_republic",
+  "name": "Venice: The Heart of the Serene Republic",
+  "city": "Venice",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_piazza_san_marco",
+      "name": "Piazza San Marco",
+      "latitude": 45.434167,
+      "longitude": 12.338333,
+      "order": 0,
+      "shortDescription": "The principal public square of Venice, famously dubbed 'the drawing room of Europe' by Napoleon. It is the social and political epicenter of the city, often prone to 'acqua alta' (high water) flooding."
+    },
+    {
+      "id": "stop_st_marks_basilica",
+      "name": "St. Mark's Basilica",
+      "latitude": 45.434522,
+      "longitude": 12.339719,
+      "order": 1,
+      "shortDescription": "The cathedral church of Venice, known for its opulent Italo-Byzantine architecture. Its interior is entirely covered in radiant, real gold-leaf mosaics that earned it the nickname 'Church of Gold'."
+    },
+    {
+      "id": "stop_doges_palace",
+      "name": "Doge's Palace",
+      "latitude": 45.433722,
+      "longitude": 12.340472,
+      "order": 2,
+      "shortDescription": "A masterpiece of Venetian Gothic architecture that served as the residence of the Doge, the supreme authority of the former Republic. It contained government councils, courtrooms, and a heavily fortified prison."
+    },
+    {
+      "id": "stop_bridge_of_sighs",
+      "name": "Bridge of Sighs",
+      "latitude": 45.434056,
+      "longitude": 12.340917,
+      "order": 3,
+      "shortDescription": "An enclosed, white limestone bridge connecting the Doge's Palace to the New Prison. It gets its name from the romanticized idea that prisoners would sigh at their final view of beautiful Venice before being locked away."
+    },
+    {
+      "id": "stop_rialto_bridge",
+      "name": "Rialto Bridge",
+      "latitude": 45.437985,
+      "longitude": 12.335917,
+      "order": 4,
+      "shortDescription": "The oldest and most famous of the four bridges spanning the Grand Canal, completed in 1591. The elegant stone arch is lined with small artisan shops on both sides."
+    },
+    {
+      "id": "stop_t_fondaco_dei_tedeschi",
+      "name": "T Fondaco dei Tedeschi",
+      "latitude": 45.438497,
+      "longitude": 12.336495,
+      "order": 5,
+      "shortDescription": "Historically the headquarters and restricted living quarters for the city's German merchants. Now a luxury mall, its roof terrace offers one of the best free panoramic views over the Grand Canal."
+    }
+  ]
+}

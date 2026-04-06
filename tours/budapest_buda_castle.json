@@ -1,0 +1,57 @@
+{
+  "id": "budapest_buda_castle",
+  "name": "Budapest: Heights of the Buda Castle District",
+  "city": "Budapest",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_szechenyi_chain_bridge",
+      "name": "Széchenyi Chain Bridge",
+      "latitude": 47.498904,
+      "longitude": 19.040331,
+      "order": 0,
+      "shortDescription": "Opened in 1849, this was the first permanent bridge across the Danube River connecting Buda and Pest. It is guarded by massive stone lions that mysteriously lack tongues."
+    },
+    {
+      "id": "stop_clark_adam_ter_funicular",
+      "name": "Budapest Castle Hill Funicular",
+      "latitude": 47.498205,
+      "longitude": 19.039915,
+      "order": 1,
+      "shortDescription": "Operating since 1870, this vintage funicular railway takes passengers up the steep incline from the riverbank to the castle. The wooden, stepped carriages provide excellent views during the short ascent."
+    },
+    {
+      "id": "stop_buda_castle",
+      "name": "Buda Castle",
+      "latitude": 47.4962,
+      "longitude": 19.0396,
+      "order": 2,
+      "shortDescription": "The historical castle and palace complex of the Hungarian kings, first completed in 1265. It has been destroyed and rebuilt numerous times, mostly recently after the heavy siege of Budapest in World War II."
+    },
+    {
+      "id": "stop_sandor_palace",
+      "name": "Sándor Palace",
+      "latitude": 47.498305,
+      "longitude": 19.038038,
+      "order": 3,
+      "shortDescription": "A beautiful Neoclassical building that serves as the official residence and workspace of the President of Hungary. The ceremonial changing of the guards takes place in the square right in front."
+    },
+    {
+      "id": "stop_matthias_church",
+      "name": "Matthias Church",
+      "latitude": 47.502096,
+      "longitude": 19.034371,
+      "order": 4,
+      "shortDescription": "A spectacular late-Gothic church topped with diamond-patterned Zsolnay ceramic tiles. It served as a coronation church for Hungarian kings and was briefly converted into a mosque during the Ottoman occupation."
+    },
+    {
+      "id": "stop_fishermans_bastion",
+      "name": "Fisherman's Bastion",
+      "latitude": 47.502213,
+      "longitude": 19.034789,
+      "order": 5,
+      "shortDescription": "A fairy-tale viewing terrace constructed in the late 19th century. Its seven distinctive stone towers represent the seven Magyar tribes who founded the Hungarian nation in the 9th century."
+    }
+  ]
+}

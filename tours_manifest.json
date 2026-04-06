@@ -95,6 +95,41 @@
       "id": "prague_old_town",
       "version": 1,
       "fileName": "prague_old_town.json"
+    },
+    {
+      "id": "kyoto_higashiyama_trail",
+      "version": 1,
+      "fileName": "kyoto_higashiyama_trail.json"
+    },
+    {
+      "id": "vienna_imperial",
+      "version": 1,
+      "fileName": "vienna_imperial.json"
+    },
+    {
+      "id": "budapest_buda_castle",
+      "version": 1,
+      "fileName": "budapest_buda_castle.json"
+    },
+    {
+      "id": "venice_republic",
+      "version": 1,
+      "fileName": "venice_republic.json"
+    },
+    {
+      "id": "dublin_historic",
+      "version": 1,
+      "fileName": "dublin_historic.json"
+    },
+    {
+      "id": "athens_ancient",
+      "version": 1,
+      "fileName": "athens_ancient.json"
+    },
+    {
+      "id": "antalya_kaleici",
+      "version": 1,
+      "fileName": "antalya_kaleici.json"
     }
   ]
 }

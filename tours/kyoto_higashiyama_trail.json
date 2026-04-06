@@ -1,0 +1,57 @@
+{
+  "id": "kyoto_higashiyama_trail",
+  "name": "Kyoto: The Higashiyama Temple Trail",
+  "city": "Kyoto",
+  "category": "cultural",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_kiyomizu_dera",
+      "name": "Kiyomizu-dera",
+      "latitude": 34.994856,
+      "longitude": 135.785046,
+      "order": 0,
+      "shortDescription": "A spectacular wooden temple founded in 778, famous for its massive stage jutting out over the hillside. Remarkably, not a single nail was used in the construction of its main hall."
+    },
+    {
+      "id": "stop_sannenzaka",
+      "name": "Sannenzaka",
+      "latitude": 34.996614,
+      "longitude": 135.782352,
+      "order": 1,
+      "shortDescription": "A beautifully preserved, stone-paved pedestrian street lined with traditional wooden machiya houses. Legend says that if you fall on these sloping steps, you will face three years of bad luck."
+    },
+    {
+      "id": "stop_hokan_ji",
+      "name": "Hokan-ji Temple (Yasaka Pagoda)",
+      "latitude": 34.998495,
+      "longitude": 135.779261,
+      "order": 2,
+      "shortDescription": "This elegant five-story pagoda is the last remaining structure of a 6th-century temple complex. It stands at 46 meters tall and serves as the most iconic visual landmark of the Higashiyama district."
+    },
+    {
+      "id": "stop_kodai_ji",
+      "name": "Kodai-ji Temple",
+      "latitude": 35.000494,
+      "longitude": 135.78119,
+      "order": 3,
+      "shortDescription": "Established in 1606 by the widow of Toyotomi Hideyoshi to pray for her late husband. It features exquisite Zen gardens, richly decorated interiors, and a serene bamboo grove."
+    },
+    {
+      "id": "stop_maruyama_park",
+      "name": "Maruyama Park",
+      "latitude": 35.003323,
+      "longitude": 135.780182,
+      "order": 4,
+      "shortDescription": "Kyoto's oldest public park, renowned as the city's premier destination for cherry blossom viewing. The centerpiece is a massive, centuries-old weeping cherry tree that is illuminated at night."
+    },
+    {
+      "id": "stop_yasaka_shrine",
+      "name": "Yasaka Shrine",
+      "latitude": 35.003668,
+      "longitude": 135.778506,
+      "order": 5,
+      "shortDescription": "Once known as Gion Shrine, this vibrant Shinto sanctuary was founded over 1,350 years ago. It is famous for hosting the Gion Matsuri, one of Japan's largest and most famous summer festivals."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "antalya_kaleici",
+  "name": "Antalya: Secrets of Kaleiçi Old Town",
+  "city": "Antalya",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_hadrians_gate",
+      "name": "Hadrian's Gate",
+      "latitude": 36.885065,
+      "longitude": 30.707548,
+      "order": 0,
+      "shortDescription": "A monumental triumphal arch built in 130 AD to commemorate the visit of the Roman Emperor Hadrian. It features three beautifully decorated arched gates and serves as the majestic entrance to the old town."
+    },
+    {
+      "id": "stop_kesik_minare",
+      "name": "Broken Minaret (Kesik Minare)",
+      "latitude": 36.882855,
+      "longitude": 30.706132,
+      "order": 1,
+      "shortDescription": "Originally a Roman temple, converted into a Byzantine church, and later a mosque. The building's iconic minaret was struck by lightning in the 19th century, leaving a jagged 'broken' top that survived for over a century until recent restorations."
+    },
+    {
+      "id": "stop_hidirlik_tower",
+      "name": "Hıdırlık Tower",
+      "latitude": 36.881261,
+      "longitude": 30.703273,
+      "order": 2,
+      "shortDescription": "A landmark Roman tower built from yellow stone in the 2nd century AD where the city walls meet the sea. Historians debate whether it was originally built as a lighthouse or a grand mausoleum."
+    },
+    {
+      "id": "stop_karaalioglu_park",
+      "name": "Karaalioğlu Park",
+      "latitude": 36.879788,
+      "longitude": 30.705149,
+      "order": 3,
+      "shortDescription": "A lush, expansive park perched directly on the high cliffs over the Mediterranean. The viewing terraces offer breathtaking vistas of the sea and the rugged Taurus Mountains in the distance."
+    },
+    {
+      "id": "stop_antalya_marina",
+      "name": "Antalya Marina",
+      "latitude": 36.883719,
+      "longitude": 30.702206,
+      "order": 4,
+      "shortDescription": "Nestled in a natural cove, this historic Roman harbor brought great wealth to the ancient city. Today it is filled with traditional wooden gulet boats and surrounded by cafes built into the old city walls."
+    },
+    {
+      "id": "stop_yivli_minaret",
+      "name": "Yivli Minaret Mosque",
+      "latitude": 36.886676,
+      "longitude": 30.704603,
+      "order": 5,
+      "shortDescription": "Constructed by the Seljuk Sultan Alaeddin Keykubat in the 13th century. The unique, elegant fluted minaret, decorated with dark blue tiles, has become the defining symbol of Antalya."
+    }
+  ]
+}

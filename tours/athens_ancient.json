@@ -1,0 +1,57 @@
+{
+  "id": "athens_ancient",
+  "name": "Athens: The Acropolis & Ancient Footsteps",
+  "city": "Athens",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_odeon_of_herodes_atticus",
+      "name": "Odeon of Herodes Atticus",
+      "latitude": 37.970756,
+      "longitude": 23.724444,
+      "order": 0,
+      "shortDescription": "A magnificent stone Roman theater structure completed in 161 AD on the southwest slope of the Acropolis. Restored in the 1950s, it still actively hosts world-class musical and theatrical performances under the stars."
+    },
+    {
+      "id": "stop_parthenon",
+      "name": "Parthenon",
+      "latitude": 37.971522,
+      "longitude": 23.726581,
+      "order": 1,
+      "shortDescription": "The crown jewel of the Acropolis, dedicated to the goddess Athena and completed in 438 BC. It represents the zenith of the Doric order and is an enduring symbol of Ancient Greece and democracy."
+    },
+    {
+      "id": "stop_erechtheion",
+      "name": "Erechtheion",
+      "latitude": 37.972175,
+      "longitude": 23.726597,
+      "order": 2,
+      "shortDescription": "An ancient Greek temple famous for its elegant Porch of the Caryatids, where six sculpted female figures serve as supporting columns. Legend states this is the exact spot where Athena and Poseidon battled for patronage of the city."
+    },
+    {
+      "id": "stop_areopagus_hill",
+      "name": "Areopagus Hill",
+      "latitude": 37.972233,
+      "longitude": 23.723383,
+      "order": 3,
+      "shortDescription": "A prominent rock outcropping that served as the ancient high court for deliberate homicide. It is also known as Mars Hill, where the Apostle Paul famously delivered a sermon to the Athenians."
+    },
+    {
+      "id": "stop_ancient_agora",
+      "name": "Ancient Agora of Athens",
+      "latitude": 37.974917,
+      "longitude": 23.722425,
+      "order": 4,
+      "shortDescription": "The commercial, political, and social heart of ancient Athens. This is the very marketplace where philosophers like Socrates engaged citizens in debate and the concept of democracy was born."
+    },
+    {
+      "id": "stop_temple_of_hephaestus",
+      "name": "Temple of Hephaestus",
+      "latitude": 37.975653,
+      "longitude": 23.721444,
+      "order": 5,
+      "shortDescription": "Perched atop Agoraios Kolonos hill, this is the most well-preserved ancient Greek temple in the world. Dedicated to the god of craftsmanship, it remained largely intact because it was converted into a Christian church in the 7th century."
+    }
+  ]
+}

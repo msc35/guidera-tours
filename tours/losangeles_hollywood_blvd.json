@@ -1,0 +1,57 @@
+{
+  "id": "losangeles_hollywood_blvd",
+  "name": "Los Angeles: The Glamour of Hollywood Boulevard",
+  "city": "Los Angeles",
+  "category": "cultural",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_hollywood_walk_of_fame",
+      "name": "Hollywood Walk of Fame",
+      "latitude": 34.101569,
+      "longitude": -118.338692,
+      "order": 0,
+      "shortDescription": "Comprising over 2,700 five-pointed terrazzo and brass stars embedded in the sidewalks. It serves as an evolving public monument to the achievements of the entertainment industry."
+    },
+    {
+      "id": "stop_tcl_chinese_theatre",
+      "name": "TCL Chinese Theatre",
+      "latitude": 34.102029,
+      "longitude": -118.340974,
+      "order": 1,
+      "shortDescription": "Opened in 1927, this exotic movie palace has hosted countless glamorous film premieres. Its concrete forecourt bears the handprints, footprints, and signatures of Hollywood's biggest legends."
+    },
+    {
+      "id": "stop_dolby_theatre",
+      "name": "Dolby Theatre",
+      "latitude": 34.102288,
+      "longitude": -118.340154,
+      "order": 2,
+      "shortDescription": "The permanent home of the annual Academy Awards ceremonies since 2002. Its grand staircase is lined with glass pillars displaying the names of every Best Picture winner in Oscar history."
+    },
+    {
+      "id": "stop_el_capitan_theatre",
+      "name": "El Capitan Theatre",
+      "latitude": 34.101185,
+      "longitude": -118.339794,
+      "order": 3,
+      "shortDescription": "A fully restored, opulent 1926 movie palace now operated by The Walt Disney Company. It features elaborate pre-show entertainment and a massive Wurlitzer pipe organ with over 2,500 pipes."
+    },
+    {
+      "id": "stop_hollywood_roosevelt_hotel",
+      "name": "Hollywood Roosevelt Hotel",
+      "latitude": 34.101292,
+      "longitude": -118.341852,
+      "order": 4,
+      "shortDescription": "A historic Spanish-style hotel that hosted the very first Academy Awards in 1929. Marilyn Monroe lived here for two years, and her ghost is rumored to still haunt a full-length mirror in the lobby."
+    },
+    {
+      "id": "stop_madame_tussauds_hollywood",
+      "name": "Madame Tussauds Hollywood",
+      "latitude": 34.102047,
+      "longitude": -118.341496,
+      "order": 5,
+      "shortDescription": "The renowned wax museum where visitors can interact closely with uncannily realistic figures of celebrities. It famously lacks velvet ropes, encouraging guests to touch and pose directly with the displays."
+    }
+  ]
+}

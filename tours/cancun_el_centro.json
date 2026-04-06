@@ -1,0 +1,57 @@
+{
+  "id": "cancun_el_centro",
+  "name": "Cancun: Heart of El Centro",
+  "city": "Cancun",
+  "category": "local",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_parque_las_palapas",
+      "name": "Parque Las Palapas",
+      "latitude": 21.161836,
+      "longitude": -86.82688,
+      "order": 0,
+      "shortDescription": "The main square and true local hub of downtown Cancun. In the evenings, it comes alive with food carts selling marquesitas, live music, and families enjoying the open-air plaza."
+    },
+    {
+      "id": "stop_catedral_santisima_trinidad",
+      "name": "Catedral de la Santísima Trinidad",
+      "latitude": 21.160655,
+      "longitude": -86.8265,
+      "order": 1,
+      "shortDescription": "A modern, modest Catholic church situated right near the main park. It reflects the newer, growing population of downtown Cancun compared to Mexico's colonial-era cathedrals."
+    },
+    {
+      "id": "stop_mercado_28",
+      "name": "Mercado 28",
+      "latitude": 21.161048,
+      "longitude": -86.830933,
+      "order": 2,
+      "shortDescription": "A massive, maze-like flea market spanning an entire city block. It is the best place in the city to practice your haggling skills for authentic Mexican pottery, silver jewelry, and souvenirs."
+    },
+    {
+      "id": "stop_plaza_bonita",
+      "name": "Plaza Bonita",
+      "latitude": 21.161109,
+      "longitude": -86.83158,
+      "order": 3,
+      "shortDescription": "Built to resemble a traditional Mexican colonial village, this charming shopping plaza sits adjacent to Mercado 28. It offers a quieter, more relaxed atmosphere with artisan shops and cafes."
+    },
+    {
+      "id": "stop_monumento_a_la_historia",
+      "name": "Monumento a la Historia",
+      "latitude": 21.162085,
+      "longitude": -86.825225,
+      "order": 4,
+      "shortDescription": "Located on a bustling roundabout on Avenida Tulum, this distinct monument pays tribute to Mexican history. Its bold, modern design celebrates the nation's indigenous and revolutionary roots."
+    },
+    {
+      "id": "stop_palacio_municipal_cancun",
+      "name": "Palacio Municipal de Cancún",
+      "latitude": 21.161986,
+      "longitude": -86.824364,
+      "order": 5,
+      "shortDescription": "The city hall and administrative center for the municipality of Benito Juárez. The large plaza in front often hosts civic events, local protests, and cultural exhibitions."
+    }
+  ]
+}

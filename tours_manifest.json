@@ -130,6 +130,41 @@
       "id": "antalya_kaleici",
       "version": 1,
       "fileName": "antalya_kaleici.json"
+    },
+    {
+      "id": "lasvegas_strip_center",
+      "version": 1,
+      "fileName": "lasvegas_strip_center.json"
+    },
+    {
+      "id": "losangeles_hollywood_blvd",
+      "version": 1,
+      "fileName": "losangeles_hollywood_blvd.json"
+    },
+    {
+      "id": "miami_south_beach_deco",
+      "version": 1,
+      "fileName": "miami_south_beach_deco.json"
+    },
+    {
+      "id": "sydney_harbour_rocks",
+      "version": 1,
+      "fileName": "sydney_harbour_rocks.json"
+    },
+    {
+      "id": "marrakesh_medina_wonders",
+      "version": 1,
+      "fileName": "marrakesh_medina_wonders.json"
+    },
+    {
+      "id": "cancun_el_centro",
+      "version": 1,
+      "fileName": "cancun_el_centro.json"
+    },
+    {
+      "id": "copenhagen_historic_center",
+      "version": 1,
+      "fileName": "copenhagen_historic_center.json"
     }
   ]
 }

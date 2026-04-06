@@ -1,0 +1,57 @@
+{
+  "id": "lasvegas_strip_center",
+  "name": "Las Vegas: The Center of the Neon Strip",
+  "city": "Las Vegas",
+  "category": "architecture",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_bellagio_fountains",
+      "name": "Fountains of Bellagio",
+      "latitude": 36.112625,
+      "longitude": -115.176722,
+      "order": 0,
+      "shortDescription": "A spectacular choreographed water feature set in an 8-acre artificial lake. The highest-shooting nozzles can blast water up to 460 feet into the Las Vegas sky."
+    },
+    {
+      "id": "stop_caesars_palace",
+      "name": "Caesars Palace",
+      "latitude": 36.116168,
+      "longitude": -115.174499,
+      "order": 1,
+      "shortDescription": "An iconic Roman-themed luxury hotel and casino opened in 1966. Its Colosseum theater was custom-built for Celine Dion and features one of the largest LED screens in North America."
+    },
+    {
+      "id": "stop_linq_promenade",
+      "name": "The LINQ Promenade",
+      "latitude": 36.117698,
+      "longitude": -115.168152,
+      "order": 2,
+      "shortDescription": "A bustling open-air retail and entertainment district. It is anchored by the High Roller, a 550-foot-tall observation wheel that takes 30 minutes to complete a single revolution."
+    },
+    {
+      "id": "stop_flamingo_wildlife_habitat",
+      "name": "Flamingo Wildlife Habitat",
+      "latitude": 36.116744,
+      "longitude": -115.169977,
+      "order": 3,
+      "shortDescription": "A serene, 15-acre tropical oasis hidden in the middle of a casino. It houses a flock of live Chilean flamingos, brown pelicans, and colorful koi fish."
+    },
+    {
+      "id": "stop_paris_eiffel_tower",
+      "name": "Eiffel Tower Viewing Deck",
+      "latitude": 36.11248,
+      "longitude": -115.172242,
+      "order": 4,
+      "shortDescription": "A half-scale replica of the famous Parisian landmark standing 46 stories tall. It offers stunning, unobstructed 360-degree views of the Strip and the surrounding Nevada desert."
+    },
+    {
+      "id": "stop_the_cosmopolitan",
+      "name": "The Cosmopolitan",
+      "latitude": 36.109841,
+      "longitude": -115.174154,
+      "order": 5,
+      "shortDescription": "A sleek, modern resort known for its chic design and multi-story crystal chandelier bar. It famously features a secret, unnamed pizzeria hidden down an unmarked hallway on the third floor."
+    }
+  ]
+}

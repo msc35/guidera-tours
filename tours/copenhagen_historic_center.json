@@ -1,0 +1,65 @@
+{
+  "id": "copenhagen_historic_center",
+  "name": "Copenhagen: Royal Palaces & Canals",
+  "city": "Copenhagen",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_city_hall_square",
+      "name": "City Hall Square (Rådhuspladsen)",
+      "latitude": 55.676111,
+      "longitude": 12.568333,
+      "order": 0,
+      "shortDescription": "The bustling civic heart of the city, dominated by the highly ornate City Hall. A golden statue of Bishop Absalon, the legendary founder of Copenhagen, overlooks the square."
+    },
+    {
+      "id": "stop_stroget",
+      "name": "Strøget",
+      "latitude": 55.678125,
+      "longitude": 12.576081,
+      "order": 1,
+      "shortDescription": "One of the longest pedestrian shopping streets in Europe, spanning 1.1 kilometers. It was controversially closed to cars in 1962, sparking a pedestrian-friendly revolution in urban planning."
+    },
+    {
+      "id": "stop_rundetaarn",
+      "name": "Rundetaarn (Round Tower)",
+      "latitude": 55.681389,
+      "longitude": 12.575833,
+      "order": 2,
+      "shortDescription": "A 17th-century tower built as an astronomical observatory. Uniquely, it lacks stairs; instead, a wide, spiraling equestrian ramp allows horses and carriages to ride all the way to the top."
+    },
+    {
+      "id": "stop_christiansborg_palace",
+      "name": "Christiansborg Palace",
+      "latitude": 55.676111,
+      "longitude": 12.580556,
+      "order": 3,
+      "shortDescription": "Located on the tiny island of Slotsholmen, it uniquely houses all three supreme parts of the Danish government. You can view the ruins of the original 1167 castle excavated directly beneath the current palace."
+    },
+    {
+      "id": "stop_borsen",
+      "name": "Børsen (Old Stock Exchange)",
+      "latitude": 55.675556,
+      "longitude": 12.584167,
+      "order": 4,
+      "shortDescription": "A stunning Dutch Renaissance building commissioned by King Christian IV. It is most famous for its distinctive spire, formed by the intertwined tails of four stone dragons."
+    },
+    {
+      "id": "stop_nyhavn",
+      "name": "Nyhavn",
+      "latitude": 55.680556,
+      "longitude": 12.590278,
+      "order": 5,
+      "shortDescription": "The iconic 17th-century waterfront canal lined with brightly colored townhouses and historical wooden ships. Fairy tale author Hans Christian Andersen lived in several different houses along this canal throughout his life."
+    },
+    {
+      "id": "stop_amalienborg",
+      "name": "Amalienborg",
+      "latitude": 55.684167,
+      "longitude": 12.593333,
+      "order": 6,
+      "shortDescription": "The winter residence of the Danish royal family, consisting of four identical classical palace façades surrounding an octagonal courtyard. The changing of the Royal Guard takes place here daily at noon."
+    }
+  ]
+}

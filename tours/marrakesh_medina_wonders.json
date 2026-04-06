@@ -1,0 +1,57 @@
+{
+  "id": "marrakesh_medina_wonders",
+  "name": "Marrakesh: Magic of the Medina",
+  "city": "Marrakesh",
+  "category": "cultural",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_koutoubia_mosque",
+      "name": "Koutoubia Mosque",
+      "latitude": 31.623889,
+      "longitude": -7.993611,
+      "order": 0,
+      "shortDescription": "The largest mosque in Marrakesh, featuring a stunning 77-meter minaret completed under the reign of the Almohad Caliphate in 1195. It served as the architectural inspiration for the Giralda in Seville."
+    },
+    {
+      "id": "stop_jemaa_el_fnaa",
+      "name": "Jemaa el-Fnaa",
+      "latitude": 31.625833,
+      "longitude": -7.989167,
+      "order": 1,
+      "shortDescription": "The chaotic, beating heart of Marrakesh. By day it is a sprawling market, but by night it transforms into a massive open-air spectacle of food stalls, storytellers, and snake charmers."
+    },
+    {
+      "id": "stop_souk_semmarine",
+      "name": "Souk Semmarine",
+      "latitude": 31.627255,
+      "longitude": -7.988267,
+      "order": 2,
+      "shortDescription": "The main artery of the city's labyrinthine markets. It is an overwhelming sensory experience filled with the smells of spices, the brilliant colors of Berber carpets, and the clanging of metalworkers."
+    },
+    {
+      "id": "stop_le_jardin_secret",
+      "name": "Le Jardin Secret",
+      "latitude": 31.630456,
+      "longitude": -7.989025,
+      "order": 3,
+      "shortDescription": "A magnificent restored palace dating back to the Saadian Dynasty, hidden behind high walls in the Medina. It features an incredibly complex underground irrigation system and beautifully symmetrical Islamic gardens."
+    },
+    {
+      "id": "stop_medersa_ben_youssef",
+      "name": "Medersa Ben Youssef",
+      "latitude": 31.632008,
+      "longitude": -7.986422,
+      "order": 4,
+      "shortDescription": "Once the largest Islamic college in Morocco, housing up to 900 students. It is a breathtaking showcase of Moroccan artisanry, completely covered in intricate cedar carving, stucco work, and geometric zellij tilework."
+    },
+    {
+      "id": "stop_marrakech_museum",
+      "name": "Marrakech Museum",
+      "latitude": 31.631522,
+      "longitude": -7.986161,
+      "order": 5,
+      "shortDescription": "Located within the late 19th-century Dar Mnebhi Palace. Its central courtyard is breathtaking, featuring a monumental suspended brass chandelier weighing over a ton."
+    }
+  ]
+}

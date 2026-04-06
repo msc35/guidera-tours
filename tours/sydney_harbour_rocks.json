@@ -1,0 +1,57 @@
+{
+  "id": "sydney_harbour_rocks",
+  "name": "Sydney: The Rocks & Harbour Icons",
+  "city": "Sydney",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_circular_quay",
+      "name": "Circular Quay",
+      "latitude": -33.861756,
+      "longitude": 151.210884,
+      "order": 0,
+      "shortDescription": "The bustling main ferry transport hub situated on the edge of Sydney Cove. It is the perfect vantage point to view both the Opera House and the Harbour Bridge simultaneously."
+    },
+    {
+      "id": "stop_sydney_opera_house",
+      "name": "Sydney Opera House",
+      "latitude": -33.856784,
+      "longitude": 151.215297,
+      "order": 1,
+      "shortDescription": "A masterpiece of 20th-century architecture designed by Danish architect Jørn Utzon. Its famous gleaming white 'sails' are actually covered with over one million ceramic tiles."
+    },
+    {
+      "id": "stop_royal_botanic_garden",
+      "name": "Royal Botanic Garden",
+      "latitude": -33.862425,
+      "longitude": 151.216668,
+      "order": 2,
+      "shortDescription": "Established in 1816, making it the oldest scientific institution in Australia. This lush, 74-acre waterfront oasis is home to thousands of native plant species and cheeky sulphur-crested cockatoos."
+    },
+    {
+      "id": "stop_customs_house",
+      "name": "Customs House",
+      "latitude": -33.862145,
+      "longitude": 151.211029,
+      "order": 3,
+      "shortDescription": "Built in 1845 to collect taxes on imported goods entering the colony. Today, its impressive glass floor reveals a spectacular, highly detailed scale model of downtown Sydney."
+    },
+    {
+      "id": "stop_rocks_discovery_museum",
+      "name": "The Rocks Discovery Museum",
+      "latitude": -33.859039,
+      "longitude": 151.208573,
+      "order": 4,
+      "shortDescription": "Housed in a restored 1850s sandstone warehouse, this free museum tells the story of The Rocks area. It traces the area's history from pre-European aboriginal days to the present."
+    },
+    {
+      "id": "stop_sydney_harbour_bridge",
+      "name": "Sydney Harbour Bridge Pylon Lookout",
+      "latitude": -33.854653,
+      "longitude": 151.21008,
+      "order": 5,
+      "shortDescription": "Affectionately known as 'The Coathanger', it is the largest steel arch bridge in the world. The South East Pylon houses a museum detailing its dangerous construction and offers a breathtaking open-air viewing deck."
+    }
+  ]
+}

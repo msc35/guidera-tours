@@ -1,0 +1,57 @@
+{
+  "id": "miami_south_beach_deco",
+  "name": "Miami: South Beach Art Deco Walk",
+  "city": "Miami",
+  "category": "architecture",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_colony_hotel",
+      "name": "Colony Hotel",
+      "latitude": 25.777085,
+      "longitude": -80.131669,
+      "order": 0,
+      "shortDescription": "Built in 1935, this is one of the most photographed Art Deco hotels on Ocean Drive. Its iconic blue neon sign frequently appears in movies and television shows depicting Miami Beach."
+    },
+    {
+      "id": "stop_art_deco_welcome_center",
+      "name": "Art Deco Welcome Center",
+      "latitude": 25.780181,
+      "longitude": -80.13031,
+      "order": 1,
+      "shortDescription": "The headquarters of the Miami Design Preservation League. They were instrumental in saving the historic district's pastel-colored architecture from demolition in the 1970s."
+    },
+    {
+      "id": "stop_lummus_park",
+      "name": "Lummus Park",
+      "latitude": 25.781198,
+      "longitude": -80.130172,
+      "order": 2,
+      "shortDescription": "A lush, palm-fringed public park that separates the bustling Ocean Drive from the sandy beach. It serves as the lively, muscular playground for Miami's rollerbladers, volleyball players, and sunbathers."
+    },
+    {
+      "id": "stop_villa_casa_casuarina",
+      "name": "The Villa Casa Casuarina",
+      "latitude": 25.781604,
+      "longitude": -80.130495,
+      "order": 3,
+      "shortDescription": "Formerly the opulent mansion of fashion designer Gianni Versace, who was tragically assassinated on its front steps in 1997. It is now a luxury boutique hotel featuring a stunning 24-karat gold-tiled swimming pool."
+    },
+    {
+      "id": "stop_espanola_way",
+      "name": "Española Way",
+      "latitude": 25.787123,
+      "longitude": -80.131557,
+      "order": 4,
+      "shortDescription": "A historic, pedestrian-only street designed in the 1920s to resemble romantic Mediterranean villages in Spain and France. Today, its pink stucco buildings house vibrant tapas restaurants and bohemian cafes."
+    },
+    {
+      "id": "stop_lincoln_road_mall",
+      "name": "Lincoln Road Mall",
+      "latitude": 25.790695,
+      "longitude": -80.136267,
+      "order": 5,
+      "shortDescription": "A premier outdoor pedestrian promenade designed in the 1950s by legendary architect Morris Lapidus. It stretches east to west across Miami Beach and offers world-class dining, shopping, and people-watching."
+    }
+  ]
+}

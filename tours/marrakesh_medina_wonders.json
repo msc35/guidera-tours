@@ -52,6 +52,70 @@
       "longitude": -7.986161,
       "order": 5,
       "shortDescription": "Located within the late 19th-century Dar Mnebhi Palace. Its central courtyard is breathtaking, featuring a monumental suspended brass chandelier weighing over a ton."
+    },
+    {
+      "id": "stop_souk_dyers",
+      "name": "Souk des Teinturiers (Dyers' Souk)",
+      "latitude": 31.6285,
+      "longitude": -7.9885,
+      "order": 6,
+      "shortDescription": "One of the most photogenic parts of the Medina, where brilliant hanks of freshly dyed wool and silk are strung up across the narrow, bamboo-covered alleys to dry in the sun."
+    },
+    {
+      "id": "stop_dar_si_said",
+      "name": "Dar Si Said Museum",
+      "latitude": 31.6241,
+      "longitude": -7.9839,
+      "order": 7,
+      "shortDescription": "A beautiful 19th-century palace that now serves as the Museum of Moroccan Arts, displaying exquisite historic woodwork, antique carpets, and traditional Berber jewelry."
+    },
+    {
+      "id": "stop_bahia_palace",
+      "name": "Bahia Palace",
+      "latitude": 31.6217,
+      "longitude": -7.9833,
+      "order": 8,
+      "shortDescription": "A sprawling, breathtaking 19th-century palace built for the Grand Vizier. Its name means 'brilliance', perfectly describing its intricately painted wooden ceilings and massive zellij courtyards."
+    },
+    {
+      "id": "stop_mellah",
+      "name": "The Mellah (Jewish Quarter)",
+      "latitude": 31.6200,
+      "longitude": -7.9825,
+      "order": 9,
+      "shortDescription": "The historic Jewish quarter of Marrakesh, created in 1558. It offers a distinct architectural contrast to the rest of the Medina with its unique outward-facing balconies and specialized spice souks."
+    },
+    {
+      "id": "stop_el_badi_palace",
+      "name": "El Badi Palace",
+      "latitude": 31.6183,
+      "longitude": -7.9856,
+      "order": 10,
+      "shortDescription": "The grand, sunken ruined remnants of a 16th-century palace once paved entirely with gold and Italian marble. Today, its massive sandstone walls are famously home to nesting white storks."
+    },
+    {
+      "id": "stop_saadian_tombs",
+      "name": "Saadian Tombs",
+      "latitude": 31.6172,
+      "longitude": -7.9894,
+      "order": 11,
+      "shortDescription": "A royal necropolis sealed off and hidden for centuries until rediscovered by aerial photography in 1917. The mausoleums feature some of the finest cedar wood carvings and tilework in all of Morocco."
+    },
+    {
+      "id": "stop_kasbah_mosque",
+      "name": "Kasbah Mosque",
+      "latitude": 31.6178,
+      "longitude": -7.9892,
+      "order": 12,
+      "shortDescription": "Located right next to the Saadian Tombs, this impressive 12th-century Almohad mosque features a beautifully decorated minaret adorned with striking, geometric turquoise tiles."
+    },
+    {
+      "id": "stop_bab_agnaou",
+      "name": "Bab Agnaou",
+      "latitude": 31.6167,
+      "longitude": -7.9900,
+      "order": 13,
+      "shortDescription": "The incredibly ornate, monumental 12th-century stone gate that serves as the official royal entrance to the Kasbah district. It features beautiful, concentric alternating layers of red and blueish stone."
     }
   ]
 }

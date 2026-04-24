@@ -52,6 +52,70 @@
       "longitude": 151.21008,
       "order": 5,
       "shortDescription": "Affectionately known as 'The Coathanger', it is the largest steel arch bridge in the world. The South East Pylon houses a museum detailing its dangerous construction and offers a breathtaking open-air viewing deck."
+    },
+    {
+      "id": "stop_dawes_point_park",
+      "name": "Dawes Point Park",
+      "latitude": -33.8541,
+      "longitude": 151.2095,
+      "order": 6,
+      "shortDescription": "Located directly underneath the massive steel span of the Harbour Bridge. It features the historic remains of a 1790 artillery battery originally built to defend Sydney Cove from naval attacks."
+    },
+    {
+      "id": "stop_campbells_cove",
+      "name": "Campbell's Cove",
+      "latitude": -33.8572,
+      "longitude": 151.2100,
+      "order": 7,
+      "shortDescription": "A picturesque waterfront promenade lined with beautifully restored 19th-century sandstone storehouses. It provides one of the absolute best, unobstructed photo angles of the Sydney Opera House."
+    },
+    {
+      "id": "stop_cadmans_cottage",
+      "name": "Cadmans Cottage",
+      "latitude": -33.8584,
+      "longitude": 151.2093,
+      "order": 8,
+      "shortDescription": "Built in 1816, this is one of only a handful of Sydney buildings that survive from the first 30 years of the colony. It was originally built right on the water's edge before land reclamation."
+    },
+    {
+      "id": "stop_argyle_cut",
+      "name": "The Argyle Cut",
+      "latitude": -33.8587,
+      "longitude": 151.2065,
+      "order": 9,
+      "shortDescription": "A monumental tunnel connecting The Rocks to Millers Point. It was brutally hand-hewn through solid sandstone by convict labor in the 1840s using only picks, crowbars, and eventual explosives."
+    },
+    {
+      "id": "stop_observatory_hill",
+      "name": "Observatory Hill",
+      "latitude": -33.8595,
+      "longitude": 151.2045,
+      "order": 10,
+      "shortDescription": "A high, grassy vantage point offering sweeping panoramic views over the western harbor. It is crowned by the historic, copper-domed Sydney Observatory built in 1858."
+    },
+    {
+      "id": "stop_barangaroo_reserve",
+      "name": "Barangaroo Reserve",
+      "latitude": -33.8565,
+      "longitude": 151.2023,
+      "order": 11,
+      "shortDescription": "A spectacular, award-winning waterfront park that recreated the natural, pre-colonial headland. It features 75,000 native Australian plants and beautiful terraced sandstone blocks plunging into the water."
+    },
+    {
+      "id": "stop_barangaroo_south",
+      "name": "Barangaroo South",
+      "latitude": -33.8625,
+      "longitude": 151.2015,
+      "order": 12,
+      "shortDescription": "Sydney's newest and sleekest dining and commercial precinct. It is dramatically anchored by the twisting, petal-shaped glass skyscraper of the ultra-luxurious Crown Sydney."
+    },
+    {
+      "id": "stop_king_street_wharf",
+      "name": "King Street Wharf",
+      "latitude": -33.8675,
+      "longitude": 151.2010,
+      "order": 13,
+      "shortDescription": "A vibrant, bustling waterfront destination packed with alfresco restaurants and bars. It serves as a fantastic final stop to grab a drink and watch the sun set over Darling Harbour."
     }
   ]
 }

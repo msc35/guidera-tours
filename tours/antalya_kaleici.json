@@ -52,6 +52,70 @@
       "longitude": 30.704603,
       "order": 5,
       "shortDescription": "Constructed by the Seljuk Sultan Alaeddin Keykubat in the 13th century. The unique, elegant fluted minaret, decorated with dark blue tiles, has become the defining symbol of Antalya."
+    },
+    {
+      "id": "stop_antalya_clock_tower",
+      "name": "Antalya Clock Tower",
+      "latitude": 36.8868,
+      "longitude": 30.7052,
+      "order": 6,
+      "shortDescription": "An impressive stone tower that originally formed part of the ancient city's fortifications. Today, it acts as the primary visual gateway between ancient Kaleiçi and the modern city."
+    },
+    {
+      "id": "stop_tekeli_mehmet_pasa",
+      "name": "Tekeli Mehmet Paşa Mosque",
+      "latitude": 36.8864,
+      "longitude": 30.7061,
+      "order": 7,
+      "shortDescription": "An elegant 18th-century Ottoman mosque situated near the Clock Tower. It features beautiful Arabic calligraphy and colorful, intricate Iznik tilework over its windows and arches."
+    },
+    {
+      "id": "stop_cumhuriyet_square",
+      "name": "Cumhuriyet Square",
+      "latitude": 36.8870,
+      "longitude": 30.7038,
+      "order": 8,
+      "shortDescription": "The expansive main public square of Antalya, dominated by a massive equestrian monument of Atatürk. It features a dancing fountain and sweeping views over the Mediterranean."
+    },
+    {
+      "id": "stop_kecili_park_elevator",
+      "name": "Panoramic Glass Elevator",
+      "latitude": 36.8850,
+      "longitude": 30.7030,
+      "order": 9,
+      "shortDescription": "A modern, free-to-use glass elevator built directly into the sheer cliff face. Riding it provides a stunning, effortless transition between the high city center and the old Marina below."
+    },
+    {
+      "id": "stop_iskele_mosque",
+      "name": "Iskele Mosque",
+      "latitude": 36.8835,
+      "longitude": 30.7020,
+      "order": 10,
+      "shortDescription": "A tiny, charming 19th-century mosque located right on the edge of the marina. It rests gracefully on four stone pillars built directly over a natural, flowing spring."
+    },
+    {
+      "id": "stop_mermerli_beach",
+      "name": "Mermerli Beach",
+      "latitude": 36.8825,
+      "longitude": 30.7025,
+      "order": 11,
+      "shortDescription": "A small, secluded historic beach tucked perfectly into the base of the cliffs right next to the Marina. It offers incredibly clear Mediterranean waters for a refreshing dip."
+    },
+    {
+      "id": "stop_hesapci_sokak",
+      "name": "Hesapçı Sokak",
+      "latitude": 36.8842,
+      "longitude": 30.7068,
+      "order": 12,
+      "shortDescription": "One of the most picturesque cobblestone streets in Kaleiçi. It is beautifully lined with impeccably restored Ottoman-era mansions featuring traditional wooden overhanging balconies."
+    },
+    {
+      "id": "stop_kaleici_museum",
+      "name": "Kaleiçi Museum",
+      "latitude": 36.8840,
+      "longitude": 30.7065,
+      "order": 13,
+      "shortDescription": "Housed in two beautifully restored historic buildings. This fascinating ethnographic museum provides an immersive look into the traditional daily life and vibrant culture of 19th-century Antalya."
     }
   ]
 }

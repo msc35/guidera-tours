@@ -52,6 +52,70 @@
       "longitude": -6.27105,
       "order": 5,
       "shortDescription": "Originally founded as a wooden Viking church around 1028, making it Dublin's oldest building. Its cavernous 12th-century crypt contains historical artifacts, including a mummified cat and rat found stuck in an organ pipe."
+    },
+    {
+      "id": "stop_st_patricks_cathedral",
+      "name": "St. Patrick's Cathedral",
+      "latitude": 53.3395,
+      "longitude": -6.2714,
+      "order": 6,
+      "shortDescription": "The stunning National Cathedral of the Church of Ireland. Founded in 1191, it is famously the resting place of Jonathan Swift, the acclaimed author of Gulliver's Travels who served as Dean here."
+    },
+    {
+      "id": "stop_marshs_library",
+      "name": "Marsh's Library",
+      "latitude": 53.3392,
+      "longitude": -6.2705,
+      "order": 7,
+      "shortDescription": "Ireland's very first public library, opened in 1707. Its atmospheric oak bookshelves remain perfectly preserved, complete with the original wire 'cages' where readers were locked in with rare books."
+    },
+    {
+      "id": "stop_temple_bar",
+      "name": "The Temple Bar District",
+      "latitude": 53.3453,
+      "longitude": -6.2644,
+      "order": 8,
+      "shortDescription": "The vibrant cultural and nightlife quarter of Dublin. Its cobbled streets are packed with lively traditional Irish music, historic pubs, and the famously red-painted pub that shares its name."
+    },
+    {
+      "id": "stop_hapenny_bridge",
+      "name": "Ha'penny Bridge",
+      "latitude": 53.3461,
+      "longitude": -6.2632,
+      "order": 9,
+      "shortDescription": "A beautiful, white cast-iron pedestrian bridge built over the River Liffey in 1816. Its iconic name comes from the half-penny toll originally charged to cross it."
+    },
+    {
+      "id": "stop_oconnell_street_gpo",
+      "name": "O'Connell Street & The GPO",
+      "latitude": 53.3493,
+      "longitude": -6.2604,
+      "order": 10,
+      "shortDescription": "Dublin's grandest thoroughfare. It is dominated by the monumental General Post Office (GPO), which famously served as the rebel headquarters during the 1916 Easter Rising."
+    },
+    {
+      "id": "stop_spire_of_dublin",
+      "name": "The Spire of Dublin",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "order": 11,
+      "shortDescription": "A soaring, needle-like stainless steel monument standing 120 meters tall in the middle of O'Connell Street. It was erected as part of a street redesign to replace the destroyed Nelson's Pillar."
+    },
+    {
+      "id": "stop_custom_house",
+      "name": "The Custom House",
+      "latitude": 53.3486,
+      "longitude": -6.2530,
+      "order": 12,
+      "shortDescription": "An architectural masterpiece of Neoclassicism sitting elegantly on the north bank of the Liffey. It features magnificent pavilions, arcades, and a striking central copper dome."
+    },
+    {
+      "id": "stop_famine_memorial",
+      "name": "The Famine Memorial",
+      "latitude": 53.3481,
+      "longitude": -6.2479,
+      "order": 13,
+      "shortDescription": "A set of haunting, life-size bronze statues depicting gaunt, desperate figures walking towards the 'coffin ships'. It solemnly commemorates the millions who died or emigrated during the Great Famine."
     }
   ]
 }

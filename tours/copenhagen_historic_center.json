@@ -60,6 +60,62 @@
       "longitude": 12.593333,
       "order": 6,
       "shortDescription": "The winter residence of the Danish royal family, consisting of four identical classical palace façades surrounding an octagonal courtyard. The changing of the Royal Guard takes place here daily at noon."
+    },
+    {
+      "id": "stop_frederiks_church",
+      "name": "Frederik's Church (The Marble Church)",
+      "latitude": 55.6847,
+      "longitude": 12.5896,
+      "order": 7,
+      "shortDescription": "Perfectly aligned with the Amalienborg Palace square, this magnificent church boasts the largest church dome in all of Scandinavia, resting heavily on 12 massive marble columns."
+    },
+    {
+      "id": "stop_designmuseum",
+      "name": "Designmuseum Danmark",
+      "latitude": 55.6865,
+      "longitude": 12.5932,
+      "order": 8,
+      "shortDescription": "Housed beautifully in a former Rococo hospital, this museum showcases the world-renowned history of Danish design, from famous Mid-Century Modern chairs to contemporary industrial aesthetics."
+    },
+    {
+      "id": "stop_churchill_park",
+      "name": "Churchillparken",
+      "latitude": 55.6881,
+      "longitude": 12.5955,
+      "order": 9,
+      "shortDescription": "A serene, green public park named in honor of Winston Churchill and the British assistance during the liberation of Denmark in World War II. It features several solemn war memorials."
+    },
+    {
+      "id": "stop_gefion_fountain",
+      "name": "Gefion Fountain",
+      "latitude": 55.6890,
+      "longitude": 12.5976,
+      "order": 10,
+      "shortDescription": "A spectacular, large-scale fountain depicting the Norse goddess Gefion fiercely driving four oxen. Legend says she plowed the island of Zealand out of Sweden to create Denmark."
+    },
+    {
+      "id": "stop_kastellet",
+      "name": "Kastellet",
+      "latitude": 55.6912,
+      "longitude": 12.5947,
+      "order": 11,
+      "shortDescription": "One of the absolute best-preserved star fortresses in Northern Europe. Constructed in 1626, its steep earthwork ramparts now serve as a beautiful public park featuring an iconic historic red windmill."
+    },
+    {
+      "id": "stop_little_mermaid",
+      "name": "The Little Mermaid",
+      "latitude": 55.6929,
+      "longitude": 12.5993,
+      "order": 12,
+      "shortDescription": "Perched quietly on a wet rock by the waterside, this modest bronze statue is based on the famous fairy tale by Hans Christian Andersen. It has become the most iconic and photographed symbol of Copenhagen."
+    },
+    {
+      "id": "stop_langelinie",
+      "name": "Langelinie Promenade",
+      "latitude": 55.6938,
+      "longitude": 12.5996,
+      "order": 13,
+      "shortDescription": "A beautiful, breezy waterfront promenade extending from the Little Mermaid. It is the perfect place for watching massive cruise ships, locals walking their dogs, and taking in the fresh Baltic Sea air."
     }
   ]
 }

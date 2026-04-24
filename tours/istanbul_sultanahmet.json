@@ -52,6 +52,70 @@
       "longitude": 28.981111,
       "order": 5,
       "shortDescription": "Istanbul's oldest and most expansive public park, originally part of the outer gardens of Topkapi Palace. In spring, the pathways burst into vibrant color with thousands of blooming tulips."
+    },
+    {
+      "id": "stop_archaeology_museums",
+      "name": "Istanbul Archaeology Museums",
+      "latitude": 41.0116,
+      "longitude": 28.9813,
+      "order": 6,
+      "shortDescription": "Located just off the outer courtyard of Topkapi Palace, this museum complex houses an immense collection of ancient artifacts, including the intricately carved Alexander Sarcophagus."
+    },
+    {
+      "id": "stop_sirkeci_station",
+      "name": "Sirkeci Railway Station",
+      "latitude": 41.0152,
+      "longitude": 28.9771,
+      "order": 7,
+      "shortDescription": "The historic, beautifully preserved 19th-century terminal station of the legendary Orient Express, which brought wealthy travelers from Paris to the edge of the Ottoman Empire."
+    },
+    {
+      "id": "stop_eminonu_square",
+      "name": "Eminönü Square",
+      "latitude": 41.0163,
+      "longitude": 28.9723,
+      "order": 8,
+      "shortDescription": "The chaotic, vibrant waterfront square acting as Istanbul's central transport hub. You can grab a famous 'balık ekmek' (fish sandwich) from the colorful boats rocking in the Golden Horn."
+    },
+    {
+      "id": "stop_yeni_cami",
+      "name": "Yeni Cami (New Mosque)",
+      "latitude": 41.0168,
+      "longitude": 28.9715,
+      "order": 9,
+      "shortDescription": "Dominating the Eminönü waterfront, this massive 17th-century imperial mosque is a stunning example of classic Ottoman architecture, constantly bustling with worshippers and pigeons."
+    },
+    {
+      "id": "stop_spice_bazaar",
+      "name": "Spice Bazaar (Mısır Çarşısı)",
+      "latitude": 41.0165,
+      "longitude": 28.9705,
+      "order": 10,
+      "shortDescription": "A feast for the senses since 1660. Walking through its L-shaped corridors exposes you to the rich, intoxicating aromas of saffron, sumac, sweet Turkish delight, and roasting coffee."
+    },
+    {
+      "id": "stop_rustem_pasha_mosque",
+      "name": "Rüstem Pasha Mosque",
+      "latitude": 41.0175,
+      "longitude": 28.9691,
+      "order": 11,
+      "shortDescription": "A small, hidden gem designed by the master architect Sinan. It is uniquely and entirely covered, both inside and out, with some of the finest Iznik floral tiles ever produced."
+    },
+    {
+      "id": "stop_galata_bridge",
+      "name": "Galata Bridge",
+      "latitude": 41.0200,
+      "longitude": 28.9733,
+      "order": 12,
+      "shortDescription": "A lively, two-tiered bridge crossing the Golden Horn. The upper level is packed with local fishermen casting their lines, while the lower level is lined with fresh seafood restaurants."
+    },
+    {
+      "id": "stop_galata_tower",
+      "name": "Galata Tower",
+      "latitude": 41.0256,
+      "longitude": 28.9741,
+      "order": 13,
+      "shortDescription": "A towering stone cylinder originally built by the Genoese in 1348. Dominating the Beyoğlu skyline, its viewing balcony offers an unforgettable, sweeping 360-degree panorama of Istanbul."
     }
   ]
 }

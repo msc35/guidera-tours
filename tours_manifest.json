@@ -165,6 +165,31 @@
       "id": "copenhagen_historic_center",
       "version": 1,
       "fileName": "copenhagen_historic_center.json"
+    },
+    {
+      "id": "izmir_kemeralti_kordon",
+      "version": 1,
+      "fileName": "izmir_kemeralti_kordon.json"
+    },
+    {
+      "id": "singapore_marina_civic",
+      "version": 1,
+      "fileName": "singapore_marina_civic.json"
+    },
+    {
+      "id": "seoul_royal_hanok",
+      "version": 1,
+      "fileName": "seoul_royal_hanok.json"
+    },
+    {
+      "id": "rio_historic_centro",
+      "version": 1,
+      "fileName": "rio_historic_centro.json"
+    },
+    {
+      "id": "edinburgh_royal_mile",
+      "version": 1,
+      "fileName": "edinburgh_royal_mile.json"
     }
   ]
 }

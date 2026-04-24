@@ -1,0 +1,121 @@
+{
+  "id": "edinburgh_royal_mile",
+  "name": "Edinburgh: Secrets of the Royal Mile",
+  "city": "Edinburgh",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_edinburgh_castle",
+      "name": "Edinburgh Castle",
+      "latitude": 55.9486,
+      "longitude": -3.2008,
+      "order": 0,
+      "shortDescription": "A formidable historic fortress dominating the skyline from its position on Castle Rock. It houses the Honours of Scotland (the Crown Jewels) and the legendary Stone of Destiny."
+    },
+    {
+      "id": "stop_whisky_experience",
+      "name": "The Scotch Whisky Experience",
+      "latitude": 55.9490,
+      "longitude": -3.1956,
+      "order": 1,
+      "shortDescription": "Located just below the castle esplanade, this interactive attraction holds the world's largest collection of Scotch whisky, containing over 3,300 glowing, amber-filled bottles."
+    },
+    {
+      "id": "stop_camera_obscura",
+      "name": "Camera Obscura & World of Illusions",
+      "latitude": 55.9493,
+      "longitude": -3.1952,
+      "order": 2,
+      "shortDescription": "Edinburgh's oldest purpose-built visitor attraction, operating since 1853. The rooftop chamber features a unique optical periscope device that projects moving images of the city onto a viewing table."
+    },
+    {
+      "id": "stop_gladstones_land",
+      "name": "Gladstone's Land",
+      "latitude": 55.9495,
+      "longitude": -3.1932,
+      "order": 3,
+      "shortDescription": "A remarkably preserved, six-story 17th-century merchant's tenement house. Stepping inside reveals cramped historic living conditions and brilliantly painted original Renaissance ceilings."
+    },
+    {
+      "id": "stop_writers_museum",
+      "name": "The Writers' Museum (Lady Stair's Close)",
+      "latitude": 55.9497,
+      "longitude": -3.1933,
+      "order": 4,
+      "shortDescription": "Tucked away down a narrow alley, this atmospheric museum celebrates the lives of three giants of Scottish literature: Robert Burns, Sir Walter Scott, and Robert Louis Stevenson."
+    },
+    {
+      "id": "stop_st_giles_cathedral",
+      "name": "St Giles' Cathedral",
+      "latitude": 55.9495,
+      "longitude": -3.1909,
+      "order": 5,
+      "shortDescription": "The High Kirk of Edinburgh, easily identifiable by its unique crown-shaped spire. For over 900 years, it has been the religious focal point of the city, complete with stunning stained glass windows."
+    },
+    {
+      "id": "stop_mary_kings_close",
+      "name": "The Real Mary King's Close",
+      "latitude": 55.9498,
+      "longitude": -3.1902,
+      "order": 6,
+      "shortDescription": "A terrifyingly fascinating warren of hidden 17th-century underground streets frozen in time. The alleys were sealed off and built over during the construction of the City Chambers above."
+    },
+    {
+      "id": "stop_city_chambers",
+      "name": "Edinburgh City Chambers",
+      "latitude": 55.9501,
+      "longitude": -3.1902,
+      "order": 7,
+      "shortDescription": "An impressive U-shaped building originally built in 1753 as the Royal Exchange. The courtyard features handprints of famous Edinburgh residents, including J.K. Rowling."
+    },
+    {
+      "id": "stop_mercat_cross",
+      "name": "Mercat Cross",
+      "latitude": 55.9496,
+      "longitude": -3.1897,
+      "order": 8,
+      "shortDescription": "The historic market cross where royal proclamations were loudly read, merchants traded, and public punishments and executions were famously carried out for centuries."
+    },
+    {
+      "id": "stop_john_knox_house",
+      "name": "John Knox House",
+      "latitude": 55.9505,
+      "longitude": -3.1843,
+      "order": 9,
+      "shortDescription": "One of the oldest surviving medieval buildings on the Royal Mile, dating back to 1470. It features beautiful wooden galleries and is closely associated with the fiery Protestant reformer John Knox."
+    },
+    {
+      "id": "stop_canongate_tolbooth",
+      "name": "Canongate Tolbooth",
+      "latitude": 55.9515,
+      "longitude": -3.1793,
+      "order": 10,
+      "shortDescription": "A striking 16th-century building featuring a projecting clock, a tower, and turrets. It historically served as a courthouse, a harsh prison, and a place of public execution for the burgh of Canongate."
+    },
+    {
+      "id": "stop_canongate_kirk",
+      "name": "Canongate Kirk",
+      "latitude": 55.9520,
+      "longitude": -3.1780,
+      "order": 11,
+      "shortDescription": "A beautiful Dutch-style church built in 1688. Its peaceful, historic graveyard contains the graves of several famous figures, including the economist Adam Smith and poet Robert Fergusson."
+    },
+    {
+      "id": "stop_scottish_parliament",
+      "name": "Scottish Parliament Building",
+      "latitude": 55.9526,
+      "longitude": -3.1746,
+      "order": 12,
+      "shortDescription": "A highly striking, controversial example of ultra-modern, abstract architecture sitting at the foot of the Royal Mile. Its design was inspired by the surrounding Scottish landscape and fishing boats."
+    },
+    {
+      "id": "stop_palace_of_holyroodhouse",
+      "name": "Palace of Holyroodhouse",
+      "latitude": 55.9527,
+      "longitude": -3.1722,
+      "order": 13,
+      "shortDescription": "The magnificent official residence of the British monarch in Scotland. It is inextricably linked to the turbulent history of Mary, Queen of Scots, and sits in the dramatic shadow of Arthur's Seat."
+    }
+  ]
+}

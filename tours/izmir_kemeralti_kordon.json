@@ -1,0 +1,121 @@
+{
+  "id": "izmir_kemeralti_kordon",
+  "name": "Izmir: The Aegean Pearl & Kemeraltı",
+  "city": "Izmir",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_konak_square",
+      "name": "Konak Square & Clock Tower",
+      "latitude": 38.4189,
+      "longitude": 27.1286,
+      "order": 0,
+      "shortDescription": "The heart of Izmir. The beautiful Moorish-style Clock Tower was built in 1901 to commemorate the 25th anniversary of Sultan Abdülhamid II's accession to the throne."
+    },
+    {
+      "id": "stop_konak_yali_mosque",
+      "name": "Konak Yalı Mosque",
+      "latitude": 38.4187,
+      "longitude": 27.1284,
+      "order": 1,
+      "shortDescription": "A tiny, perfectly octagonal 18th-century mosque located right next to the Clock Tower. It is elegantly decorated with beautiful Kütahya tiles around its windows."
+    },
+    {
+      "id": "stop_kemeralti_entrance",
+      "name": "Kemeraltı Bazaar Entrance",
+      "latitude": 38.4194,
+      "longitude": 27.1305,
+      "order": 2,
+      "shortDescription": "The entrance to one of the oldest and largest open-air bazaars in the world. Dating back to the 17th century, its winding streets are packed with everything from bridal wear to fresh spices."
+    },
+    {
+      "id": "stop_kizlaragasi_hani",
+      "name": "Kızlarağası Hanı",
+      "latitude": 38.4180,
+      "longitude": 27.1328,
+      "order": 3,
+      "shortDescription": "A stunningly restored 18th-century caravanserai. The inner courtyard is a favorite local spot to sit down, rest your feet, and enjoy a cup of traditional Turkish coffee brewed over hot sand."
+    },
+    {
+      "id": "stop_hisar_mosque",
+      "name": "Hisar Mosque",
+      "latitude": 38.4178,
+      "longitude": 27.1332,
+      "order": 4,
+      "shortDescription": "Izmir's oldest and grandest mosque, built in 1597. The incredibly ornate interior features a massive central dome supported by eight massive pillars and stunning Islamic calligraphy."
+    },
+    {
+      "id": "stop_havra_sokagi",
+      "name": "Havra Sokağı (Synagogue Street)",
+      "latitude": 38.4195,
+      "longitude": 27.1365,
+      "order": 5,
+      "shortDescription": "The historic Jewish quarter of the bazaar. Today it is a vibrant, chaotic alleyway packed with fishmongers, cheese vendors, and fruit stalls, offering a true taste of Izmir's culinary diversity."
+    },
+    {
+      "id": "stop_agora_smyrna",
+      "name": "Agora of Smyrna",
+      "latitude": 38.4183,
+      "longitude": 27.1388,
+      "order": 6,
+      "shortDescription": "The impressive ruins of the ancient Roman market, originally built by Alexander the Great and later rebuilt by Marcus Aurelius. You can walk through its incredibly well-preserved subterranean arched vaults."
+    },
+    {
+      "id": "stop_cankaya_square",
+      "name": "Çankaya Square",
+      "latitude": 38.4225,
+      "longitude": 27.1375,
+      "order": 7,
+      "shortDescription": "A busy transition point bridging the ancient, winding streets of the Kemeraltı Bazaar and the more modern, wide grid streets of downtown Izmir."
+    },
+    {
+      "id": "stop_mimar_kemalettin",
+      "name": "Mimar Kemalettin Fashion Street",
+      "latitude": 38.4235,
+      "longitude": 27.1355,
+      "order": 8,
+      "shortDescription": "A beautifully pedestrianized street lined with elegant, early 20th-century Neoclassical buildings. It is famously known as the wedding dress and high fashion capital of the city."
+    },
+    {
+      "id": "stop_cumhuriyet_square",
+      "name": "Cumhuriyet Square",
+      "latitude": 38.4290,
+      "longitude": 27.1333,
+      "order": 9,
+      "shortDescription": "The wide, open waterfront 'Republic Square', featuring an imposing equestrian statue of Mustafa Kemal Atatürk leading the Turkish War of Independence."
+    },
+    {
+      "id": "stop_pasaport_pier",
+      "name": "Pasaport Pier",
+      "latitude": 38.4272,
+      "longitude": 27.1311,
+      "order": 10,
+      "shortDescription": "A historic ferry terminal built in 1876 in the French architectural style. The seawall in front of the pier is a favorite spot for locals to sit on the grass and watch the ferries cross the bay."
+    },
+    {
+      "id": "stop_arkas_art_center",
+      "name": "Arkas Art Center",
+      "latitude": 38.4310,
+      "longitude": 27.1345,
+      "order": 11,
+      "shortDescription": "Housed in the beautiful historic French Honorary Consulate building overlooking the sea. It hosts world-class rotating exhibitions featuring major works by international and Turkish artists."
+    },
+    {
+      "id": "stop_gundogdu_square",
+      "name": "Gündoğdu Square",
+      "latitude": 38.4335,
+      "longitude": 27.1360,
+      "order": 12,
+      "shortDescription": "A massive, grassy seaside square defined by the 'Tree of the Republic' monument. It is the primary location for massive open-air concerts and city-wide celebrations in Izmir."
+    },
+    {
+      "id": "stop_alsancak_kordon",
+      "name": "Alsancak Kordon",
+      "latitude": 38.4350,
+      "longitude": 27.1380,
+      "order": 13,
+      "shortDescription": "Izmir's iconic, sweeping waterfront promenade. Lined with palm trees, cycling paths, and seafood restaurants, it is the absolute best place in the city to catch a spectacular Aegean sunset."
+    }
+  ]
+}

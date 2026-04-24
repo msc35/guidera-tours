@@ -1,0 +1,121 @@
+{
+  "id": "seoul_royal_hanok",
+  "name": "Seoul: Royal Palaces & Hanok Villages",
+  "city": "Seoul",
+  "category": "cultural",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_gwanghwamun_gate",
+      "name": "Gwanghwamun Gate",
+      "latitude": 37.5759,
+      "longitude": 126.9768,
+      "order": 0,
+      "shortDescription": "The magnificent main and largest gate of Gyeongbokgung Palace. Guarded by colorful royal sentries, it serves as the grand historical entrance against the backdrop of modern Seoul and Mount Bugaksan."
+    },
+    {
+      "id": "stop_gyeongbokgung",
+      "name": "Gyeongbokgung Palace",
+      "latitude": 37.5796,
+      "longitude": 126.9770,
+      "order": 1,
+      "shortDescription": "Built in 1395, this was the primary and most beautiful royal palace of the Joseon Dynasty. Its vast, tranquil grounds include grand throne halls, elegant lotus ponds, and ancient pavilions."
+    },
+    {
+      "id": "stop_samcheong_dong",
+      "name": "Samcheong-dong Street",
+      "latitude": 37.5835,
+      "longitude": 126.9818,
+      "order": 2,
+      "shortDescription": "A charming, tree-lined street winding just east of the palace. It perfectly blends traditional architecture with chic modern cafes, artisan boutiques, and contemporary art galleries."
+    },
+    {
+      "id": "stop_bukchon_hanok",
+      "name": "Bukchon Hanok Village",
+      "latitude": 37.5826,
+      "longitude": 126.9831,
+      "order": 3,
+      "shortDescription": "A wonderfully preserved historic neighborhood featuring hundreds of traditional Korean houses (hanoks) with gracefully curved wooden roofs. It offers stunning hilltop views over the modern city below."
+    },
+    {
+      "id": "stop_changdeokgung",
+      "name": "Changdeokgung Palace",
+      "latitude": 37.5794,
+      "longitude": 126.9910,
+      "order": 4,
+      "shortDescription": "A UNESCO World Heritage site known for its exceptional harmony with the natural topography. It is most famous for its 'Secret Garden' (Huwon), a vast ecological oasis originally reserved for the king."
+    },
+    {
+      "id": "stop_insadong",
+      "name": "Insadong (Ssamzigil)",
+      "latitude": 37.5742,
+      "longitude": 126.9850,
+      "order": 5,
+      "shortDescription": "The focal point of Korean traditional culture and crafts. The main street is packed with antique shops, traditional teahouses, and Ssamzigil, a unique spiraling shopping complex."
+    },
+    {
+      "id": "stop_jogyesa",
+      "name": "Jogyesa Temple",
+      "latitude": 37.5744,
+      "longitude": 126.9816,
+      "order": 6,
+      "shortDescription": "The chief temple of the Jogye Order of Korean Buddhism. Despite being located in the middle of a bustling metropolis, it remains a serene sanctuary featuring centuries-old locust and baeksong trees."
+    },
+    {
+      "id": "stop_tapgol_park",
+      "name": "Tapgol Park",
+      "latitude": 37.5714,
+      "longitude": 126.9880,
+      "order": 7,
+      "shortDescription": "Seoul's first modern park and the historical epicenter of the 1919 March 1st Movement for Korean independence. It houses the intricate, 10-tier Wongaksa Pagoda enclosed in glass."
+    },
+    {
+      "id": "stop_bosingak",
+      "name": "Bosingak Pavilion",
+      "latitude": 37.5699,
+      "longitude": 126.9837,
+      "order": 8,
+      "shortDescription": "A large belfry housing a massive historic bronze bell. During the Joseon Dynasty, the bell was rung exactly 33 times every morning to open the city gates and 28 times at night to close them."
+    },
+    {
+      "id": "stop_cheonggyecheon",
+      "name": "Cheonggyecheon Stream",
+      "latitude": 37.5695,
+      "longitude": 126.9830,
+      "order": 9,
+      "shortDescription": "A massive urban renewal project that uncovered a hidden historical stream. It is now a 10-kilometer sunken, landscaped pedestrian haven completely isolated from the traffic noise above."
+    },
+    {
+      "id": "stop_myeongdong",
+      "name": "Myeongdong Shopping Street",
+      "latitude": 37.5620,
+      "longitude": 126.9830,
+      "order": 10,
+      "shortDescription": "One of Seoul's main shopping and tourism districts, famed worldwide for its countless K-beauty cosmetic stores and an incredible, chaotic array of delicious street food stalls."
+    },
+    {
+      "id": "stop_myeongdong_cathedral",
+      "name": "Myeongdong Cathedral",
+      "latitude": 37.5630,
+      "longitude": 126.9873,
+      "order": 11,
+      "shortDescription": "The birthplace of the Roman Catholic Church community in Korea. Built in 1898, this beautiful Neo-Gothic brick cathedral served as a critical refuge for pro-democracy activists in the 1980s."
+    },
+    {
+      "id": "stop_seoul_plaza",
+      "name": "Seoul Plaza & City Hall",
+      "latitude": 37.5665,
+      "longitude": 126.9779,
+      "order": 12,
+      "shortDescription": "A vast elliptical grassy plaza fronting both the historic 1920s stone library and the striking, wave-shaped glass architecture of the modern Seoul City Hall."
+    },
+    {
+      "id": "stop_deoksugung",
+      "name": "Deoksugung Palace",
+      "latitude": 37.5658,
+      "longitude": 126.9751,
+      "order": 13,
+      "shortDescription": "A highly unique royal palace blending traditional Korean timber-frame buildings with Western-style neoclassical stone architecture. Its beautifully lit stone-wall road is famously romantic for evening strolls."
+    }
+  ]
+}

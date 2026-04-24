@@ -1,0 +1,121 @@
+{
+  "id": "singapore_marina_civic",
+  "name": "Singapore: Civic District & Marina Bay",
+  "city": "Singapore",
+  "category": "modern",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_raffles_hotel",
+      "name": "Raffles Hotel",
+      "latitude": 1.2947,
+      "longitude": 103.8545,
+      "order": 0,
+      "shortDescription": "A stunning colonial-style luxury hotel established in 1887. Its Long Bar is world-famous as the exact birthplace of the Singapore Sling cocktail."
+    },
+    {
+      "id": "stop_chijmes",
+      "name": "CHIJMES",
+      "latitude": 1.2952,
+      "longitude": 103.8525,
+      "order": 1,
+      "shortDescription": "Originally a 19th-century Catholic convent and girls' school, this beautifully restored Gothic complex is now a premier dining and entertainment destination."
+    },
+    {
+      "id": "stop_st_andrews",
+      "name": "St Andrew's Cathedral",
+      "latitude": 1.2925,
+      "longitude": 103.8523,
+      "order": 2,
+      "shortDescription": "Singapore's largest cathedral, standing gleaming white in the Civic District. Its walls were uniquely plastered using 'Madras chunam', a mixture including shell lime and egg whites."
+    },
+    {
+      "id": "stop_national_gallery",
+      "name": "National Gallery Singapore",
+      "latitude": 1.2905,
+      "longitude": 103.8517,
+      "order": 3,
+      "shortDescription": "Housed within two brilliantly joined national monuments: the former Supreme Court and City Hall. It holds the world's largest public collection of Southeast Asian modern art."
+    },
+    {
+      "id": "stop_arts_house",
+      "name": "The Arts House (Old Parliament)",
+      "latitude": 1.2889,
+      "longitude": 103.8504,
+      "order": 4,
+      "shortDescription": "The oldest surviving government building in Singapore, originally built in 1827 as a private mansion. It served as the Parliament House until 1999 and is now a thriving arts venue."
+    },
+    {
+      "id": "stop_asian_civilisations_museum",
+      "name": "Asian Civilisations Museum",
+      "latitude": 1.2875,
+      "longitude": 103.8514,
+      "order": 5,
+      "shortDescription": "Located beautifully by the Singapore River, this museum deeply explores the rich, pan-Asian artistic heritage of the diverse cultures that make up Singapore's society."
+    },
+    {
+      "id": "stop_fullerton_hotel",
+      "name": "The Fullerton Hotel",
+      "latitude": 1.2864,
+      "longitude": 103.8530,
+      "order": 6,
+      "shortDescription": "A magnificent neoclassical landmark that originally housed Singapore's General Post Office. Its imposing Doric columns and sweeping staircases overlook the river mouth."
+    },
+    {
+      "id": "stop_merlion_park",
+      "name": "Merlion Park",
+      "latitude": 1.2868,
+      "longitude": 103.8545,
+      "order": 7,
+      "shortDescription": "Home to Singapore's national icon, a mythical creature with a lion's head and a fish's body. The massive statue continuously spouts water into the scenic Marina Bay."
+    },
+    {
+      "id": "stop_esplanade",
+      "name": "Esplanade - Theatres on the Bay",
+      "latitude": 1.2898,
+      "longitude": 103.8558,
+      "order": 8,
+      "shortDescription": "A premier performing arts center instantly recognizable by its spiky aluminum sunshades. Locals affectionately refer to the twin domes as 'the Durians' due to their resemblance to the spiky fruit."
+    },
+    {
+      "id": "stop_helix_bridge",
+      "name": "The Helix Bridge",
+      "latitude": 1.2877,
+      "longitude": 103.8600,
+      "order": 9,
+      "shortDescription": "A visually striking, twisting pedestrian bridge inspired by the geometric arrangement of human DNA. It offers spectacular, unobstructed panoramic views across Marina Bay."
+    },
+    {
+      "id": "stop_artscience_museum",
+      "name": "ArtScience Museum",
+      "latitude": 1.2863,
+      "longitude": 103.8593,
+      "order": 10,
+      "shortDescription": "An architectural marvel designed to look like a giant lotus flower. It hosts highly immersive, interactive digital exhibitions blending art, science, culture, and technology."
+    },
+    {
+      "id": "stop_marina_bay_sands",
+      "name": "Marina Bay Sands",
+      "latitude": 1.2838,
+      "longitude": 103.8591,
+      "order": 11,
+      "shortDescription": "An awe-inspiring integrated resort defined by three massive hotel towers capped by a boat-shaped SkyPark. It has become the defining centerpiece of the modern Singapore skyline."
+    },
+    {
+      "id": "stop_gardens_by_the_bay",
+      "name": "Gardens by the Bay (Flower Dome)",
+      "latitude": 1.2835,
+      "longitude": 103.8650,
+      "order": 12,
+      "shortDescription": "A jaw-dropping horticultural attraction. The massive glass Flower Dome replicates a cool-dry Mediterranean climate and holds the Guinness record for the world's largest glass greenhouse."
+    },
+    {
+      "id": "stop_supertree_grove",
+      "name": "Supertree Grove",
+      "latitude": 1.2820,
+      "longitude": 103.8640,
+      "order": 13,
+      "shortDescription": "A surreal forest of towering, man-made tree structures covered in living plants. At night, they come alive with the dazzling Garden Rhapsody light and sound show."
+    }
+  ]
+}

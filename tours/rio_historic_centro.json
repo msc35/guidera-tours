@@ -1,0 +1,121 @@
+{
+  "id": "rio_historic_centro",
+  "name": "Rio de Janeiro: Historic Centro & Lapa",
+  "city": "Rio de Janeiro",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_cinelandia",
+      "name": "Cinelândia Square",
+      "latitude": -22.9115,
+      "longitude": -43.1760,
+      "order": 0,
+      "shortDescription": "The vibrant historical hub of downtown Rio. Once filled with dozens of grand cinemas, the square remains surrounded by magnificent examples of early 20th-century French-inspired architecture."
+    },
+    {
+      "id": "stop_theatro_municipal",
+      "name": "Theatro Municipal",
+      "latitude": -22.9090,
+      "longitude": -43.1763,
+      "order": 1,
+      "shortDescription": "A spectacular opera house heavily inspired by the Palais Garnier in Paris. It boasts an incredibly opulent exterior covered in gold leaf, bronze statues, and stunning stained glass."
+    },
+    {
+      "id": "stop_national_library",
+      "name": "National Library of Brazil",
+      "latitude": -22.9097,
+      "longitude": -43.1755,
+      "order": 2,
+      "shortDescription": "The largest library in Latin America and the 7th largest in the world. It was originally founded to house the immense royal book collection brought over by the King of Portugal in 1808."
+    },
+    {
+      "id": "stop_fine_arts_museum",
+      "name": "National Museum of Fine Arts",
+      "latitude": -22.9088,
+      "longitude": -43.1751,
+      "order": 3,
+      "shortDescription": "Housed in a gorgeous neoclassical building, this museum holds Brazil's most comprehensive collection of Brazilian art, showcasing incredible 19th-century academic paintings and modern sculptures."
+    },
+    {
+      "id": "stop_lapa_arches",
+      "name": "Carioca Aqueduct (Arcos da Lapa)",
+      "latitude": -22.9126,
+      "longitude": -43.1795,
+      "order": 4,
+      "shortDescription": "A monumental 18th-century whitewashed aqueduct built to bring fresh water to the city. Today, it serves as a bridge for the iconic yellow Santa Teresa tram passing overhead."
+    },
+    {
+      "id": "stop_escadaria_selaron",
+      "name": "Escadaria Selarón",
+      "latitude": -22.9155,
+      "longitude": -43.1793,
+      "order": 5,
+      "shortDescription": "A world-famous, vividly colorful staircase created by Chilean artist Jorge Selarón as a 'tribute to the Brazilian people'. It is covered in over 2,000 unique tiles collected from 60 countries."
+    },
+    {
+      "id": "stop_metropolitan_cathedral",
+      "name": "Metropolitan Cathedral",
+      "latitude": -22.9106,
+      "longitude": -43.1806,
+      "order": 6,
+      "shortDescription": "A massive, brutalist architectural marvel designed in the shape of an ancient Mayan pyramid. Inside, four spectacular stained-glass windows stretch an incredible 64 meters up to the ceiling."
+    },
+    {
+      "id": "stop_largo_da_carioca",
+      "name": "Largo da Carioca",
+      "latitude": -22.9068,
+      "longitude": -43.1780,
+      "order": 7,
+      "shortDescription": "A bustling public square constantly filled with street vendors and musicians. It sits at the foot of Santo Antônio hill, providing a stark contrast between ancient convents and modern skyscrapers."
+    },
+    {
+      "id": "stop_confeitaria_colombo",
+      "name": "Confeitaria Colombo",
+      "latitude": -22.9054,
+      "longitude": -43.1785,
+      "order": 8,
+      "shortDescription": "Founded in 1894, this legendary cafe transports you straight back to the Belle Époque. Its breathtaking interior is lavishly decorated with huge Belgian mirrors, rosewood furniture, and stained glass."
+    },
+    {
+      "id": "stop_royal_portuguese_cabinet",
+      "name": "Royal Portuguese Cabinet of Reading",
+      "latitude": -22.9056,
+      "longitude": -43.1819,
+      "order": 9,
+      "shortDescription": "Frequently cited as one of the most beautiful libraries in the world. Its jaw-dropping, cathedral-like reading room is constructed entirely of dark carved wood and holds 350,000 rare books."
+    },
+    {
+      "id": "stop_praca_tiradentes",
+      "name": "Praça Tiradentes",
+      "latitude": -22.9063,
+      "longitude": -43.1812,
+      "order": 10,
+      "shortDescription": "A historic square named after the martyr of Brazilian independence. It is surrounded by historic theaters and some of the oldest preserved colonial architecture in the downtown area."
+    },
+    {
+      "id": "stop_ccbb",
+      "name": "Centro Cultural Banco do Brasil (CCBB)",
+      "latitude": -22.8988,
+      "longitude": -43.1764,
+      "order": 11,
+      "shortDescription": "An immensely popular cultural center housed within a grand, domed neoclassical bank building. Its soaring rotunda and historic elevators are architectural highlights."
+    },
+    {
+      "id": "stop_candelaria_church",
+      "name": "Candelária Church",
+      "latitude": -22.9004,
+      "longitude": -43.1774,
+      "order": 12,
+      "shortDescription": "A monumental historic Roman Catholic church whose construction spanned over a century. Its impressive limestone facade faces Guanabara Bay, acting as a striking focal point at the end of the avenue."
+    },
+    {
+      "id": "stop_praca_xv",
+      "name": "Praça XV de Novembro",
+      "latitude": -22.9025,
+      "longitude": -43.1738,
+      "order": 13,
+      "shortDescription": "The historic political heart of Imperial Brazil. It features the Imperial Palace, where the declaration abolishing slavery in Brazil was famously signed in 1888, and offers great views of the bay."
+    }
+  ]
+}

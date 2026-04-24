@@ -52,6 +52,78 @@
       "longitude": 16.373118,
       "order": 5,
       "shortDescription": "The mother church of the Roman Catholic Archdiocese of Vienna, featuring a stunning multi-colored tile roof. Its towering south spire, affectionately known as 'Steffl', has dominated the city skyline for centuries."
+    },
+    {
+      "id": "stop_mozarthaus",
+      "name": "Mozarthaus Vienna",
+      "latitude": 48.2082,
+      "longitude": 16.3748,
+      "order": 6,
+      "shortDescription": "The only surviving Viennese residence of Wolfgang Amadeus Mozart. He lived in this elegant apartment from 1784 to 1787, famously composing 'The Marriage of Figaro' here."
+    },
+    {
+      "id": "stop_karntner_strasse",
+      "name": "Kärntner Straße",
+      "latitude": 48.2066,
+      "longitude": 16.3713,
+      "order": 7,
+      "shortDescription": "Vienna's most famous shopping street, completely pedestrianized. It runs straight from St. Stephen's Cathedral down to the State Opera, lined with historic cafes, street musicians, and boutiques."
+    },
+    {
+      "id": "stop_imperial_crypt",
+      "name": "Imperial Crypt (Kaisergruft)",
+      "latitude": 48.2056,
+      "longitude": 16.3700,
+      "order": 8,
+      "shortDescription": "Located beneath the Capuchin Church, this somber crypt is the principal place of entombment for members of the House of Habsburg, housing 149 elaborate metal sarcophagi."
+    },
+    {
+      "id": "stop_burggarten",
+      "name": "Burggarten",
+      "latitude": 48.2043,
+      "longitude": 16.3655,
+      "order": 9,
+      "shortDescription": "A beautiful, tranquil park originally laid out as the private garden of the emperor. It features the elegant Palmenhaus glasshouse and the famous marble statue of Mozart."
+    },
+    {
+      "id": "stop_kunsthistorisches_museum",
+      "name": "Kunsthistorisches Museum",
+      "latitude": 48.2038,
+      "longitude": 16.3616,
+      "order": 10,
+      "shortDescription": "The Museum of Fine Arts, an architectural masterpiece built by Emperor Franz Joseph. It houses the vast, breathtaking art collections amassed by the Habsburgs over centuries."
+    },
+    {
+      "id": "stop_maria_theresien_platz",
+      "name": "Maria-Theresien-Platz",
+      "latitude": 48.2044,
+      "longitude": 16.3607,
+      "order": 11,
+      "shortDescription": "A grand public square flanked by two identical museum buildings. At its center stands a massive, intricate monument dedicated to Empress Maria Theresa, a key Habsburg monarch."
+    },
+    {
+      "id": "stop_austrian_parliament",
+      "name": "Austrian Parliament Building",
+      "latitude": 48.2081,
+      "longitude": 16.3582,
+      "order": 12,
+      "shortDescription": "A stunning example of Greek Revival architecture on the Ringstrasse, designed to symbolize the birthplace of democracy. It features the grand Pallas Athene fountain directly in front."
+    },
+    {
+      "id": "stop_rathaus",
+      "name": "Rathaus (City Hall)",
+      "latitude": 48.2106,
+      "longitude": 16.3572,
+      "order": 13,
+      "shortDescription": "A massive Neo-Gothic building completed in 1883. Its spectacular plaza hosts Vienna's most famous and magical Christmas Market during the winter season and film festivals in the summer."
+    },
+    {
+      "id": "stop_burgtheater",
+      "name": "Burgtheater",
+      "latitude": 48.2104,
+      "longitude": 16.3614,
+      "order": 14,
+      "shortDescription": "The Austrian National Theatre, considered one of the most important German-language theaters in the world. It features a spectacular grand staircase with ceiling frescoes by Gustav Klimt."
     }
   ]
 }

@@ -52,6 +52,70 @@
       "longitude": 19.034789,
       "order": 5,
       "shortDescription": "A fairy-tale viewing terrace constructed in the late 19th century. Its seven distinctive stone towers represent the seven Magyar tribes who founded the Hungarian nation in the 9th century."
+    },
+    {
+      "id": "stop_holy_trinity_column",
+      "name": "Holy Trinity Column",
+      "latitude": 47.5019,
+      "longitude": 19.0344,
+      "order": 6,
+      "shortDescription": "A highly ornate Baroque plague column located in the central square of the Castle District. It was erected in the 18th century by grateful survivors of the devastating Black Death."
+    },
+    {
+      "id": "stop_labyrinth_buda_castle",
+      "name": "Labyrinth of Buda Castle",
+      "latitude": 47.5002,
+      "longitude": 19.0336,
+      "order": 7,
+      "shortDescription": "A vast underground network of natural caves and cellars deep beneath the castle. Famously, Vlad the Impaler (the historical inspiration for Dracula) was once held prisoner here."
+    },
+    {
+      "id": "stop_hospital_in_the_rock",
+      "name": "Hospital in the Rock",
+      "latitude": 47.5011,
+      "longitude": 19.0315,
+      "order": 8,
+      "shortDescription": "A fascinating underground hospital hidden in the natural cave system. It was used extensively during WWII and the 1956 Revolution, later converted into a classified nuclear bunker."
+    },
+    {
+      "id": "stop_toth_arpad_promenade",
+      "name": "Tóth Árpád Promenade",
+      "latitude": 47.5028,
+      "longitude": 19.0299,
+      "order": 9,
+      "shortDescription": "A picturesque, tree-lined promenade running along the western ramparts of the Castle District. It offers beautiful views over the Buda hills, away from the heavy tourist crowds."
+    },
+    {
+      "id": "stop_mary_magdalene_tower",
+      "name": "Mary Magdalene Tower",
+      "latitude": 47.5036,
+      "longitude": 19.0298,
+      "order": 10,
+      "shortDescription": "The solitary surviving bell tower of a 13th-century Gothic church that was destroyed in WWII. Visitors can climb to the top for a spectacular panoramic view of Budapest."
+    },
+    {
+      "id": "stop_military_history_museum",
+      "name": "Museum of Military History",
+      "latitude": 47.5042,
+      "longitude": 19.0287,
+      "order": 11,
+      "shortDescription": "Housed in a former army barracks, this museum chronicles Hungary's tumultuous military history. Its courtyard features an impressive collection of historic cannons and artillery."
+    },
+    {
+      "id": "stop_national_archives",
+      "name": "National Archives of Hungary",
+      "latitude": 47.5045,
+      "longitude": 19.0316,
+      "order": 12,
+      "shortDescription": "An imposing Neo-Romanesque building near the northern gate, easily recognizable by its spectacular, brightly colored Zsolnay ceramic tile roof that rivals Matthias Church."
+    },
+    {
+      "id": "stop_vienna_gate",
+      "name": "Vienna Gate (Bécsi Kapu)",
+      "latitude": 47.5048,
+      "longitude": 19.0305,
+      "order": 13,
+      "shortDescription": "The historic northern entrance to the heavily fortified Castle District. Historically, it connected the city of Buda to the vital trade and travel routes leading towards Vienna."
     }
   ]
 }

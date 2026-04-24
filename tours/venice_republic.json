@@ -52,6 +52,70 @@
       "longitude": 12.336495,
       "order": 5,
       "shortDescription": "Historically the headquarters and restricted living quarters for the city's German merchants. Now a luxury mall, its roof terrace offers one of the best free panoramic views over the Grand Canal."
+    },
+    {
+      "id": "stop_rialto_market",
+      "name": "Rialto Market",
+      "latitude": 45.4394,
+      "longitude": 12.3346,
+      "order": 6,
+      "shortDescription": "A vibrant, centuries-old market located just across the Rialto Bridge. It is the best place to see locals buying their daily fresh seafood, fruits, and vegetables."
+    },
+    {
+      "id": "stop_campo_san_polo",
+      "name": "Campo San Polo",
+      "latitude": 45.4375,
+      "longitude": 12.3299,
+      "order": 7,
+      "shortDescription": "The largest public square in Venice after San Marco. Historically used for bullfights and masked balls, it remains a peaceful, wide-open space where local children play."
+    },
+    {
+      "id": "stop_basilica_dei_frari",
+      "name": "Basilica dei Frari",
+      "latitude": 45.4369,
+      "longitude": 12.3265,
+      "order": 8,
+      "shortDescription": "A massive Gothic brick church that houses spectacular masterpieces, including Titian's towering 'Assumption of the Virgin', which stands vibrantly over the main altar."
+    },
+    {
+      "id": "stop_scuola_grande_san_rocco",
+      "name": "Scuola Grande di San Rocco",
+      "latitude": 45.4368,
+      "longitude": 12.3255,
+      "order": 9,
+      "shortDescription": "A historic confraternity building famous for its overwhelmingly beautiful interior, which is completely covered in dramatic, large-scale paintings by the Venetian master Tintoretto."
+    },
+    {
+      "id": "stop_campo_santa_margherita",
+      "name": "Campo Santa Margherita",
+      "latitude": 45.4338,
+      "longitude": 12.3235,
+      "order": 10,
+      "shortDescription": "A highly energetic, sprawling square in the Dorsoduro district. It is a favorite local hangout, packed with bustling cafes, university students, and small market stalls."
+    },
+    {
+      "id": "stop_gallerie_dell_accademia",
+      "name": "Gallerie dell'Accademia",
+      "latitude": 45.4316,
+      "longitude": 12.3284,
+      "order": 11,
+      "shortDescription": "The premier museum of pre-19th-century Venetian art. It holds the world's most significant collection of Venetian paintings, including legendary works by Bellini, Carpaccio, and Giorgione."
+    },
+    {
+      "id": "stop_ponte_dell_accademia",
+      "name": "Ponte dell'Accademia",
+      "latitude": 45.4316,
+      "longitude": 12.3292,
+      "order": 12,
+      "shortDescription": "One of the four bridges crossing the Grand Canal, made distinctly of wood. It arguably offers the most romantic and iconic view of the majestic Santa Maria della Salute basilica."
+    },
+    {
+      "id": "stop_teatro_la_fenice",
+      "name": "Teatro La Fenice",
+      "latitude": 45.4337,
+      "longitude": 12.3338,
+      "order": 13,
+      "shortDescription": "One of the most famous and historic opera houses in Italy. Its name, 'The Phoenix', is incredibly fitting as it has burned down and been successfully rebuilt from the ashes multiple times."
     }
   ]
 }

@@ -52,6 +52,70 @@
       "longitude": 14.411856,
       "order": 5,
       "shortDescription": "A historic stone bridge crossing the Vltava river, commissioned by King Charles IV in 1357. Lined with 30 statues of saints, it is one of the most romantic and photographed locations in Europe."
+    },
+    {
+      "id": "stop_lesser_town_bridge_tower",
+      "name": "Lesser Town Bridge Towers",
+      "latitude": 50.0872,
+      "longitude": 14.4072,
+      "order": 6,
+      "shortDescription": "Guarding the western end of the Charles Bridge, these two distinct, connected towers mark the dramatic entrance into Malá Strana, the Lesser Town."
+    },
+    {
+      "id": "stop_lennon_wall",
+      "name": "John Lennon Wall",
+      "latitude": 50.0862,
+      "longitude": 14.4068,
+      "order": 7,
+      "shortDescription": "A continuously changing, vibrant wall filled with graffiti, lyrics, and messages of peace. It originated in the 1980s as a form of silent youth protest against the communist regime."
+    },
+    {
+      "id": "stop_st_nicholas_church",
+      "name": "Church of St. Nicholas",
+      "latitude": 50.0880,
+      "longitude": 14.4032,
+      "order": 8,
+      "shortDescription": "Widely considered the ultimate masterpiece of Prague Baroque architecture. Its massive green copper dome and adjacent bell tower dominate the skyline of the Lesser Town."
+    },
+    {
+      "id": "stop_nerudova_street",
+      "name": "Nerudova Street",
+      "latitude": 50.0886,
+      "longitude": 14.3995,
+      "order": 9,
+      "shortDescription": "A picturesque, steep, and winding cobblestone street that formed part of the historic Royal Route. Look up to see the fascinating historic signs and sculpted emblems above the doorways."
+    },
+    {
+      "id": "stop_prague_castle_gates",
+      "name": "Prague Castle Gates",
+      "latitude": 50.0898,
+      "longitude": 14.3983,
+      "order": 10,
+      "shortDescription": "The grand entrance to the largest ancient castle complex in the world. Guarded by the imposing 'Battling Titans' statues, it marks the entry into the historic seat of Bohemian kings."
+    },
+    {
+      "id": "stop_st_vitus_cathedral",
+      "name": "St. Vitus Cathedral",
+      "latitude": 50.0908,
+      "longitude": 14.4005,
+      "order": 11,
+      "shortDescription": "A magnificent Gothic cathedral located entirely within the castle walls. It took nearly 600 years to complete and features dazzling stained glass windows designed by Alphonse Mucha."
+    },
+    {
+      "id": "stop_old_royal_palace",
+      "name": "Old Royal Palace",
+      "latitude": 50.0903,
+      "longitude": 14.4014,
+      "order": 12,
+      "shortDescription": "The original seat of Bohemian princes, famous for the massive Vladislav Hall, a spectacular late-Gothic vaulted space that was once used for indoor jousting tournaments."
+    },
+    {
+      "id": "stop_golden_lane",
+      "name": "Golden Lane",
+      "latitude": 50.0919,
+      "longitude": 14.4036,
+      "order": 13,
+      "shortDescription": "A charming, narrow street of tiny, brightly colored 16th-century houses built directly into the castle walls. Famous writer Franz Kafka once lived and worked at No. 22."
     }
   ]
 }

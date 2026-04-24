@@ -52,6 +52,70 @@
       "longitude": 9.179313,
       "order": 5,
       "shortDescription": "A massive fortress built in the 15th century by Francesco Sforza, Duke of Milan. Today, its grand courtyards and halls house several museums, including Michelangelo's unfinished final sculpture, the Rondanini Pietà."
+    },
+    {
+      "id": "stop_parco_sempione",
+      "name": "Parco Sempione",
+      "latitude": 45.4727,
+      "longitude": 9.1772,
+      "order": 6,
+      "shortDescription": "Milan's primary city park, established in 1888 just behind the castle. It features winding paths, a scenic central lake, and expansive, romantic English-style gardens."
+    },
+    {
+      "id": "stop_arco_della_pace",
+      "name": "Arco della Pace",
+      "latitude": 45.4751,
+      "longitude": 9.1724,
+      "order": 7,
+      "shortDescription": "A magnificent neoclassical triumphal arch originally commissioned by Napoleon. It stands dramatically at the northwestern edge of Parco Sempione, often glowing beautifully at sunset."
+    },
+    {
+      "id": "stop_santa_maria_delle_grazie",
+      "name": "Santa Maria delle Grazie",
+      "latitude": 45.4659,
+      "longitude": 9.1709,
+      "order": 8,
+      "shortDescription": "A striking Renaissance church and Dominican convent. It is world-renowned for housing Leonardo da Vinci's monumental mural, 'The Last Supper', painted directly onto the refectory wall."
+    },
+    {
+      "id": "stop_san_maurizio",
+      "name": "San Maurizio al Monastero Maggiore",
+      "latitude": 45.4652,
+      "longitude": 9.1788,
+      "order": 9,
+      "shortDescription": "Often dubbed the 'Sistine Chapel of Milan', this unassuming 16th-century church hides an absolutely breathtaking interior that is completely covered in vibrant Renaissance frescoes."
+    },
+    {
+      "id": "stop_pinacoteca_ambrosiana",
+      "name": "Pinacoteca Ambrosiana",
+      "latitude": 45.4633,
+      "longitude": 9.1856,
+      "order": 10,
+      "shortDescription": "A historic library and art gallery founded in 1618. It holds masterpieces by Caravaggio, Titian, and importantly, the famous Codex Atlanticus containing Leonardo da Vinci's personal sketches."
+    },
+    {
+      "id": "stop_via_montenapoleone",
+      "name": "Via Montenapoleone",
+      "latitude": 45.4682,
+      "longitude": 9.1945,
+      "order": 11,
+      "shortDescription": "The elegant centerpiece of Milan's 'Quadrilatero della Moda' (Fashion Quadrilateral). It is lined with the glittering flagship boutiques of the world's most luxurious fashion houses."
+    },
+    {
+      "id": "stop_brera_district",
+      "name": "Brera District",
+      "latitude": 45.4716,
+      "longitude": 9.1873,
+      "order": 12,
+      "shortDescription": "Milan's charming, bohemian neighborhood. Characterized by its narrow, cobbled pedestrian streets, it is famously filled with antique shops, cozy cafes, and street-side fortune tellers."
+    },
+    {
+      "id": "stop_pinacoteca_di_brera",
+      "name": "Pinacoteca di Brera",
+      "latitude": 45.4720,
+      "longitude": 9.1882,
+      "order": 13,
+      "shortDescription": "Housed in a grand palazzo alongside the Academy of Fine Arts, this is the main public gallery for paintings in Milan, containing an unparalleled collection of Italian masterpieces."
     }
   ]
 }

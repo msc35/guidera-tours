@@ -60,6 +60,70 @@
       "longitude": 2.339679,
       "order": 6,
       "shortDescription": "A picturesque, pastel-pink house at the corner of a cobbled street that has been operating as a restaurant for over a century. It was frequently painted by Maurice Utrillo and remains a beloved Montmartre landmark."
+    },
+    {
+      "id": "stop_clos_montmartre",
+      "name": "Le Clos Montmartre",
+      "latitude": 48.8880,
+      "longitude": 2.3403,
+      "order": 7,
+      "shortDescription": "The last remaining functioning vineyard in central Paris. Hidden on a steep slope, it produces about 1,500 bottles of wine each year which are auctioned for local charities."
+    },
+    {
+      "id": "stop_lapin_agile",
+      "name": "Au Lapin Agile",
+      "latitude": 48.8882,
+      "longitude": 2.3400,
+      "order": 8,
+      "shortDescription": "A famous, historic cabaret housed in a tiny pink cottage. In the early 20th century, it was the favorite drinking and meeting spot for bohemian artists like Picasso and Modigliani."
+    },
+    {
+      "id": "stop_rue_de_labreuvoir",
+      "name": "Rue de l'Abreuvoir",
+      "latitude": 48.8877,
+      "longitude": 2.3386,
+      "order": 9,
+      "shortDescription": "Often considered one of the prettiest and most photogenic streets in all of Paris, it gently curves down the hill lined with ivy-covered houses."
+    },
+    {
+      "id": "stop_place_dalida",
+      "name": "Place Dalida",
+      "latitude": 48.8876,
+      "longitude": 2.3380,
+      "order": 10,
+      "shortDescription": "A picturesque little square dedicated to the famous singer Dalida who lived nearby. It features a bronze bust that visitors traditionally rub for good luck."
+    },
+    {
+      "id": "stop_passe_muraille",
+      "name": "Le Passe-Muraille",
+      "latitude": 48.8872,
+      "longitude": 2.3376,
+      "order": 11,
+      "shortDescription": "Located in Place Marcel Aymé, this quirky bronze statue depicts a man walking directly out of a stone wall, paying homage to a classic French short story."
+    },
+    {
+      "id": "stop_moulin_de_la_galette",
+      "name": "Moulin de la Galette",
+      "latitude": 48.8870,
+      "longitude": 2.3370,
+      "order": 12,
+      "shortDescription": "One of the only two surviving historical windmills in Montmartre. It was famously painted by Pierre-Auguste Renoir in his masterpiece 'Bal du moulin de la Galette'."
+    },
+    {
+      "id": "stop_bateau_lavoir",
+      "name": "Le Bateau-Lavoir",
+      "latitude": 48.8861,
+      "longitude": 2.3381,
+      "order": 13,
+      "shortDescription": "Located in Place Émile Goudeau, this was a famous residence for impoverished artists where Pablo Picasso lived and painted his groundbreaking work 'Les Demoiselles d'Avignon'."
+    },
+    {
+      "id": "stop_abbesses_metro",
+      "name": "Abbesses Metro Station",
+      "latitude": 48.8845,
+      "longitude": 2.3387,
+      "order": 14,
+      "shortDescription": "The tour concludes at this iconic metro station, featuring one of the two remaining original glass-covered Art Nouveau entrances designed by Hector Guimard."
     }
   ]
 }

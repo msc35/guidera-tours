@@ -60,6 +60,62 @@
       "longitude": -0.128591,
       "order": 6,
       "shortDescription": "A public square established in the early 19th century that commemorates the Battle of Trafalgar, a British naval victory in 1805. At its center stands Nelson's Column, guarded by four massive bronze lions."
+    },
+    {
+      "id": "stop_national_gallery",
+      "name": "The National Gallery",
+      "latitude": 51.5089,
+      "longitude": -0.1283,
+      "order": 7,
+      "shortDescription": "Located right on Trafalgar Square, this prestigious art museum houses a collection of over 2,300 paintings dating from the mid-13th century to 1900."
+    },
+    {
+      "id": "stop_leicester_square",
+      "name": "Leicester Square",
+      "latitude": 51.5103,
+      "longitude": -0.1297,
+      "order": 8,
+      "shortDescription": "The pedestrianized heart of London's entertainment district, surrounded by major cinemas hosting global film premieres and bustling with street performers."
+    },
+    {
+      "id": "stop_chinatown_london",
+      "name": "Chinatown",
+      "latitude": 51.5117,
+      "longitude": -0.1300,
+      "order": 9,
+      "shortDescription": "Marked by its iconic red lanterns and magnificent gates, London's Chinatown is packed with authentic Asian restaurants, bakeries, and vibrant supermarkets."
+    },
+    {
+      "id": "stop_piccadilly_circus",
+      "name": "Piccadilly Circus",
+      "latitude": 51.5101,
+      "longitude": -0.1346,
+      "order": 10,
+      "shortDescription": "London's answer to Times Square, famous for its massive illuminated advertising screens and the Shaftesbury Memorial Fountain featuring the statue of Anteros."
+    },
+    {
+      "id": "stop_covent_garden",
+      "name": "Covent Garden",
+      "latitude": 51.5120,
+      "longitude": -0.1228,
+      "order": 11,
+      "shortDescription": "A popular shopping and tourist site centered around the elegant Apple Market building. It's world-renowned for its high-end boutiques and licensed street entertainers."
+    },
+    {
+      "id": "stop_royal_opera_house",
+      "name": "Royal Opera House",
+      "latitude": 51.5129,
+      "longitude": -0.1221,
+      "order": 12,
+      "shortDescription": "One of the world's leading opera houses, located just off Covent Garden. The stunning building is home to the Royal Opera, the Royal Ballet, and the Orchestra of the Royal Opera House."
+    },
+    {
+      "id": "stop_somerset_house",
+      "name": "Somerset House",
+      "latitude": 51.5110,
+      "longitude": -0.1171,
+      "order": 13,
+      "shortDescription": "A spectacular neoclassical complex on the south side of the Strand overlooking the Thames. It hosts a famous ice rink in winter and beautiful fountains in summer."
     }
   ]
 }

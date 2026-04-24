@@ -60,6 +60,62 @@
       "longitude": 2.321236,
       "order": 6,
       "shortDescription": "The largest public square in Paris, notorious as the execution site of Louis XVI and Marie Antoinette during the French Revolution. At its center stands a 3,300-year-old Egyptian obelisk from the Luxor Temple."
+    },
+    {
+      "id": "stop_pont_alexandre_iii",
+      "name": "Pont Alexandre III",
+      "latitude": 48.8639,
+      "longitude": 2.3136,
+      "order": 7,
+      "shortDescription": "Widely regarded as the most ornate and extravagant bridge in Paris. It features exuberant Art Nouveau lamps, cherubs, and golden equestrian statues."
+    },
+    {
+      "id": "stop_grand_palais",
+      "name": "Grand Palais",
+      "latitude": 48.8661,
+      "longitude": 2.3125,
+      "order": 8,
+      "shortDescription": "A large historic site, exhibition hall and museum complex recognizable by its massive glass barrel-vaulted roof. It was constructed for the Universal Exposition of 1900."
+    },
+    {
+      "id": "stop_petit_palais",
+      "name": "Petit Palais",
+      "latitude": 48.8660,
+      "longitude": 2.3145,
+      "order": 9,
+      "shortDescription": "Built across from the Grand Palais, this elegant building now houses the City of Paris Museum of Fine Arts, offering a beautiful semi-circular courtyard and garden."
+    },
+    {
+      "id": "stop_champs_elysees",
+      "name": "Avenue des Champs-Élysées",
+      "latitude": 48.8698,
+      "longitude": 2.3075,
+      "order": 10,
+      "shortDescription": "One of the world's most famous commercial streets, stretching nearly two kilometers. It's lined with luxury shops, cafes, and theaters, leading up to the Arc de Triomphe."
+    },
+    {
+      "id": "stop_arc_de_triomphe",
+      "name": "Arc de Triomphe",
+      "latitude": 48.8738,
+      "longitude": 2.2950,
+      "order": 11,
+      "shortDescription": "A monumental arch honoring those who fought and died for France in the French Revolutionary and Napoleonic Wars. The Tomb of the Unknown Soldier lies beneath its vault."
+    },
+    {
+      "id": "stop_trocadero",
+      "name": "Place du Trocadéro",
+      "latitude": 48.8624,
+      "longitude": 2.2875,
+      "order": 12,
+      "shortDescription": "An expansive esplanade offering the most iconic, unobstructed views of the Eiffel Tower across the Seine. It is a favorite spot for photographers and visitors alike."
+    },
+    {
+      "id": "stop_eiffel_tower",
+      "name": "Eiffel Tower",
+      "latitude": 48.8584,
+      "longitude": 2.2945,
+      "order": 13,
+      "shortDescription": "The global cultural icon of France, constructed from wrought iron by Gustave Eiffel for the 1889 World's Fair. It remains one of the most recognizable structures in the world."
     }
   ]
 }

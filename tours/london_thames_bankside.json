@@ -68,6 +68,62 @@
       "longitude": -0.098351,
       "order": 7,
       "shortDescription": "Designed by Sir Christopher Wren after the Great Fire of London, its massive dome has dominated the London skyline for over 300 years. It miraculously survived the heavy bombing of the Blitz during World War II."
+    },
+    {
+      "id": "stop_blackfriars_bridge",
+      "name": "Blackfriars Bridge",
+      "latitude": 51.5113,
+      "longitude": -0.1037,
+      "order": 8,
+      "shortDescription": "A beautiful wrought-iron and stone bridge offering excellent views of both the City of London and the South Bank. It is known for its distinctive red pillars from the original railway bridge."
+    },
+    {
+      "id": "stop_temple_church",
+      "name": "Temple Church",
+      "latitude": 51.5132,
+      "longitude": -0.1106,
+      "order": 9,
+      "shortDescription": "A historic church built by the Knights Templar in the 12th century. It is famous for its round nave and features prominently in the novel 'The Da Vinci Code'."
+    },
+    {
+      "id": "stop_cleopatras_needle",
+      "name": "Cleopatra's Needle",
+      "latitude": 51.5081,
+      "longitude": -0.1202,
+      "order": 10,
+      "shortDescription": "An authentic ancient Egyptian obelisk sitting on the Victoria Embankment. It was presented to the UK in 1819 and dates back to around 1450 BC."
+    },
+    {
+      "id": "stop_victoria_embankment_gardens",
+      "name": "Victoria Embankment Gardens",
+      "latitude": 51.5076,
+      "longitude": -0.1214,
+      "order": 11,
+      "shortDescription": "A peaceful sequence of gardens along the north bank of the Thames, offering a relaxing green space filled with statues, flowers, and a bandstand."
+    },
+    {
+      "id": "stop_golden_jubilee_bridges",
+      "name": "Golden Jubilee Bridges",
+      "latitude": 51.5065,
+      "longitude": -0.1195,
+      "order": 12,
+      "shortDescription": "Two stunning pedestrian bridges flanking the Hungerford Railway Bridge, providing spectacular panoramic views of the Houses of Parliament and the London Eye."
+    },
+    {
+      "id": "stop_southbank_centre",
+      "name": "Southbank Centre",
+      "latitude": 51.5061,
+      "longitude": -0.1165,
+      "order": 13,
+      "shortDescription": "A complex of artistic venues on the South Bank, representing the largest centre for the arts in Europe. It is a bustling hub of culture, festivals, and food markets."
+    },
+    {
+      "id": "stop_london_eye",
+      "name": "London Eye",
+      "latitude": 51.5033,
+      "longitude": -0.1195,
+      "order": 14,
+      "shortDescription": "Europe's tallest cantilevered observation wheel, offering breathtaking 360-degree views over the capital. It was built to celebrate the new millennium in 2000."
     }
   ]
 }

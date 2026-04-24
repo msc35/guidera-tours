@@ -20,6 +20,78 @@
       "longitude": 11.573625,
       "order": 1,
       "shortDescription": "Munich's iconic twin-domed cathedral with the Devil's Footprint legend."
+    },
+    {
+      "id": "stop_odeonsplatz",
+      "name": "Odeonsplatz",
+      "latitude": 48.1425,
+      "longitude": 11.5775,
+      "order": 2,
+      "shortDescription": "A large square at the northern edge of the old town, flanked by the impressive Feldherrnhalle and the bright yellow Theatine Church."
+    },
+    {
+      "id": "stop_hofgarten",
+      "name": "Hofgarten",
+      "latitude": 48.1432,
+      "longitude": 11.5800,
+      "order": 3,
+      "shortDescription": "A beautiful Italian-style Renaissance garden located between the Residenz and the English Garden, featuring a central pavilion dedicated to the goddess Diana."
+    },
+    {
+      "id": "stop_munich_residenz",
+      "name": "Munich Residenz",
+      "latitude": 48.1411,
+      "longitude": 11.5786,
+      "order": 4,
+      "shortDescription": "The former royal palace of the Wittelsbach monarchs of Bavaria. It is the largest city palace in Germany, featuring spectacularly opulent rooms and courtyards."
+    },
+    {
+      "id": "stop_nationaltheater",
+      "name": "Nationaltheater",
+      "latitude": 48.1397,
+      "longitude": 11.5788,
+      "order": 5,
+      "shortDescription": "An exquisite neo-classical opera house on Max-Joseph-Platz. It is the home of the world-renowned Bavarian State Opera and Ballet."
+    },
+    {
+      "id": "stop_alter_hof",
+      "name": "Alter Hof",
+      "latitude": 48.1384,
+      "longitude": 11.5785,
+      "order": 6,
+      "shortDescription": "The Old Court was the former medieval residence of Louis IV, Holy Roman Emperor. It provides a quiet, historic courtyard tucked right in the center of the city."
+    },
+    {
+      "id": "stop_hofbrauhaus",
+      "name": "Hofbräuhaus",
+      "latitude": 48.1376,
+      "longitude": 11.5800,
+      "order": 7,
+      "shortDescription": "The most famous beer hall in the world, dating back to 1589. It offers an authentic Bavarian experience with massive steins of beer, pretzels, and live Oompah bands."
+    },
+    {
+      "id": "stop_viktualienmarkt",
+      "name": "Viktualienmarkt",
+      "latitude": 48.1352,
+      "longitude": 11.5762,
+      "order": 8,
+      "shortDescription": "Munich's daily outdoor food market offering gourmet produce, local cheeses, meats, and flowers, along with one of the city's most central and traditional beer gardens."
+    },
+    {
+      "id": "stop_st_peters_church",
+      "name": "St. Peter's Church (Alter Peter)",
+      "latitude": 48.1364,
+      "longitude": 11.5758,
+      "order": 9,
+      "shortDescription": "Known affectionately as 'Alter Peter', this is the oldest parish church in Munich. Climbing its tower offers arguably the best panoramic view of the old town."
+    },
+    {
+      "id": "stop_asamkirche",
+      "name": "Asamkirche",
+      "latitude": 48.1351,
+      "longitude": 11.5695,
+      "order": 10,
+      "shortDescription": "A stunningly ornate Baroque and Rococo church built by the Asam brothers in the 18th century as their private chapel, seamlessly integrated into a row of houses on Sendlinger Straße."
     }
   ]
 }

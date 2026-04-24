@@ -52,6 +52,86 @@
       "longitude": 4.885667,
       "order": 5,
       "shortDescription": "A highly photogenic neighborhood of picturesque canal streets intersected by historic bridges. It's famous for its independent boutiques, cozy cafes, and classic Dutch step-gabled houses."
+    },
+    {
+      "id": "stop_begijnhof",
+      "name": "Begijnhof",
+      "latitude": 52.3693,
+      "longitude": 4.8898,
+      "order": 6,
+      "shortDescription": "A serene, hidden courtyard originally built in the 14th century for the Beguines. It contains the oldest surviving wooden house in Amsterdam."
+    },
+    {
+      "id": "stop_spui",
+      "name": "Spui",
+      "latitude": 52.3688,
+      "longitude": 4.8891,
+      "order": 7,
+      "shortDescription": "A bustling square famous for its weekly book and art markets, surrounded by popular cafes and independent bookstores."
+    },
+    {
+      "id": "stop_bloemenmarkt",
+      "name": "Bloemenmarkt",
+      "latitude": 52.3668,
+      "longitude": 4.8906,
+      "order": 8,
+      "shortDescription": "The world's only floating flower market, situated on the Singel canal, offering a vibrant display of tulips and bulbs since 1862."
+    },
+    {
+      "id": "stop_munttoren",
+      "name": "Munttoren",
+      "latitude": 52.3670,
+      "longitude": 4.8929,
+      "order": 9,
+      "shortDescription": "Originally part of the city gate, this historic 'Mint Tower' was used to mint coins in the 17th century and features a beautiful carillon."
+    },
+    {
+      "id": "stop_rembrandtplein",
+      "name": "Rembrandtplein",
+      "latitude": 52.3660,
+      "longitude": 4.8967,
+      "order": 10,
+      "shortDescription": "One of the busiest squares in the city, named after the famous painter Rembrandt van Rijn, and featuring a cast-iron monument in his honor."
+    },
+    {
+      "id": "stop_magere_brug",
+      "name": "Magere Brug",
+      "latitude": 52.3639,
+      "longitude": 4.9023,
+      "order": 11,
+      "shortDescription": "The most famous drawbridge in Amsterdam, crossing the Amstel River. It is beautifully illuminated at night by 1,200 light bulbs."
+    },
+    {
+      "id": "stop_rijksmuseum",
+      "name": "Rijksmuseum",
+      "latitude": 52.3600,
+      "longitude": 4.8852,
+      "order": 12,
+      "shortDescription": "The national museum of the Netherlands, housing a vast collection of Dutch Golden Age masterpieces, including works by Rembrandt and Vermeer."
+    },
+    {
+      "id": "stop_van_gogh_museum",
+      "name": "Van Gogh Museum",
+      "latitude": 52.3584,
+      "longitude": 4.8811,
+      "order": 13,
+      "shortDescription": "Located in Museumplein, this museum contains the largest collection of paintings and drawings by Vincent van Gogh in the world."
+    },
+    {
+      "id": "stop_vondelpark",
+      "name": "Vondelpark",
+      "latitude": 52.3614,
+      "longitude": 4.8788,
+      "order": 14,
+      "shortDescription": "The largest city park in Amsterdam, offering a peaceful green oasis with English-style gardens, ponds, and open-air theater performances."
+    },
+    {
+      "id": "stop_leidseplein",
+      "name": "Leidseplein",
+      "latitude": 52.3637,
+      "longitude": 4.8821,
+      "order": 15,
+      "shortDescription": "A vibrant center for nightlife and entertainment, surrounded by theaters, cinemas, and lively terraces to conclude the walking tour."
     }
   ]
 }

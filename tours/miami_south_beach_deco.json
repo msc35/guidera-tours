@@ -52,6 +52,70 @@
       "longitude": -80.136267,
       "order": 5,
       "shortDescription": "A premier outdoor pedestrian promenade designed in the 1950s by legendary architect Morris Lapidus. It stretches east to west across Miami Beach and offers world-class dining, shopping, and people-watching."
+    },
+    {
+      "id": "stop_soundscape_park",
+      "name": "Soundscape Park",
+      "latitude": 25.7912,
+      "longitude": -80.1332,
+      "order": 6,
+      "shortDescription": "A stunning urban park featuring futuristic pergolas and a massive 7,000-square-foot outdoor projection wall where the New World Symphony broadcasts live concerts."
+    },
+    {
+      "id": "stop_miami_beach_botanical_garden",
+      "name": "Miami Beach Botanical Garden",
+      "latitude": 25.7946,
+      "longitude": -80.1345,
+      "order": 7,
+      "shortDescription": "A lush, 2.6-acre subtropical garden oasis featuring an exquisite Japanese garden, native Florida plants, and tranquil water features right in the city center."
+    },
+    {
+      "id": "stop_holocaust_memorial",
+      "name": "Holocaust Memorial Miami Beach",
+      "latitude": 25.7954,
+      "longitude": -80.1357,
+      "order": 8,
+      "shortDescription": "A striking, deeply moving monument featuring a giant bronze arm reaching toward the sky, surrounded by hauntingly detailed life-size statues depicting the victims."
+    },
+    {
+      "id": "stop_the_bass",
+      "name": "The Bass Museum of Art",
+      "latitude": 25.7972,
+      "longitude": -80.1287,
+      "order": 9,
+      "shortDescription": "Miami Beach's contemporary art museum, housed in a magnificent 1930s Art Deco building in Collins Park. It features cutting-edge international exhibitions."
+    },
+    {
+      "id": "stop_collins_park",
+      "name": "Collins Park",
+      "latitude": 25.7968,
+      "longitude": -80.1281,
+      "order": 10,
+      "shortDescription": "A beautiful cultural hub surrounded by museums and historic architecture. It often hosts massive, temporary public art installations, especially during Art Basel."
+    },
+    {
+      "id": "stop_miami_beach_boardwalk",
+      "name": "Miami Beach Boardwalk",
+      "latitude": 25.7975,
+      "longitude": -80.1265,
+      "order": 11,
+      "shortDescription": "A scenic, elevated wooden pathway running between the upscale oceanfront hotels and the beach. It's perfect for a breezy stroll with unobstructed Atlantic Ocean views."
+    },
+    {
+      "id": "stop_raleigh_hotel",
+      "name": "The Raleigh Hotel",
+      "latitude": 25.7932,
+      "longitude": -80.1285,
+      "order": 12,
+      "shortDescription": "An Art Deco masterpiece famously known for its iconic, curvaceous swimming pool that Life Magazine once dubbed 'the most beautiful pool in America'."
+    },
+    {
+      "id": "stop_delano_south_beach",
+      "name": "Delano South Beach",
+      "latitude": 25.7915,
+      "longitude": -80.1288,
+      "order": 13,
+      "shortDescription": "A luxurious hotel that kickstarted the South Beach revival in the 90s, featuring stark white interiors designed by Philippe Starck and a highly exclusive poolside club."
     }
   ]
 }

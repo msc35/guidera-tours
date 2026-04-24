@@ -52,6 +52,70 @@
       "longitude": -118.341496,
       "order": 5,
       "shortDescription": "The renowned wax museum where visitors can interact closely with uncannily realistic figures of celebrities. It famously lacks velvet ropes, encouraging guests to touch and pose directly with the displays."
+    },
+    {
+      "id": "stop_hollywood_museum",
+      "name": "The Hollywood Museum",
+      "latitude": 34.1011,
+      "longitude": -118.3383,
+      "order": 6,
+      "shortDescription": "Housed in the historic Max Factor building, it contains the most extensive collection of Hollywood memorabilia in the world, including iconic costumes, props, and personal artifacts."
+    },
+    {
+      "id": "stop_egyptian_theatre",
+      "name": "Egyptian Theatre",
+      "latitude": 34.1013,
+      "longitude": -118.3364,
+      "order": 7,
+      "shortDescription": "Opened in 1922, it was the site of the first-ever Hollywood film premiere. Recently restored, its stunning Egyptian Revival architecture kick-started the trend of lavish movie palaces."
+    },
+    {
+      "id": "stop_musso_and_frank",
+      "name": "Musso & Frank Grill",
+      "latitude": 34.1017,
+      "longitude": -118.3347,
+      "order": 8,
+      "shortDescription": "Hollywood's oldest restaurant, founded in 1919. It retains its classic red leather booths and was famously frequented by stars like Charlie Chaplin, Marilyn Monroe, and numerous literary giants."
+    },
+    {
+      "id": "stop_hollywood_and_vine",
+      "name": "Hollywood & Vine",
+      "latitude": 34.1016,
+      "longitude": -118.3267,
+      "order": 9,
+      "shortDescription": "The legendary intersection that was once the epicenter of the radio and film industries. Today, it remains a famous cultural touchstone representing the golden age of old Hollywood."
+    },
+    {
+      "id": "stop_capitol_records_building",
+      "name": "Capitol Records Building",
+      "latitude": 34.1031,
+      "longitude": -118.3263,
+      "order": 10,
+      "shortDescription": "An iconic mid-century modern circular building designed to look like a stack of records on a turntable. It houses the legendary recording studios used by Frank Sinatra and The Beatles."
+    },
+    {
+      "id": "stop_pantages_theatre",
+      "name": "Pantages Theatre",
+      "latitude": 34.1020,
+      "longitude": -118.3253,
+      "order": 11,
+      "shortDescription": "A magnificent Art Deco theater that formerly hosted the Academy Awards in the 1950s. Today, it is the premier destination in Los Angeles for major Broadway touring productions."
+    },
+    {
+      "id": "stop_funko_hollywood",
+      "name": "Funko Hollywood",
+      "latitude": 34.1015,
+      "longitude": -118.3235,
+      "order": 12,
+      "shortDescription": "A massive 40,000 square foot experiential retail store celebrating pop culture, featuring incredible larger-than-life photo ops with beloved movie, TV, and comic characters."
+    },
+    {
+      "id": "stop_amoeba_music",
+      "name": "Amoeba Music",
+      "latitude": 34.1013,
+      "longitude": -118.3228,
+      "order": 13,
+      "shortDescription": "The world's largest independent record store, offering a massive, vibrant space filled with millions of new and used CDs, vinyl records, and fascinating pop culture items."
     }
   ]
 }

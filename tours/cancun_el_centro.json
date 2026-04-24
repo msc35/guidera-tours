@@ -52,6 +52,62 @@
       "longitude": -86.824364,
       "order": 5,
       "shortDescription": "The city hall and administrative center for the municipality of Benito Juárez. The large plaza in front often hosts civic events, local protests, and cultural exhibitions."
+    },
+    {
+      "id": "stop_teatro_de_la_ciudad",
+      "name": "Teatro de la Ciudad Cancún",
+      "latitude": 21.1636,
+      "longitude": -86.8247,
+      "order": 6,
+      "shortDescription": "The premier venue for performing arts in downtown Cancun, frequently hosting local theater productions, folkloric dance performances, and community cultural festivals."
+    },
+    {
+      "id": "stop_iglesia_cristo_rey",
+      "name": "Iglesia de Cristo Rey",
+      "latitude": 21.1624,
+      "longitude": -86.8262,
+      "order": 7,
+      "shortDescription": "Recognized as the very first Catholic church built in Cancun. It holds a special historical significance for the pioneers who founded the city in the early 1970s."
+    },
+    {
+      "id": "stop_luum_pakul",
+      "name": "Luum Pakul Artisan Market",
+      "latitude": 21.1628,
+      "longitude": -86.8268,
+      "order": 8,
+      "shortDescription": "A small, vibrant cooperative market where local artisans sell beautiful handcrafted hammocks, textiles, and traditional Mayan souvenirs away from the major crowds."
+    },
+    {
+      "id": "stop_avenida_yaxchilan",
+      "name": "Avenida Yaxchilán",
+      "latitude": 21.1620,
+      "longitude": -86.8290,
+      "order": 9,
+      "shortDescription": "A bustling downtown street famous for its traditional Mexican cantinas, massive authentic taquerias, and roaming mariachi bands that entertain guests late into the night."
+    },
+    {
+      "id": "stop_glorieta_del_ceviche",
+      "name": "Glorieta del Ceviche",
+      "latitude": 21.1585,
+      "longitude": -86.8252,
+      "order": 10,
+      "shortDescription": "A famous traffic circle on Avenida Tulum featuring a massive monument shaped like conch shells and starfish. It is the central gathering place for city-wide celebrations and sports victories."
+    },
+    {
+      "id": "stop_plaza_de_toros",
+      "name": "Plaza de Toros",
+      "latitude": 21.1523,
+      "longitude": -86.8242,
+      "order": 11,
+      "shortDescription": "Cancun's historic bullring. While bullfighting is no longer the main attraction, the outer perimeter of the arena is now a thriving hotspot packed with popular local bars and taco stands."
+    },
+    {
+      "id": "stop_malecon_tajamar",
+      "name": "Malecon Tajamar",
+      "latitude": 21.1511,
+      "longitude": -86.8188,
+      "order": 12,
+      "shortDescription": "A beautifully paved, wide boardwalk offering stunning, peaceful views across the Nichupté Lagoon. It is a favorite local spot for jogging, biking, and watching the sunset."
     }
   ]
 }

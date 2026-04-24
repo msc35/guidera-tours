@@ -60,6 +60,70 @@
       "longitude": -73.976008,
       "order": 6,
       "shortDescription": "A stunning Neo-Gothic-style Catholic cathedral nestled amongst Midtown's towering skyscrapers. Completed in 1878, it is the largest Gothic Roman Catholic cathedral in the United States."
+    },
+    {
+      "id": "stop_cartier_mansion",
+      "name": "Cartier Fifth Avenue Mansion",
+      "latitude": 40.7595,
+      "longitude": -73.9754,
+      "order": 7,
+      "shortDescription": "A beautiful Renaissance Revival mansion from 1905, famously traded by Pierre Cartier for a string of pearls. It remains the luxurious flagship store for Cartier."
+    },
+    {
+      "id": "stop_moma",
+      "name": "The Museum of Modern Art (MoMA)",
+      "latitude": 40.7614,
+      "longitude": -73.9776,
+      "order": 8,
+      "shortDescription": "One of the most influential museums of modern art in the world. Its vast collection includes Van Gogh's 'The Starry Night' and Dalí's 'The Persistence of Memory'."
+    },
+    {
+      "id": "stop_trump_tower",
+      "name": "Trump Tower",
+      "latitude": 40.7624,
+      "longitude": -73.9738,
+      "order": 9,
+      "shortDescription": "A 58-story mixed-use skyscraper on Fifth Avenue, known for its distinctive stepped facade, brass-hued glass, and a lavish public atrium featuring a 60-foot waterfall."
+    },
+    {
+      "id": "stop_plaza_hotel",
+      "name": "The Plaza Hotel",
+      "latitude": 40.7645,
+      "longitude": -73.9745,
+      "order": 10,
+      "shortDescription": "A historic, castle-like luxury hotel opened in 1907 at the corner of Central Park. It has been the setting for numerous famous films, including 'Home Alone 2'."
+    },
+    {
+      "id": "stop_grand_army_plaza",
+      "name": "Grand Army Plaza",
+      "latitude": 40.7648,
+      "longitude": -73.9735,
+      "order": 11,
+      "shortDescription": "The grand entrance to Central Park, featuring the gilded equestrian statue of William Tecumseh Sherman and the beautiful Pulitzer Fountain."
+    },
+    {
+      "id": "stop_gapstow_bridge",
+      "name": "Gapstow Bridge (Central Park)",
+      "latitude": 40.7667,
+      "longitude": -73.9740,
+      "order": 12,
+      "shortDescription": "A picturesque, rustic stone bridge curving over The Pond in Central Park. It offers one of the most iconic, romantic views of the Midtown Manhattan skyline."
+    },
+    {
+      "id": "stop_columbus_circle",
+      "name": "Columbus Circle",
+      "latitude": 40.7681,
+      "longitude": -73.9819,
+      "order": 13,
+      "shortDescription": "A heavily trafficked circular intersection at the southwest corner of Central Park, centered around the Columbus Monument. The distances in New York City are traditionally measured from here."
+    },
+    {
+      "id": "stop_carnegie_hall",
+      "name": "Carnegie Hall",
+      "latitude": 40.7651,
+      "longitude": -73.9799,
+      "order": 14,
+      "shortDescription": "One of the most prestigious venues in the world for both classical and popular music, built in 1891. Famous for its incredible acoustics and history of legendary performers."
     }
   ]
 }

@@ -60,6 +60,70 @@
       "longitude": -74.013145,
       "order": 6,
       "shortDescription": "Located atop One World Trade Center, the tallest building in the Western Hemisphere at a symbolic 1,776 feet. It offers unparalleled views of the New York harbor, the skyline, and beyond."
+    },
+    {
+      "id": "stop_st_pauls_chapel",
+      "name": "St. Paul's Chapel",
+      "latitude": 40.7116,
+      "longitude": -74.0093,
+      "order": 7,
+      "shortDescription": "The oldest surviving church building in Manhattan, built in 1766. George Washington prayed here on the day of his inauguration, and it miraculously survived the collapse of the nearby Twin Towers."
+    },
+    {
+      "id": "stop_woolworth_building",
+      "name": "Woolworth Building",
+      "latitude": 40.7123,
+      "longitude": -74.0084,
+      "order": 8,
+      "shortDescription": "Once the tallest building in the world (1913-1930), this stunning neo-Gothic skyscraper is often called the 'Cathedral of Commerce' due to its ornate terra-cotta facade and soaring lobby."
+    },
+    {
+      "id": "stop_city_hall_park",
+      "name": "City Hall Park",
+      "latitude": 40.7127,
+      "longitude": -74.0060,
+      "order": 9,
+      "shortDescription": "A historic green space surrounding New York City Hall. It has been a site for protests, celebrations, and public gatherings since the American Revolution."
+    },
+    {
+      "id": "stop_brooklyn_bridge_entrance",
+      "name": "Brooklyn Bridge (Manhattan Entrance)",
+      "latitude": 40.7126,
+      "longitude": -74.0048,
+      "order": 10,
+      "shortDescription": "The pedestrian entrance to one of the oldest roadway bridges in the United States. Completed in 1883, its neo-Gothic stone arches and steel suspension cables are an engineering marvel."
+    },
+    {
+      "id": "stop_south_street_seaport",
+      "name": "South Street Seaport",
+      "latitude": 40.7068,
+      "longitude": -74.0035,
+      "order": 11,
+      "shortDescription": "A designated historic district featuring some of the oldest architecture in downtown Manhattan, cobblestone streets, and a collection of historic sailing ships docked along the East River."
+    },
+    {
+      "id": "stop_pier_17",
+      "name": "Pier 17",
+      "latitude": 40.7060,
+      "longitude": -74.0019,
+      "order": 12,
+      "shortDescription": "A modern entertainment and dining destination located right on the water at the Seaport, offering fantastic views of the Brooklyn Bridge and the East River."
+    },
+    {
+      "id": "stop_stone_street",
+      "name": "Stone Street Historic District",
+      "latitude": 40.7042,
+      "longitude": -74.0104,
+      "order": 13,
+      "shortDescription": "One of New York's oldest streets, famously the first to be paved with cobblestones in 1658. Today, it is a lively pedestrian-only alley lined with historic taverns and outdoor dining."
+    },
+    {
+      "id": "stop_fraunces_tavern",
+      "name": "Fraunces Tavern",
+      "latitude": 40.7033,
+      "longitude": -74.0114,
+      "order": 14,
+      "shortDescription": "A historic tavern and museum claiming to be the oldest surviving building in Manhattan. It played a prominent role in the Revolution and was where George Washington bid farewell to his officers."
     }
   ]
 }

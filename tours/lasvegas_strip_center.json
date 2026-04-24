@@ -52,6 +52,62 @@
       "longitude": -115.174154,
       "order": 5,
       "shortDescription": "A sleek, modern resort known for its chic design and multi-story crystal chandelier bar. It famously features a secret, unnamed pizzeria hidden down an unmarked hallway on the third floor."
+    },
+    {
+      "id": "stop_aria_resort",
+      "name": "ARIA Resort & Casino",
+      "latitude": 36.1075,
+      "longitude": -115.1761,
+      "order": 6,
+      "shortDescription": "The centerpiece of the CityCenter complex, featuring stunning contemporary architecture, a massive fine art collection, and advanced smart-room technology."
+    },
+    {
+      "id": "stop_shops_at_crystals",
+      "name": "The Shops at Crystals",
+      "latitude": 36.1078,
+      "longitude": -115.1743,
+      "order": 7,
+      "shortDescription": "An upscale shopping mall boasting a striking jagged glass facade. It houses exclusive high-end retailers and impressive indoor water and ice sculptures."
+    },
+    {
+      "id": "stop_mgm_grand_lion",
+      "name": "MGM Grand Bronze Lion",
+      "latitude": 36.1026,
+      "longitude": -115.1703,
+      "order": 8,
+      "shortDescription": "The largest bronze statue in the United States, standing 45 feet tall. It guards the entrance to what is currently the single largest hotel building in the world."
+    },
+    {
+      "id": "stop_new_york_new_york",
+      "name": "New York-New York",
+      "latitude": 36.1024,
+      "longitude": -115.1746,
+      "order": 9,
+      "shortDescription": "Features a magnificent skyline replica of 1940s Manhattan, including the Statue of Liberty and the Empire State Building, with a thrilling roller coaster weaving through it."
+    },
+    {
+      "id": "stop_excalibur",
+      "name": "Excalibur Hotel & Casino",
+      "latitude": 36.0988,
+      "longitude": -115.1754,
+      "order": 10,
+      "shortDescription": "A massive, whimsical castle-themed resort inspired by the legend of King Arthur, complete with brightly colored turrets and a medieval jousting dinner show."
+    },
+    {
+      "id": "stop_luxor_pyramid",
+      "name": "Luxor Hotel & Casino",
+      "latitude": 36.0955,
+      "longitude": -115.1761,
+      "order": 11,
+      "shortDescription": "An iconic 30-story black glass pyramid accompanied by a giant replica of the Great Sphinx. From its peak, it projects the strongest beam of light in the world."
+    },
+    {
+      "id": "stop_welcome_to_las_vegas_sign",
+      "name": "Welcome to Fabulous Las Vegas Sign",
+      "latitude": 36.0820,
+      "longitude": -115.1727,
+      "order": 12,
+      "shortDescription": "The world-famous neon sign designed by Betty Willis in 1959. Located at the southern end of the Strip, it is an absolute must-visit photo opportunity to conclude the tour."
     }
   ]
 }

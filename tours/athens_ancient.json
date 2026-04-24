@@ -52,6 +52,70 @@
       "longitude": 23.721444,
       "order": 5,
       "shortDescription": "Perched atop Agoraios Kolonos hill, this is the most well-preserved ancient Greek temple in the world. Dedicated to the god of craftsmanship, it remained largely intact because it was converted into a Christian church in the 7th century."
+    },
+    {
+      "id": "stop_stoa_of_attalos",
+      "name": "Stoa of Attalos",
+      "latitude": 37.9753,
+      "longitude": 23.7242,
+      "order": 6,
+      "shortDescription": "An impressive covered walkway in the Ancient Agora. Completely reconstructed in the 1950s, it now houses the Museum of the Ancient Agora, displaying artifacts found directly on the site."
+    },
+    {
+      "id": "stop_hadrians_library",
+      "name": "Hadrian's Library",
+      "latitude": 37.9760,
+      "longitude": 23.7261,
+      "order": 7,
+      "shortDescription": "Created by Roman Emperor Hadrian in 132 AD to house his massive collection of papyrus scrolls. It originally featured a beautiful central courtyard with a large pool and reading rooms."
+    },
+    {
+      "id": "stop_monastiraki_square",
+      "name": "Monastiraki Square",
+      "latitude": 37.9762,
+      "longitude": 23.7258,
+      "order": 8,
+      "shortDescription": "A vibrant, bustling square seamlessly blending multiple eras of Athenian history. It offers incredible views up to the Acropolis and is the gateway to a lively, sprawling flea market."
+    },
+    {
+      "id": "stop_roman_agora",
+      "name": "Roman Agora",
+      "latitude": 37.9742,
+      "longitude": 23.7261,
+      "order": 9,
+      "shortDescription": "The commercial center built during the Roman period with donations from Julius Caesar and Augustus. It served as the primary marketplace after the original Ancient Agora became overcrowded."
+    },
+    {
+      "id": "stop_tower_of_the_winds",
+      "name": "Tower of the Winds",
+      "latitude": 37.9741,
+      "longitude": 23.7269,
+      "order": 10,
+      "shortDescription": "Often considered the world's first meteorological station. This octagonal Pentelic marble tower functioned simultaneously as a massive sundial, a water clock, and a wind vane in antiquity."
+    },
+    {
+      "id": "stop_plaka_district",
+      "name": "Plaka District",
+      "latitude": 37.9725,
+      "longitude": 23.7291,
+      "order": 11,
+      "shortDescription": "Known affectionately as the 'Neighborhood of the Gods,' this is Athens' oldest historical neighborhood. Its narrow, winding streets are lined with neoclassical architecture, cafes, and bright bougainvillea."
+    },
+    {
+      "id": "stop_arch_of_hadrian",
+      "name": "Arch of Hadrian",
+      "latitude": 37.9701,
+      "longitude": 23.7321,
+      "order": 12,
+      "shortDescription": "A monumental marble gateway constructed in 131 AD. Its famous inscriptions playfully divide the city into the old 'City of Theseus' on one side and the new 'City of Hadrian' on the other."
+    },
+    {
+      "id": "stop_temple_of_olympian_zeus",
+      "name": "Temple of Olympian Zeus",
+      "latitude": 37.9693,
+      "longitude": 23.7331,
+      "order": 13,
+      "shortDescription": "A colossal ruined temple dedicated to the king of the Olympian gods. Although only 15 of its original 104 massive Corinthian columns remain standing today, their sheer scale is awe-inspiring."
     }
   ]
 }

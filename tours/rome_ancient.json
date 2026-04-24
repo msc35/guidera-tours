@@ -52,6 +52,70 @@
       "longitude": 12.482613,
       "order": 5,
       "shortDescription": "Considered the world's oldest public museums, tracing their history back to 1471. They house incredible classical sculptures, including the famous bronze 'Capitoline Wolf' nursing Romulus and Remus."
+    },
+    {
+      "id": "stop_trajans_column",
+      "name": "Trajan's Column",
+      "latitude": 41.8958,
+      "longitude": 12.4843,
+      "order": 6,
+      "shortDescription": "A Roman triumphal column that commemorates Emperor Trajan's victory in the Dacian Wars. It is famous for its intricate, spiraling bas-relief epic narrative."
+    },
+    {
+      "id": "stop_altare_della_patria",
+      "name": "Altare della Patria",
+      "latitude": 41.8958,
+      "longitude": 12.4826,
+      "order": 7,
+      "shortDescription": "A massive, gleaming white marble monument built in honor of Victor Emmanuel II, the first king of a unified Italy. Locals often affectionately or jokingly call it 'The Typewriter'."
+    },
+    {
+      "id": "stop_largo_di_torre_argentina",
+      "name": "Largo di Torre Argentina",
+      "latitude": 41.8956,
+      "longitude": 12.4768,
+      "order": 8,
+      "shortDescription": "A sunken square containing the ruins of four Roman Republican temples. Famously, it is the exact site where Julius Caesar was assassinated in 44 BC. It now hosts a beloved cat sanctuary."
+    },
+    {
+      "id": "stop_piazza_della_minerva",
+      "name": "Piazza della Minerva",
+      "latitude": 41.8979,
+      "longitude": 12.4776,
+      "order": 9,
+      "shortDescription": "A charming piazza just behind the Pantheon. It features an adorable marble elephant statue designed by Bernini, which is carrying an ancient Egyptian obelisk on its back."
+    },
+    {
+      "id": "stop_pantheon",
+      "name": "Pantheon",
+      "latitude": 41.8986,
+      "longitude": 12.4769,
+      "order": 10,
+      "shortDescription": "A former Roman temple, now a church, renowned for its massive unreinforced concrete dome and central oculus. It remains one of the best-preserved ancient Roman buildings in the world."
+    },
+    {
+      "id": "stop_piazza_navona",
+      "name": "Piazza Navona",
+      "latitude": 41.8992,
+      "longitude": 12.4731,
+      "order": 11,
+      "shortDescription": "Built directly on the site of the ancient Stadium of Domitian, this elegant, oval-shaped piazza features magnificent fountains, including Bernini's spectacular Fountain of the Four Rivers."
+    },
+    {
+      "id": "stop_trevi_fountain",
+      "name": "Trevi Fountain",
+      "latitude": 41.9009,
+      "longitude": 12.4833,
+      "order": 12,
+      "shortDescription": "The largest Baroque fountain in the city and arguably the most famous fountain in the world. Tradition says tossing a coin over your left shoulder ensures your return to Rome."
+    },
+    {
+      "id": "stop_spanish_steps",
+      "name": "Spanish Steps",
+      "latitude": 41.9057,
+      "longitude": 12.4823,
+      "order": 13,
+      "shortDescription": "A monumental, sweeping stairway of 135 steps connecting Piazza di Spagna to the Trinità dei Monti church. It has served as a classic meeting place and an iconic Roman landmark for centuries."
     }
   ]
 }

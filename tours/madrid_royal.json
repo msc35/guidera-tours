@@ -52,6 +52,70 @@
       "longitude": -3.714312,
       "order": 5,
       "shortDescription": "The official residence of the Spanish royal family, though now only used for state ceremonies. With over 3,400 rooms, it is the largest functioning royal palace and largest by floor area in Europe."
+    },
+    {
+      "id": "stop_plaza_de_oriente",
+      "name": "Plaza de Oriente",
+      "latitude": 40.4183,
+      "longitude": -3.7122,
+      "order": 6,
+      "shortDescription": "A monumental square facing the Royal Palace, featuring beautifully manicured gardens and a collection of limestone statues depicting historical Spanish kings."
+    },
+    {
+      "id": "stop_teatro_real",
+      "name": "Teatro Real",
+      "latitude": 40.4184,
+      "longitude": -3.7106,
+      "order": 7,
+      "shortDescription": "Madrid's major opera house located right on Plaza de Oriente. Since its opening in 1850, it has been one of the great theaters of Europe."
+    },
+    {
+      "id": "stop_sabatini_gardens",
+      "name": "Sabatini Gardens",
+      "latitude": 40.4199,
+      "longitude": -3.7142,
+      "order": 8,
+      "shortDescription": "Elegant, neoclassical gardens situated on the north side of the Royal Palace. They offer a tranquil retreat with geometric hedges, pools, and statues."
+    },
+    {
+      "id": "stop_plaza_de_espana",
+      "name": "Plaza de España",
+      "latitude": 40.4234,
+      "longitude": -3.7122,
+      "order": 9,
+      "shortDescription": "A large, popular square featuring a prominent monument to Miguel de Cervantes, the author of Don Quixote, situated at the western end of Gran Vía."
+    },
+    {
+      "id": "stop_temple_of_debod",
+      "name": "Temple of Debod",
+      "latitude": 40.4240,
+      "longitude": -3.7177,
+      "order": 10,
+      "shortDescription": "An authentic ancient Egyptian temple dismantled and rebuilt in Madrid. It was gifted to Spain in 1968 and offers one of the most stunning sunset views in the city."
+    },
+    {
+      "id": "stop_gran_via",
+      "name": "Gran Vía",
+      "latitude": 40.4215,
+      "longitude": -3.7064,
+      "order": 11,
+      "shortDescription": "Often called the 'Spanish Broadway,' this bustling street is famous for its grandiose 20th-century architecture, massive theaters, and endless shopping."
+    },
+    {
+      "id": "stop_plaza_del_callao",
+      "name": "Plaza del Callao",
+      "latitude": 40.4201,
+      "longitude": -3.7056,
+      "order": 12,
+      "shortDescription": "The bustling, cinematic heart of Gran Vía, surrounded by historic movie theaters and massive digital billboards reminiscent of Times Square or Piccadilly Circus."
+    },
+    {
+      "id": "stop_descalzas_reales",
+      "name": "Monasterio de las Descalzas Reales",
+      "latitude": 40.4183,
+      "longitude": -3.7061,
+      "order": 13,
+      "shortDescription": "A serene royal monastery founded in 1559. It is surprisingly wealthy, housing incredible tapestries and artwork donated by the noblewomen who lived there in seclusion."
     }
   ]
 }

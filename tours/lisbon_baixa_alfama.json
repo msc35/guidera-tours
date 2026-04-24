@@ -52,6 +52,70 @@
       "longitude": -9.133333,
       "order": 5,
       "shortDescription": "A Moorish castle towering majestically over Lisbon's historic center. Walking its ancient, pine-shaded ramparts rewards you with arguably the most breathtaking panoramic views of the entire city."
+    },
+    {
+      "id": "stop_miradouro_portas_do_sol",
+      "name": "Miradouro das Portas do Sol",
+      "latitude": 38.7126,
+      "longitude": -9.1302,
+      "order": 6,
+      "shortDescription": "A spectacular viewing terrace situated just above Alfama. It provides a postcard-perfect view over the labyrinth of medieval streets tumbling down towards the glittering river."
+    },
+    {
+      "id": "stop_alfama_district",
+      "name": "Alfama Labyrinth",
+      "latitude": 38.7113,
+      "longitude": -9.1292,
+      "order": 7,
+      "shortDescription": "The oldest and most traditional neighborhood in Lisbon. Wandering its steep, maze-like alleyways feels like stepping back in time to the days before the great earthquake."
+    },
+    {
+      "id": "stop_chafariz_de_dentro",
+      "name": "Largo do Chafariz de Dentro",
+      "latitude": 38.7108,
+      "longitude": -9.1276,
+      "order": 8,
+      "shortDescription": "A historic, bustling square at the bottom of the Alfama hill. Historically, its large public fountain provided the main source of drinking water for the surrounding neighborhood."
+    },
+    {
+      "id": "stop_museu_do_fado",
+      "name": "Museu do Fado",
+      "latitude": 38.7107,
+      "longitude": -9.1274,
+      "order": 9,
+      "shortDescription": "A beautiful museum dedicated to Fado, the melancholic, deeply emotional musical genre that was born in these very streets. It's essential for understanding Lisbon's poetic soul."
+    },
+    {
+      "id": "stop_panteao_nacional",
+      "name": "Panteão Nacional (National Pantheon)",
+      "latitude": 38.7150,
+      "longitude": -9.1246,
+      "order": 10,
+      "shortDescription": "Housed in the majestic Church of Santa Engrácia, this towering white monument serves as the final resting place for Portugal's most illustrious presidents, writers, and artists."
+    },
+    {
+      "id": "stop_sao_vicente_de_fora",
+      "name": "Monastery of São Vicente de Fora",
+      "latitude": 38.7145,
+      "longitude": -9.1273,
+      "order": 11,
+      "shortDescription": "A stunning 17th-century church and monastery known for its magnificent cloisters, which are fully lined with exquisite blue-and-white tiles depicting the fables of La Fontaine."
+    },
+    {
+      "id": "stop_miradouro_da_graca",
+      "name": "Miradouro da Graça",
+      "latitude": 38.7163,
+      "longitude": -9.1315,
+      "order": 12,
+      "shortDescription": "A popular, lively terrace shaded by pine trees. Locals and tourists alike gather here at an open-air kiosk to enjoy a coffee or beer while admiring the sweeping city views."
+    },
+    {
+      "id": "stop_senhora_do_monte",
+      "name": "Miradouro da Senhora do Monte",
+      "latitude": 38.7190,
+      "longitude": -9.1325,
+      "order": 13,
+      "shortDescription": "The highest viewpoint in Lisbon. Tucked away near a small chapel, it offers the most expansive, unobstructed panorama of the castle, downtown Baixa, and the Tagus River."
     }
   ]
 }

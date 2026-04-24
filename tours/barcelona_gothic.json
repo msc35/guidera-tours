@@ -52,6 +52,78 @@
       "longitude": 2.182056,
       "order": 5,
       "shortDescription": "An outstanding example of Catalan Gothic architecture, built incredibly quickly in just 54 years during the 14th century. Its immense, unadorned stone interior gives it a feeling of vast, breathtaking space."
+    },
+    {
+      "id": "stop_fossar_de_les_moreres",
+      "name": "Fossar de les Moreres",
+      "latitude": 41.3835,
+      "longitude": 2.1825,
+      "order": 6,
+      "shortDescription": "A memorial plaza directly adjacent to the Basilica, built over a cemetery where defenders of the city were buried following the devastating Siege of Barcelona in 1714."
+    },
+    {
+      "id": "stop_el_born_centre",
+      "name": "El Born Centre de Cultura i Memòria",
+      "latitude": 41.3855,
+      "longitude": 2.1837,
+      "order": 7,
+      "shortDescription": "A former public market building from the 19th century that now houses the expansive archaeological ruins of the medieval city beneath its massive iron and glass roof."
+    },
+    {
+      "id": "stop_palau_de_la_musica",
+      "name": "Palau de la Música Catalana",
+      "latitude": 41.3875,
+      "longitude": 2.1753,
+      "order": 8,
+      "shortDescription": "An architectural jewel of Catalan Modernism designed by Lluís Domènech i Montaner. Its stunning stained-glass skylight makes it one of the most beautiful concert halls in the world."
+    },
+    {
+      "id": "stop_placa_sant_felip_neri",
+      "name": "Plaça de Sant Felip Neri",
+      "latitude": 41.3833,
+      "longitude": 2.1749,
+      "order": 9,
+      "shortDescription": "A quiet, romantic, and tragic little square hidden deep in the Gothic Quarter. The church walls still bear the deep scars of shrapnel from a bombing during the Spanish Civil War."
+    },
+    {
+      "id": "stop_mercat_de_la_boqueria",
+      "name": "Mercat de la Boqueria",
+      "latitude": 41.3817,
+      "longitude": 2.1717,
+      "order": 10,
+      "shortDescription": "Barcelona's most famous and vibrant public market, offering an incredible explosion of colors, smells, and tastes with its fresh fruit, jamón ibérico, and seafood stalls."
+    },
+    {
+      "id": "stop_la_rambla",
+      "name": "La Rambla",
+      "latitude": 41.3814,
+      "longitude": 2.1732,
+      "order": 11,
+      "shortDescription": "The city's most famous tree-lined pedestrian boulevard. It acts as the vibrant spine of the old city, constantly buzzing with street performers, tourists, and locals."
+    },
+    {
+      "id": "stop_placa_reial",
+      "name": "Plaça Reial",
+      "latitude": 41.3800,
+      "longitude": 2.1752,
+      "order": 12,
+      "shortDescription": "A lively, elegant square just off La Rambla, famous for its tall palm trees, bustling outdoor cafes, and unique street lamps designed by a young Antoni Gaudí."
+    },
+    {
+      "id": "stop_palau_guell",
+      "name": "Palau Güell",
+      "latitude": 41.3791,
+      "longitude": 2.1744,
+      "order": 13,
+      "shortDescription": "One of Gaudí's earliest masterpieces, a magnificent urban mansion designed for industrialist Eusebi Güell. It features incredibly ornate ironwork and a colorful rooftop."
+    },
+    {
+      "id": "stop_mirador_de_colom",
+      "name": "Mirador de Colom (Columbus Monument)",
+      "latitude": 41.3758,
+      "longitude": 2.1777,
+      "order": 14,
+      "shortDescription": "Standing tall at the southern end of La Rambla near the port, this monument commemorates Christopher Columbus's return to Spain after his first voyage to the Americas."
     }
   ]
 }

@@ -52,6 +52,70 @@
       "longitude": 135.778506,
       "order": 5,
       "shortDescription": "Once known as Gion Shrine, this vibrant Shinto sanctuary was founded over 1,350 years ago. It is famous for hosting the Gion Matsuri, one of Japan's largest and most famous summer festivals."
+    },
+    {
+      "id": "stop_gion_hanamikoji",
+      "name": "Gion Hanamikoji Street",
+      "latitude": 35.0024,
+      "longitude": 135.7745,
+      "order": 6,
+      "shortDescription": "The main street of Kyoto's most famous geisha district. Lined with exclusive ochaya (teahouses), you might be lucky enough to spot a geiko or maiko hurrying to an evening appointment."
+    },
+    {
+      "id": "stop_tatsumi_bridge",
+      "name": "Tatsumi Bridge (Gion Shirakawa)",
+      "latitude": 35.0055,
+      "longitude": 135.7735,
+      "order": 7,
+      "shortDescription": "A small, incredibly photogenic stone bridge crossing the Shirakawa Canal. Surrounded by weeping willows and traditional wooden inns, it perfectly epitomizes the classic beauty of historic Kyoto."
+    },
+    {
+      "id": "stop_chion_in",
+      "name": "Chion-in Temple",
+      "latitude": 35.0055,
+      "longitude": 135.7825,
+      "order": 8,
+      "shortDescription": "The head temple of the Jodo sect of Buddhism. Its massive, awe-inspiring Sanmon gate is the largest wooden gate in Japan, standing an imposing 24 meters tall."
+    },
+    {
+      "id": "stop_shoren_in",
+      "name": "Shoren-in Temple",
+      "latitude": 35.0069,
+      "longitude": 135.7818,
+      "order": 9,
+      "shortDescription": "A tranquil Monzeki temple, meaning its head priests were historically members of the imperial family. It features stunning landscaped gardens and ancient, giant camphor trees near the entrance."
+    },
+    {
+      "id": "stop_heian_shrine",
+      "name": "Heian Shrine",
+      "latitude": 35.0159,
+      "longitude": 135.7824,
+      "order": 10,
+      "shortDescription": "Built in 1895 to commemorate the 1,100th anniversary of Kyoto's founding as the capital. It features a massive, iconic vermilion torii gate and expansive, beautiful strolling pond gardens."
+    },
+    {
+      "id": "stop_okazaki_shrine",
+      "name": "Okazaki Shrine",
+      "latitude": 35.0163,
+      "longitude": 135.7876,
+      "order": 11,
+      "shortDescription": "Affectionately known as the 'Rabbit Shrine,' dedicated to fertility and safe childbirth. The peaceful temple grounds are delightfully covered in hundreds of adorable rabbit statues."
+    },
+    {
+      "id": "stop_nanzen_ji",
+      "name": "Nanzen-ji Temple",
+      "latitude": 35.0112,
+      "longitude": 135.7938,
+      "order": 12,
+      "shortDescription": "One of the most important Zen temples in all of Japan. Its sprawling forested grounds contain beautifully austere rock gardens and a large, unexpected Roman-style brick aqueduct."
+    },
+    {
+      "id": "stop_philosophers_path",
+      "name": "Philosopher's Path",
+      "latitude": 35.0166,
+      "longitude": 135.7951,
+      "order": 13,
+      "shortDescription": "A highly scenic, two-kilometer stone path following a canal lined with hundreds of cherry trees. It was named after a famous Kyoto University philosophy professor who walked it daily."
     }
   ]
 }

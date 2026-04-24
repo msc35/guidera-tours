@@ -52,6 +52,70 @@
       "longitude": 55.274384,
       "order": 5,
       "shortDescription": "A lush green island set against the imposing skyline of Downtown Dubai. It offers an unobstructed, peaceful vantage point of the towering Burj Khalifa above."
+    },
+    {
+      "id": "stop_wings_of_mexico",
+      "name": "Wings of Mexico Statue",
+      "latitude": 25.1896,
+      "longitude": 55.2756,
+      "order": 6,
+      "shortDescription": "An iconic bronze sculpture created by Mexican artist Jorge Marín. Standing in front of the wings perfectly frames the Burj Khalifa in the background for a flawless photo."
+    },
+    {
+      "id": "stop_palace_downtown",
+      "name": "The Palace Downtown",
+      "latitude": 25.1922,
+      "longitude": 55.2766,
+      "order": 7,
+      "shortDescription": "A luxurious, traditional Arabian-style hotel sitting right on the edge of the Burj Lake. Its grand, palm-lined entrance driveway is incredibly photogenic and serene."
+    },
+    {
+      "id": "stop_smbr_boulevard",
+      "name": "Sheikh Mohammed Bin Rashid Boulevard",
+      "latitude": 25.1925,
+      "longitude": 55.2709,
+      "order": 8,
+      "shortDescription": "A wide, beautifully landscaped 3.5-kilometer circular boulevard that completely encompasses Downtown Dubai. It is lined with high-end cafes, restaurants, and public art installations."
+    },
+    {
+      "id": "stop_dubai_waterfall",
+      "name": "The Waterfall Divers",
+      "latitude": 25.1958,
+      "longitude": 55.2785,
+      "order": 9,
+      "shortDescription": "An impressive 24-meter-tall indoor waterfall spanning all four floors of the Dubai Mall. It features stunning, life-sized fiberglass sculptures of human divers plunging into the water."
+    },
+    {
+      "id": "stop_dubai_aquarium",
+      "name": "Dubai Aquarium",
+      "latitude": 25.1973,
+      "longitude": 55.2783,
+      "order": 10,
+      "shortDescription": "Located in the center of the mall, this massive suspended aquarium tank holds 10 million liters of water and houses thousands of aquatic animals, including rare sand tiger sharks."
+    },
+    {
+      "id": "stop_fashion_avenue",
+      "name": "Fashion Avenue",
+      "latitude": 25.1983,
+      "longitude": 55.2762,
+      "order": 11,
+      "shortDescription": "The ultra-luxurious extension of the Dubai Mall. It features its own five-star VIP services, gleaming marble walkways, and over 150 of the world's most prestigious luxury brands."
+    },
+    {
+      "id": "stop_sky_views",
+      "name": "Sky Views Observatory",
+      "latitude": 25.2016,
+      "longitude": 55.2720,
+      "order": 12,
+      "shortDescription": "Located atop the Address Sky View hotel, this observatory features a thrilling glass slide and offers an unparalleled, elevated perspective looking directly back down over the Burj Khalifa."
+    },
+    {
+      "id": "stop_difc_gate",
+      "name": "The Gate Building (DIFC)",
+      "latitude": 25.2120,
+      "longitude": 55.2818,
+      "order": 13,
+      "shortDescription": "A short distance away, this monumental building is the centerpiece of the Financial Centre. Inspired by the Arc de Triomphe, it marks the transition into Dubai's thriving art and finance hub."
     }
   ]
 }

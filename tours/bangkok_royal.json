@@ -52,6 +52,70 @@
       "longitude": 100.49425,
       "order": 5,
       "shortDescription": "Constructed when Bangkok was established as the new capital in 1782. Locals come here to make offerings and pray to the guardian spirits of the city for prosperity and protection."
+    },
+    {
+      "id": "stop_sanam_luang",
+      "name": "Sanam Luang",
+      "latitude": 13.7552,
+      "longitude": 100.4931,
+      "order": 6,
+      "shortDescription": "The vast, open royal field facing the Grand Palace. It has historically been used for royal cremations, traditional kite flying festivals, and massive political rallies."
+    },
+    {
+      "id": "stop_wat_mahathat",
+      "name": "Wat Mahathat",
+      "latitude": 13.7554,
+      "longitude": 100.4905,
+      "order": 7,
+      "shortDescription": "One of the most important centers for Buddhist study and Vipassana meditation in Thailand. It offers a much quieter, contemplative experience compared to the nearby royal temples."
+    },
+    {
+      "id": "stop_amulet_market",
+      "name": "Bangkok Amulet Market",
+      "latitude": 13.7562,
+      "longitude": 100.4897,
+      "order": 8,
+      "shortDescription": "A fascinating, dense maze of narrow riverside alleys where dedicated collectors, monks, and locals haggle over thousands of small religious talismans and protective Buddha pendants."
+    },
+    {
+      "id": "stop_national_museum",
+      "name": "Bangkok National Museum",
+      "latitude": 13.7583,
+      "longitude": 100.4923,
+      "order": 9,
+      "shortDescription": "Housed in the former palace of the Vice King, this museum holds the largest and most comprehensive collection of Thai art and historical artifacts in the entire country."
+    },
+    {
+      "id": "stop_phra_sumen_fort",
+      "name": "Phra Sumen Fort",
+      "latitude": 13.7635,
+      "longitude": 100.4965,
+      "order": 10,
+      "shortDescription": "A striking, white octagonal watchtower sitting proudly by the river. Surrounded by a peaceful park, it is one of only two remaining defensive forts built to protect Rattanakosin Island."
+    },
+    {
+      "id": "stop_khao_san_road",
+      "name": "Khao San Road",
+      "latitude": 13.7590,
+      "longitude": 100.4973,
+      "order": 11,
+      "shortDescription": "The world-famous, bustling epicenter of backpacker culture. It is a chaotic, vibrant street packed with pad thai vendors, cheap foot massages, neon lights, and lively bars."
+    },
+    {
+      "id": "stop_democracy_monument",
+      "name": "Democracy Monument",
+      "latitude": 13.7567,
+      "longitude": 100.5018,
+      "order": 12,
+      "shortDescription": "A massive, imposing Art Deco monument dominating a major traffic circle. It was erected to commemorate the 1932 revolution that permanently ended absolute monarchy in Thailand."
+    },
+    {
+      "id": "stop_golden_mount",
+      "name": "Wat Saket (The Golden Mount)",
+      "latitude": 13.7538,
+      "longitude": 100.5066,
+      "order": 13,
+      "shortDescription": "A gleaming golden chedi resting atop a massive artificial hill. Climbing its 318 spiraling steps rewards you with ringing prayer bells and panoramic, 360-degree views over the old city."
     }
   ]
 }

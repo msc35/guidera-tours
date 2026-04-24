@@ -6,11 +6,19 @@
   "version": 1,
   "stops": [
     {
+      "id": "stop_asakusa_tourist_center",
+      "name": "Asakusa Culture Tourist Information Center",
+      "latitude": 35.7106,
+      "longitude": 139.7965,
+      "order": 0,
+      "shortDescription": "Designed by famous architect Kengo Kuma, the top floor observation deck offers the absolute best panoramic view looking down over Kaminarimon Gate and the entire Nakamise street."
+    },
+    {
       "id": "stop_kaminarimon_gate",
       "name": "Kaminarimon Gate",
       "latitude": 35.710714,
       "longitude": 139.796384,
-      "order": 0,
+      "order": 1,
       "shortDescription": "First built in 942, this 'Thunder Gate' features a massive red lantern weighing 700 kilograms. It serves as the majestic entrance to the Senso-ji temple complex."
     },
     {
@@ -18,15 +26,39 @@
       "name": "Nakamise Shopping Street",
       "latitude": 35.712078,
       "longitude": 139.796347,
-      "order": 1,
+      "order": 2,
       "shortDescription": "One of Japan's oldest shopping streets, dating back to the 17th century. It offers traditional snacks, yukata, and folding fans along its 250-meter length leading to the temple."
+    },
+    {
+      "id": "stop_denboin_street",
+      "name": "Denboin Street",
+      "latitude": 35.7128,
+      "longitude": 139.7951,
+      "order": 3,
+      "shortDescription": "A charming street intersecting Nakamise, styled to perfectly replicate the Edo period. It features hidden ninja figures on rooftops and shops selling traditional crafts and clothing."
+    },
+    {
+      "id": "stop_hoppy_street",
+      "name": "Hoppy Street",
+      "latitude": 35.7138,
+      "longitude": 139.7940,
+      "order": 4,
+      "shortDescription": "A lively, nostalgic alley lined with retro izakayas (Japanese pubs) offering cheap drinks and their famous beef stew (nikomi). A perfect spot for soaking in working-class Tokyo vibes."
+    },
+    {
+      "id": "stop_hanayashiki",
+      "name": "Asakusa Hanayashiki",
+      "latitude": 35.7152,
+      "longitude": 139.7946,
+      "order": 5,
+      "shortDescription": "Originally opened as a flower park in 1853, it is the oldest amusement park in Japan. It features charmingly retro rides tightly packed into a small urban block."
     },
     {
       "id": "stop_senso_ji_temple",
       "name": "Senso-ji Temple",
       "latitude": 35.714765,
       "longitude": 139.796655,
-      "order": 2,
+      "order": 6,
       "shortDescription": "Tokyo's oldest Buddhist temple, founded in 628 AD. Legend holds that two fishermen found a golden statue of Kannon in the Sumida River and the temple was built to enshrine it."
     },
     {
@@ -34,15 +66,23 @@
       "name": "Asakusa Shrine",
       "latitude": 35.715017,
       "longitude": 139.797282,
-      "order": 3,
-      "shortDescription": "Located right next to Sensō-ji, this Shinto shrine survived the air raids of World War II. It was built in 1649 to honor the three men who founded the neighboring Buddhist temple."
+      "order": 7,
+      "shortDescription": "Located right next to Sensō-ji, this Shinto shrine surprisingly survived the air raids of World War II. It was built in 1649 to honor the three men who founded the neighboring Buddhist temple."
+    },
+    {
+      "id": "stop_kamiya_bar",
+      "name": "Kamiya Bar",
+      "latitude": 35.7112,
+      "longitude": 139.7977,
+      "order": 8,
+      "shortDescription": "Established in 1880, this is Japan's first Western-style bar. It is famous for its signature, dangerously potent 'Denki Bran' (Electric Brandy) cocktail invented during the Meiji era."
     },
     {
       "id": "stop_sumida_park",
       "name": "Sumida Park",
       "latitude": 35.712613,
       "longitude": 139.800976,
-      "order": 4,
+      "order": 9,
       "shortDescription": "A beautiful riverside park famous for its hundreds of cherry trees, originally planted by the eighth Tokugawa shogun. It offers a peaceful walking path along the banks of the Sumida River."
     },
     {
@@ -50,16 +90,32 @@
       "name": "Sumida River Walk",
       "latitude": 35.7112,
       "longitude": 139.801,
-      "order": 5,
+      "order": 10,
       "shortDescription": "A modern pedestrian footbridge connecting the historic Asakusa area directly to the Tokyo Skytree district. It provides excellent, unobstructed views of the river and passing boats below."
+    },
+    {
+      "id": "stop_asahi_beer_hall",
+      "name": "Asahi Beer Hall",
+      "latitude": 35.7103,
+      "longitude": 139.8003,
+      "order": 11,
+      "shortDescription": "One of Tokyo's most recognizable modern buildings, designed by Philippe Starck. It is famous for the giant golden structure on its roof, designed to represent the frothy head of a glass of beer."
     },
     {
       "id": "stop_tokyo_skytree",
       "name": "Tokyo Skytree",
       "latitude": 35.710063,
       "longitude": 139.8107,
-      "order": 6,
-      "shortDescription": "Standing at an incredible 634 meters, this broadcasting and observation tower became the tallest structure in Japan upon its completion in 2012. Its height was specifically chosen because '634' can be read as 'Musashi', an old name for the region."
+      "order": 12,
+      "shortDescription": "Standing at an incredible 634 meters, this broadcasting and observation tower became the tallest structure in Japan upon its completion in 2012. It offers breathtaking views across the entire Kanto region."
+    },
+    {
+      "id": "stop_sumida_aquarium",
+      "name": "Sumida Aquarium",
+      "latitude": 35.7102,
+      "longitude": 139.8105,
+      "order": 13,
+      "shortDescription": "A beautifully designed, modern aquarium located at the base of the Skytree. It features a massive open-air tank for penguins and fur seals, and stunning jellyfish displays."
     }
   ]
 }

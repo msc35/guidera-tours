@@ -6,20 +6,20 @@
   "version": 1,
   "stops": [
     {
-      "id": "stop_shibuya_crossing",
-      "name": "Shibuya Crossing",
-      "latitude": 35.6595,
-      "longitude": 139.7005,
-      "order": 0,
-      "shortDescription": "Often described as the busiest intersection in the world, sending up to 3,000 people across the street during a single light change. The neon-lit crossing is a global symbol of Tokyo's kinetic energy."
-    },
-    {
       "id": "stop_hachiko_memorial_statue",
       "name": "Hachiko Memorial Statue",
       "latitude": 35.659063,
       "longitude": 139.700569,
-      "order": 1,
+      "order": 0,
       "shortDescription": "A bronze statue honoring the famously loyal Akita dog who waited at Shibuya Station every day for nine years after his owner's death. It is now Tokyo's most popular meeting spot."
+    },
+    {
+      "id": "stop_shibuya_crossing",
+      "name": "Shibuya Crossing",
+      "latitude": 35.6595,
+      "longitude": 139.7005,
+      "order": 1,
+      "shortDescription": "Often described as the busiest intersection in the world, sending up to 3,000 people across the street during a single light change. The neon-lit crossing is a global symbol of Tokyo's kinetic energy."
     },
     {
       "id": "stop_shibuya_sky",
@@ -30,36 +30,92 @@
       "shortDescription": "A 360-degree open-air observation deck located 229 meters above Shibuya. It offers sweeping views of the crossing below, the Tokyo skyline, and Mount Fuji on clear days."
     },
     {
+      "id": "stop_center_gai",
+      "name": "Shibuya Center-Gai",
+      "latitude": 35.6601,
+      "longitude": 139.6993,
+      "order": 3,
+      "shortDescription": "A narrow, incredibly busy pedestrian street stretching away from the crossing. It is the heart of Shibuya's youth culture, packed with fast food, clothing stores, and blaring music."
+    },
+    {
+      "id": "stop_spain_zaka",
+      "name": "Spain-zaka (Spanish Slope)",
+      "latitude": 35.6613,
+      "longitude": 139.6985,
+      "order": 4,
+      "shortDescription": "A charming, winding pedestrian slope that resembles a narrow Mediterranean street. It is densely packed with tiny boutiques, cafes, and restaurants."
+    },
+    {
+      "id": "stop_shibuya_parco",
+      "name": "Shibuya Parco",
+      "latitude": 35.6621,
+      "longitude": 139.6987,
+      "order": 5,
+      "shortDescription": "A cutting-edge shopping complex that is a mecca for pop culture. Its 'Cyberspace' floor famously houses the official Nintendo Tokyo store and a Pokémon Center."
+    },
+    {
+      "id": "stop_miyashita_park",
+      "name": "Miyashita Park",
+      "latitude": 35.6623,
+      "longitude": 139.7018,
+      "order": 6,
+      "shortDescription": "A brilliant urban redevelopment that transformed a public park into a massive rooftop oasis atop a sleek shopping and dining complex, complete with a skatepark."
+    },
+    {
       "id": "stop_cat_street",
       "name": "Cat Street",
       "latitude": 35.6644,
       "longitude": 139.7042,
-      "order": 3,
+      "order": 7,
       "shortDescription": "The main artery of Ura-Harajuku, a winding pedestrian street renowned for its vibrant street fashion and indie boutiques. Despite its name, you're more likely to spot stylish shoppers than felines here."
+    },
+    {
+      "id": "stop_meiji_jingu",
+      "name": "Meiji Jingu Shrine",
+      "latitude": 35.6763,
+      "longitude": 139.6993,
+      "order": 8,
+      "shortDescription": "Tokyo's grandest Shinto shrine, dedicated to Emperor Meiji. It is surrounded by a dense, tranquil forest of 100,000 trees that completely drowns out the noise of the surrounding city."
     },
     {
       "id": "stop_yoyogi_park",
       "name": "Yoyogi Park",
       "latitude": 35.6669,
       "longitude": 139.6965,
-      "order": 4,
-      "shortDescription": "One of Tokyo's largest city parks, originally the site of the 1964 Olympic Village. It's famous for its sprawling lawns, forested paths, and eclectic weekend gatherings of dancers and performers."
+      "order": 9,
+      "shortDescription": "One of Tokyo's largest city parks, originally the site of the 1964 Olympic Village. It's famous for its sprawling lawns, forested paths, and eclectic weekend gatherings."
     },
     {
       "id": "stop_takeshita_street",
       "name": "Takeshita Street",
       "latitude": 35.671393,
       "longitude": 139.702714,
-      "order": 5,
+      "order": 10,
       "shortDescription": "The bustling, neon-hued epicenter of Japan's kawaii (cute) culture. This narrow 400-meter street is packed with crêpe stands, cosplay boutiques, and quirky youth fashion stores."
+    },
+    {
+      "id": "stop_tokyu_plaza",
+      "name": "Tokyu Plaza Omotesando Harajuku",
+      "latitude": 35.6685,
+      "longitude": 139.7042,
+      "order": 11,
+      "shortDescription": "A major shopping center instantly recognizable by its spectacular, kaleidoscopic mirrored entrance escalator, which has become one of Tokyo's most popular photo spots."
     },
     {
       "id": "stop_omotesando",
       "name": "Omotesando",
       "latitude": 35.6687,
       "longitude": 139.7056,
-      "order": 6,
-      "shortDescription": "Often referred to as Tokyo's Champs-Élysées, this broad, tree-lined avenue is home to striking modern architecture and flagship luxury boutiques. It offers a sophisticated contrast to the wild fashions of nearby Harajuku."
+      "order": 12,
+      "shortDescription": "Often referred to as Tokyo's Champs-Élysées, this broad, tree-lined avenue is home to striking modern architecture and flagship luxury boutiques. It offers a sophisticated contrast to Harajuku."
+    },
+    {
+      "id": "stop_omotesando_hills",
+      "name": "Omotesando Hills",
+      "latitude": 35.6675,
+      "longitude": 139.7088,
+      "order": 13,
+      "shortDescription": "A sleek, multi-level shopping complex brilliantly designed by renowned architect Tadao Ando. It features a continuous spiraling walkway lined with high-end fashion stores."
     }
   ]
 }

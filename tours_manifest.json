@@ -190,6 +190,11 @@
       "id": "edinburgh_royal_mile",
       "version": 2,
       "fileName": "edinburgh_royal_mile.json"
+    },
+    {
+      "id": "manchester_industrial_gothic",
+      "version": 1,
+      "fileName": "manchester_industrial_gothic.json"
     }
   ]
 }

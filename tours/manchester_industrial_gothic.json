@@ -1,0 +1,137 @@
+{
+  "id": "manchester_industrial_gothic",
+  "name": "Manchester: Industrial Giants & Gothic Wonders",
+  "city": "Manchester",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_manchester_cathedral",
+      "name": "Manchester Cathedral",
+      "latitude": 53.4845,
+      "longitude": -2.2443,
+      "order": 0,
+      "shortDescription": "The historic starting point of the city. Originally a collegiate church dating back to 1421, it features some of the finest late-medieval woodwork in the North of England."
+    },
+    {
+      "id": "stop_chethams_library",
+      "name": "Chetham's Library",
+      "latitude": 53.4847,
+      "longitude": -2.2435,
+      "order": 1,
+      "shortDescription": "Founded in 1653, this incredibly atmospheric building is the oldest surviving public library in the English-speaking world. Karl Marx and Friedrich Engels famously studied together here."
+    },
+    {
+      "id": "stop_football_museum",
+      "name": "National Football Museum",
+      "latitude": 53.4849,
+      "longitude": -2.2415,
+      "order": 2,
+      "shortDescription": "Housed in the striking, modern glass Urbis building, this museum celebrates the history and culture of the beautiful game, housing over 140,000 football-related objects."
+    },
+    {
+      "id": "stop_afflecks",
+      "name": "Afflecks",
+      "latitude": 53.4824,
+      "longitude": -2.2366,
+      "order": 3,
+      "shortDescription": "A legendary indoor market spreading across four floors. It defines the independent, alternative spirit of the Northern Quarter, packed with vintage clothes, records, and quirky boutiques."
+    },
+    {
+      "id": "stop_stevenson_square",
+      "name": "Stevenson Square",
+      "latitude": 53.4820,
+      "longitude": -2.2345,
+      "order": 4,
+      "shortDescription": "The historic heart of the bohemian Northern Quarter. It is famous for its vibrant, ever-changing street art that often covers the walls and old public toilet blocks."
+    },
+    {
+      "id": "stop_chinatown_arch",
+      "name": "Chinatown Arch",
+      "latitude": 53.4782,
+      "longitude": -2.2398,
+      "order": 5,
+      "shortDescription": "The second largest Chinatown in the UK. The entrance is marked by a magnificent, highly decorated traditional Chinese paifang arch, originally built in China and shipped over in pieces."
+    },
+    {
+      "id": "stop_manchester_art_gallery",
+      "name": "Manchester Art Gallery",
+      "latitude": 53.4789,
+      "longitude": -2.2415,
+      "order": 6,
+      "shortDescription": "Housed in a grand neoclassical building designed by Charles Barry. The gallery is internationally renowned for its outstanding, world-class collection of Pre-Raphaelite paintings."
+    },
+    {
+      "id": "stop_st_peters_square",
+      "name": "St Peter's Square & Central Library",
+      "latitude": 53.4781,
+      "longitude": -2.2440,
+      "order": 7,
+      "shortDescription": "A sweeping, recently redesigned civic square dominated by the Central Library. The library's breathtaking, Pantheon-inspired circular design makes it an architectural icon of the city."
+    },
+    {
+      "id": "stop_town_hall",
+      "name": "Manchester Town Hall",
+      "latitude": 53.4795,
+      "longitude": -2.2447,
+      "order": 8,
+      "shortDescription": "An absolute masterpiece of Victorian neo-Gothic architecture dominating Albert Square. Its towering clock tower stands as a proud symbol of the city's vast wealth during the Industrial Revolution."
+    },
+    {
+      "id": "stop_st_anns_square",
+      "name": "St Ann's Square",
+      "latitude": 53.4815,
+      "longitude": -2.2450,
+      "order": 9,
+      "shortDescription": "A historic, elegant pedestrianized square known for the 18th-century St Ann's Church. Today, it serves as one of the city's most upscale and relaxing shopping areas."
+    },
+    {
+      "id": "stop_royal_exchange",
+      "name": "Royal Exchange Theatre",
+      "latitude": 53.4823,
+      "longitude": -2.2446,
+      "order": 10,
+      "shortDescription": "A truly unique theatrical space. A futuristic, lunar-module-like glass theatre is suspended directly inside the massive, opulent grand hall of the former Cotton Exchange."
+    },
+    {
+      "id": "stop_barton_arcade",
+      "name": "Barton Arcade",
+      "latitude": 53.4820,
+      "longitude": -2.2464,
+      "order": 11,
+      "shortDescription": "A stunning, beautifully restored Victorian shopping arcade. It is constructed almost entirely of intricately detailed cast iron and glass, offering a glimpse into 19th-century luxury."
+    },
+    {
+      "id": "stop_john_rylands_library",
+      "name": "John Rylands Library",
+      "latitude": 53.4804,
+      "longitude": -2.2483,
+      "order": 12,
+      "shortDescription": "A breathtaking neo-Gothic library standing proudly on Deansgate. Its vaulted ceilings and quiet, cathedral-like historic reading room feel like stepping straight out of a fantasy novel."
+    },
+    {
+      "id": "stop_great_northern",
+      "name": "Great Northern Warehouse",
+      "latitude": 53.4767,
+      "longitude": -2.2485,
+      "order": 13,
+      "shortDescription": "A massive, imposing Victorian goods warehouse that powerfully represents the city's industrial past. It has now been transformed into a bustling leisure and dining complex."
+    },
+    {
+      "id": "stop_roman_fort",
+      "name": "Mamucium (Roman Fort)",
+      "latitude": 53.4740,
+      "longitude": -2.2530,
+      "order": 14,
+      "shortDescription": "The reconstructed ruins of the original Roman fort dating back to 79 AD. It is literally the historical birthplace where the ancient settlement of Manchester first began."
+    },
+    {
+      "id": "stop_castlefield_canals",
+      "name": "Castlefield Canals",
+      "latitude": 53.4735,
+      "longitude": -2.2545,
+      "order": 15,
+      "shortDescription": "The picturesque terminus of the Bridgewater Canal, the world's first industrial canal. The area is defined by its massive, intersecting red-brick railway viaducts and relaxing waterside pubs."
+    }
+  ]
+}

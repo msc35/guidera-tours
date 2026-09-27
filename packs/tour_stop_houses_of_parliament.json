@@ -1,0 +1,243 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_houses_of_parliament",
+ "identity": {
+  "canonical_name": "Houses of Parliament",
+  "aliases": [
+   "Palace of Westminster",
+   "UK Parliament"
+  ],
+  "match_status": "confident",
+  "category": "government building",
+  "qid": "Q62408"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Palace of Westminster, widely known as the Houses of Parliament, is the historic meeting place for the Parliament of the United Kingdom.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The building is often referred to as the 'Mother of All Parliaments' because of its profound influence on democratic systems around the world.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Originally built in the eleventh century, it served as the primary residence of English kings until a devastating fire destroyed the royal apartments in 1512.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "In 1834, a second massive fire destroyed most of the palace, but the eleventh century Westminster Hall miraculously survived.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The present building was designed in the 19th century by Charles Barry in a splendid Perpendicular Gothic style.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Barry's assistant, the passionate Gothic architect Augustus Pugin, famously complained that the building's symmetrical layout was too classical, grumbling that it was 'Tudor details on a classic body'.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The massive complex contains over 1,100 rooms, 100 staircases, and 3 miles of passageways spread over four floors.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "The House of Commons, where elected Members of Parliament meet, is located in the northern part of the building and is distinctly decorated with green leather upholstery.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "The House of Lords, situated in the southern half of the palace, is decorated with rich red leather upholstery to distinguish it from the Commons.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c10",
+   "text": "During the Second World War, the palace suffered extensive bomb damage that required the entire House of Commons chamber to be completely rebuilt.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c11",
+   "text": "In 1987, the palace was officially designated as a UNESCO World Heritage Site alongside Westminster Abbey and St Margaret's Church.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Westminster Hall",
+   "distance_m": 60,
+   "bearing": "NW",
+   "phrase_hint": "about 60 m north-west of Houses of Parliament"
+  },
+  {
+   "id": "sp2",
+   "name": "Big Ben",
+   "distance_m": 137,
+   "bearing": "N",
+   "phrase_hint": "about 140 m to the north, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Parliament Square",
+   "distance_m": 141,
+   "bearing": "NW",
+   "phrase_hint": "about 140 m to the north-west, a short walk"
+  },
+  {
+   "id": "sp4",
+   "name": "St Margaret's Church",
+   "distance_m": 140,
+   "bearing": "W",
+   "phrase_hint": "about 140 m to the west, a short walk"
+  },
+  {
+   "id": "sp5",
+   "name": "The Jewel Tower",
+   "distance_m": 155,
+   "bearing": "SW",
+   "phrase_hint": "about 150 m to the south-west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/Westminster",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  },
+  {
+   "id": "s3",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Palace_of_Westminster",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the upcoming major restoration and renewal project for the palace."
+ ],
+ "created_at": "2026-09-25T09:41:52Z"
+}

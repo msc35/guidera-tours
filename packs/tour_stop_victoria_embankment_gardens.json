@@ -1,0 +1,114 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_victoria_embankment_gardens",
+ "identity": {
+  "canonical_name": "Victoria Embankment Gardens",
+  "aliases": [],
+  "match_status": "confident",
+  "category": "park",
+  "qid": "Q7926695"
+ },
+ "knowledge_depth": "medium",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Victoria Embankment Gardens are a beautiful series of green spaces situated on the north side of the River Thames.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "They were created on land that was newly reclaimed from the river when Sir Joseph Bazalgette built the northern embankment and sewer between 1865 and 1870.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The gardens were officially laid out in 1874, sitting on the inward side of the new roadway named the Victoria Embankment.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Originally, the project was split into four distinct sections, including the Temple Garden to the east and the Main Gardens, originally known as the Adelphi Gardens, to the west.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The two remaining sections were cleverly designed to the south to perfectly follow the natural bend of the River Thames.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Today, these historic and relaxing riverside spaces are maintained under the control of the City of Westminster.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Victoria_Embankment_Gardens",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the many historic statues and memorials located within the gardens."
+ ],
+ "created_at": "2026-09-25T10:13:27Z"
+}

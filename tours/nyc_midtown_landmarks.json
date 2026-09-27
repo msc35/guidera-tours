@@ -3,7 +3,7 @@
   "name": "New York City: Midtown Architecture & Icons",
   "city": "New York City",
   "category": "architecture",
-  "version": 1,
+  "version": 3,
   "stops": [
     {
       "id": "stop_grand_central_terminal",
@@ -54,7 +54,7 @@
       "shortDescription": "A complex of 19 commercial buildings covering 22 acres, commissioned by the Rockefeller family during the Great Depression. It is famous for its sunken plaza, gilded Prometheus statue, and the annual Christmas tree."
     },
     {
-      "id": "stop_st_patricks_cathedral",
+      "id": "stop_st_patricks_cathedral_nyc",
       "name": "St. Patrick's Cathedral",
       "latitude": 40.758465,
       "longitude": -73.976008,

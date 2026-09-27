@@ -1,0 +1,162 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_sainte_chapelle",
+ "identity": {
+  "canonical_name": "Sainte-Chapelle",
+  "aliases": [],
+  "match_status": "confident",
+  "category": "chapel",
+  "qid": "Q193193"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Sainte-Chapelle is a breathtaking royal chapel on the Île de la Cité, ordered by King Saint Louis to house his collection of holy relics.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The King specifically acquired the Holy Crown of Thorns and a piece of the True Cross starting in 1239, and built this chapel as a vast glass reliquary for them.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "It is considered a masterpiece of Rayonnant Gothic architecture, famous for replacing almost all of its upper stone walls with soaring stained-glass windows.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "During the French Revolution, the chapel was closed to worship around 1790 and lost the precious relics that were its very reason for existing.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "By 1797, the empty chapel had been converted into an archive depot for the neighbouring Palais de Justice, which even threatened its survival.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Thanks to strong public pressure, a decision was made in 1836 to save and restore the building, leading to a long and successful campaign.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "Today, because the chapel sits inside the active Courts of Justice complex, all visitors must pass through a strict security check to enter.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Palais de justice de Paris",
+   "distance_m": 33,
+   "bearing": "N",
+   "phrase_hint": "about 35 m north of Sainte-Chapelle"
+  },
+  {
+   "id": "sp2",
+   "name": "Conciergerie",
+   "distance_m": 117,
+   "bearing": "N",
+   "phrase_hint": "about 120 m north of Sainte-Chapelle"
+  },
+  {
+   "id": "sp3",
+   "name": "Tour de l'Horloge",
+   "distance_m": 123,
+   "bearing": "NE",
+   "phrase_hint": "about 120 m to the north-east, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (fr)",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Chapelle",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the exact dimensions of the stained glass windows."
+ ],
+ "created_at": "2026-09-25T10:24:51Z"
+}

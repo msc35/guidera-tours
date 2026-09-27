@@ -1,0 +1,128 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_stoa_of_attalos",
+ "identity": {
+  "canonical_name": "Stoa of Attalos",
+  "aliases": [
+   "Stoa of Attalus"
+  ],
+  "match_status": "confident",
+  "category": "stoa",
+  "qid": "Q1263335"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Stoa of Attalos is a magnificent covered walkway or portico located prominently on the east side of the Ancient Agora.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "It was built around 150 BC and named after King Attalos II of Pergamon, who generously gifted it to the city of Athens.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The king donated the building in gratitude for the excellent education he had received in Athens under the philosopher Carneades.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The original building was in frequent use for centuries until its woodwork was tragically burned by the Heruli invaders in 267 AD.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "What you see today is an incredibly accurate reconstruction completed from 1952 to 1956, largely funded by American donors including John D. Rockefeller Jr.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The impressive reconstructed building currently houses the Museum of the Ancient Agora, with exhibits primarily connected to Athenian democracy.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Temple of Ares",
+   "distance_m": 125,
+   "bearing": "W",
+   "phrase_hint": "about 120 m to the west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Stoa_of_Attalos",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about what specific types of shops or merchants operated in the original stoa."
+ ],
+ "created_at": "2026-09-25T21:51:07Z"
+}

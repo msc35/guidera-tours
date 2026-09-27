@@ -1,0 +1,150 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_shakespeares_globe",
+ "identity": {
+  "canonical_name": "Shakespeare's Globe",
+  "aliases": [
+   "Globe Theatre"
+  ],
+  "match_status": "confident",
+  "category": "theatre",
+  "qid": "Q7725501"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Shakespeare's Globe is a stunning and authentic reconstruction of the original Elizabethan playhouse that was built in 1599.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The original theatre is famously the venue for which the legendary playwright William Shakespeare wrote many of his greatest plays.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Spearheaded by Sam Wanamaker and built using traditional techniques, the reconstruction was finally completed in 1997.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The new theatre is highly celebrated, and its official opening was even attended by Queen Elizabeth II.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "While the main outdoor stage hosts incredible theatrical productions during the summer months, the complex also features the indoor Sam Wanamaker Playhouse.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "If you want to catch a show but didn't book ahead, tickets are often available on the day if you are prepared to stand in the yard.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Sam Wanamaker Playhouse",
+   "distance_m": 40,
+   "bearing": "SE",
+   "phrase_hint": "about 40 m south-east of Shakespeare's Globe"
+  },
+  {
+   "id": "sp2",
+   "name": "Millennium Bridge",
+   "distance_m": 219,
+   "bearing": "NW",
+   "phrase_hint": "about 220 m to the north-west, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Tate Modern",
+   "distance_m": 165,
+   "bearing": "W",
+   "phrase_hint": "about 160 m to the west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Shakespeare%27s_Globe",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/South_Bank",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Information on the exact materials used to authentically reconstruct the building."
+ ],
+ "created_at": "2026-09-25T10:09:02Z"
+}

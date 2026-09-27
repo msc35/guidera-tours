@@ -1,0 +1,158 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_eiffel_tower",
+ "identity": {
+  "canonical_name": "Eiffel Tower",
+  "aliases": [
+   "La Tour Eiffel",
+   "La dame de fer"
+  ],
+  "match_status": "confident",
+  "category": "tower",
+  "qid": "Q243"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The iconic Eiffel Tower was built by engineer Gustave Eiffel to be the grand centrepiece of the 1889 World's Fair.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Locally nicknamed 'La dame de fer' or 'Iron Lady', it was highly controversial at first and heavily criticised by France's leading artists and intellectuals.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Incredibly, the tower was almost entirely torn down in 1909 and was only saved because it proved useful as a giant telegraphy antenna.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Standing 330 metres tall, it held the impressive title of the world's tallest human-made structure for 41 years.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Engraved directly onto the iron framework are the names of 72 different French scientists, engineers, and mathematicians.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Hidden away on the top third level is a private apartment that was built specifically for Gustave Eiffel to host VIP guests like Thomas Edison.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Champ de Mars massacre",
+   "distance_m": 379,
+   "bearing": "SE",
+   "phrase_hint": "about 380 m to the south-east, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Musée du Quai Branly – Jacques Chirac",
+   "distance_m": 346,
+   "bearing": "NE",
+   "phrase_hint": "about 350 m to the north-east, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Pont d'Iéna",
+   "distance_m": 222,
+   "bearing": "NW",
+   "phrase_hint": "about 220 m to the north-west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Paris/7th_arrondissement",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the specific painters and critics who protested its construction."
+ ],
+ "created_at": "2026-09-25T10:32:26Z"
+}

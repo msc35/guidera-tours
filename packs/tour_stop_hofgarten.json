@@ -1,0 +1,252 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_hofgarten",
+ "identity": {
+  "canonical_name": "Hofgarten",
+  "aliases": [
+   "Court Garden"
+  ],
+  "match_status": "confident",
+  "category": "park",
+  "qid": "Q707673"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Hofgarten is an Italian Renaissance-style garden located at the northern edge of Munich's Old Town, situated between the Residenz and the Englischer Garten.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The garden was created starting in 1613 under Duke Maximilian I of Bavaria as a northern extension of the Munich Residenz.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "At the center of the garden stands the Dianatempel, an eight-arched pavilion built in 1615 by Heinrich Schön the Elder.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The roof of the Dianatempel is crowned by a 1623 bronze replica of the Tellus Bavaria statue, created by Hubert Gerhard.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Inside the Dianatempel are four shell-decorated wall fountains that were famously mentioned in André Gide's book 'The Fruits of the Earth'.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The main western entrance, the Hofgartentor, was built in 1816 and was the first architectural work completed in Munich by Leo von Klenze.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The northern and western edges of the garden are bordered by arcades, and the western arcades feature frescoes by Peter von Cornelius depicting the history of the House of Wittelsbach.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "The east side of the garden is closed by the Bavarian State Chancellery, whose central dome is a surviving relic of the former Bavarian Army Museum that was largely destroyed in World War II.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "In front of the State Chancellery stands a war memorial built in the 1920s to commemorate the people of Munich who died in the First World War.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c10",
+   "text": "A black granite memorial in the northeast corner of the garden honors the White Rose group, whose members were executed for their nonviolent resistance against Hitler's regime.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c11",
+   "text": "The garden was heavily damaged during World War II and its reconstruction combined the original 17th-century formal Renaissance design with elements of a 19th-century landscape garden.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Dianatempel",
+   "distance_m": 29,
+   "bearing": "S",
+   "phrase_hint": "about 30 m south of Hofgarten"
+  },
+  {
+   "id": "sp2",
+   "name": "Odeonsplatz",
+   "distance_m": 152,
+   "bearing": "W",
+   "phrase_hint": "about 150 m to the west, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Herkulessaal",
+   "distance_m": 159,
+   "bearing": "S",
+   "phrase_hint": "about 160 m to the south, a short walk"
+  },
+  {
+   "id": "sp4",
+   "name": "Kriegerdenkmal im Hofgarten",
+   "distance_m": 161,
+   "bearing": "SE",
+   "phrase_hint": "about 160 m to the south-east, a short walk"
+  },
+  {
+   "id": "sp5",
+   "name": "Deutsches Theatermuseum",
+   "distance_m": 50,
+   "bearing": "NE",
+   "phrase_hint": "about 50 m north-east of Hofgarten"
+  },
+  {
+   "id": "sp6",
+   "name": "Hofgartentor",
+   "distance_m": 161,
+   "bearing": "SW",
+   "phrase_hint": "about 160 m to the south-west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Hofgarten_(M%C3%BCnchen)",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Hofgarten_(Munich)",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details on the specific floral designs on the south side created by Carl Effner."
+ ],
+ "created_at": "2026-09-25T09:25:46Z"
+}

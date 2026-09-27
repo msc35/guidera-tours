@@ -1,0 +1,176 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_petit_palais",
+ "identity": {
+  "canonical_name": "Petit Palais",
+  "aliases": [
+   "Musée du Petit Palais",
+   "Museum of Fine Arts of the City of Paris"
+  ],
+  "match_status": "confident",
+  "category": "museum",
+  "qid": "Q820892"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The elegant Petit Palais was built by architect Charles Girault specifically to complement the Grand Palais for the 1900 universal exhibition.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "It was actually constructed partly on the ruins of the older Palais de l'Industrie, which had been demolished just a few years prior in 1896.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The building is masterfully designed around a peaceful semi-circular garden courtyard.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The original exhibition spaces were brilliantly designed to be illuminated entirely by natural sunlight pouring through large windows and transparent domes.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Following the exhibition, it became the official Museum of Fine Arts for the City of Paris.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Today, it displays a vast permanent collection of historic artworks and artifacts spanning from ancient history up to around 1914.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The museum's holdings were massively enriched in 1902 when brothers Eugène and Auguste Dutuit generously donated their massive private collection of major artworks.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Grand Palais",
+   "distance_m": 147,
+   "bearing": "W",
+   "phrase_hint": "about 150 m to the west, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Avenue Winston-Churchill",
+   "distance_m": 51,
+   "bearing": "NW",
+   "phrase_hint": "about 50 m north-west of Petit Palais"
+  },
+  {
+   "id": "sp3",
+   "name": "Collection Dutuit",
+   "distance_m": 5,
+   "bearing": "NE",
+   "phrase_hint": "right next to Petit Palais, to the north-east"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (fr)",
+   "url": "https://fr.wikipedia.org/wiki/Petit_Palais",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikidata",
+   "label": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q820892",
+   "license": "CC0",
+   "tier": 2
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Paris/8th_arrondissement",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the elaborate sculptures decorating the main entrance porch."
+ ],
+ "created_at": "2026-09-25T10:29:51Z"
+}

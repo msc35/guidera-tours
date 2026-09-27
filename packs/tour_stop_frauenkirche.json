@@ -1,0 +1,301 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_frauenkirche",
+ "identity": {
+  "canonical_name": "Frauenkirche",
+  "aliases": [
+   "Dom zu Unserer Lieben Frau",
+   "Münchner Dom",
+   "Church of Our Lady"
+  ],
+  "match_status": "confident",
+  "category": "church",
+  "qid": "Q167193"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Frauenkirche, officially known as the Dom zu Unserer Lieben Frau, is a late Gothic brick church that serves as the cathedral of the Archdiocese of Munich and Freising.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4",
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Construction of the church began in 1468 under the direction of architect Jörg von Halsbach, and the main building was completed in only 20 years.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4",
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Brick was chosen as the primary building material because there were no stone quarries nearby and for financial reasons.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s4",
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The original design called for pointed Gothic spires on top of the towers, but they were never built due to a lack of money.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s4",
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The towers remained unfinished until 1525, when they were topped with the distinctive domes that now define the Munich skyline.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s4",
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The design of the characteristic domes atop the towers may have been modelled after the Dome of the Rock in Jerusalem.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The two towers are almost equal in height, with the north tower measuring 98.57 meters and the south tower 98.45 meters.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4",
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "A widespread local legend incorrectly claims that the two towers differ in height by exactly one meter.",
+   "type": "story",
+   "story_type": "local_legend",
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [
+    "mistake_that_stuck"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "To preserve the city's skyline, local laws and a 2004 plebiscite prohibit the construction of any building in the city center taller than 99 meters.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4",
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c10",
+   "text": "Eleven kings and archdukes of Bavaria are interred within the church.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c11",
+   "text": "Inside the entrance of the church is a black mark resembling a footprint, known as the Teufelstritt (Devil's Footstep).",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c12",
+   "text": "According to legend, the Devil stomped his foot furiously at the entrance after realizing the builder had cleverly positioned columns to hide the church's windows from that spot.",
+   "type": "story",
+   "story_type": "local_legend",
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c13",
+   "text": "Another version of the legend claims that the wind blowing around the church was left behind by the Devil when he stormed away in anger.",
+   "type": "story",
+   "story_type": "local_legend",
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c14",
+   "text": "The church suffered severe damage from air raids during World War II, and its final stage of restoration was completed in 1994.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s4",
+    "s5"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Kaufingerstraße",
+   "distance_m": 102,
+   "bearing": "SW",
+   "phrase_hint": "about 100 m south-west of Frauenkirche"
+  },
+  {
+   "id": "sp2",
+   "name": "Marienkapelle",
+   "distance_m": 6,
+   "bearing": "S",
+   "phrase_hint": "right next to Frauenkirche, to the south"
+  },
+  {
+   "id": "sp3",
+   "name": "Altstadt",
+   "distance_m": 75,
+   "bearing": "S",
+   "phrase_hint": "about 75 m south of Frauenkirche"
+  },
+  {
+   "id": "sp4",
+   "name": "Teufelstritt",
+   "distance_m": 20,
+   "bearing": "E",
+   "phrase_hint": "right next to Frauenkirche, to the east"
+  },
+  {
+   "id": "sp5",
+   "name": "Thomass-Eck",
+   "distance_m": 152,
+   "bearing": "SE",
+   "phrase_hint": "about 150 m to the south-east, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Frauenkirche_(M%C3%BCnchen)",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Frauenkirche,_Munich",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s5",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Munich/Altstadt",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Information regarding the detailed layout of the interior and the current main altar."
+ ],
+ "created_at": "2026-09-25T09:20:56Z"
+}

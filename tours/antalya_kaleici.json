@@ -3,7 +3,7 @@
   "name": "Antalya: Secrets of Kaleiçi Old Town",
   "city": "Antalya",
   "category": "historical",
-  "version": 1,
+  "version": 3,
   "stops": [
     {
       "id": "stop_hadrians_gate",
@@ -70,7 +70,7 @@
       "shortDescription": "An elegant 18th-century Ottoman mosque situated near the Clock Tower. It features beautiful Arabic calligraphy and colorful, intricate Iznik tilework over its windows and arches."
     },
     {
-      "id": "stop_cumhuriyet_square",
+      "id": "stop_cumhuriyet_square_antalya",
       "name": "Cumhuriyet Square",
       "latitude": 36.8870,
       "longitude": 30.7038,

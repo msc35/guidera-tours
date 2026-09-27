@@ -1,0 +1,154 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_lapin_agile",
+ "identity": {
+  "canonical_name": "Au Lapin Agile",
+  "aliases": [
+   "Lapin Agile",
+   "Le Lapin Agile"
+  ],
+  "match_status": "confident",
+  "category": "cabaret",
+  "qid": "Q1423353"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The famous Lapin Agile cabaret has a colourful history, originally operating around 1860 under the shady name 'Where the Thieves Meet'.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Around 1880, its name was changed to 'Cabaret des Assassins' after a terrifying local legend claimed a gang of robbers murdered the owner's son there.",
+   "type": "historical_fact",
+   "story_type": "local_legend",
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s2"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The current name finally stuck after the artist Andre Gill painted a humorous sign in 1875 depicting a nimble rabbit jumping out of a saucepan.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Unfortunately, that original iconic painting on canvas was stolen in 1893, so the one you see today is actually just a timber reproduction.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "To save the beloved venue from total demolition, the famous cabaret singer Aristide Bruant purchased the building.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "It soon became the ultimate gathering spot for struggling young artists like Picasso and Modigliani, who would spend their nights passionately discussing the meaning of art.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Rue des Saules",
+   "distance_m": 84,
+   "bearing": "N",
+   "phrase_hint": "about 85 m north of Au Lapin Agile"
+  },
+  {
+   "id": "sp2",
+   "name": "Vigne de Montmartre",
+   "distance_m": 14,
+   "bearing": "N",
+   "phrase_hint": "right next to Au Lapin Agile, to the north"
+  },
+  {
+   "id": "sp3",
+   "name": "Saint-Vincent Cemetery",
+   "distance_m": 115,
+   "bearing": "NW",
+   "phrase_hint": "about 120 m north-west of Au Lapin Agile"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Lapin_Agile",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s2",
+   "kind": "wikidata",
+   "label": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q1423353",
+   "license": "CC0",
+   "tier": 2
+  }
+ ],
+ "gaps": [
+  "Details about the famous painting 'At the Lapin Agile' by Picasso that used to hang here."
+ ],
+ "created_at": "2026-09-25T10:51:36Z"
+}

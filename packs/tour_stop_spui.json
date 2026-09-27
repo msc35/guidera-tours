@@ -1,0 +1,143 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_spui",
+ "identity": {
+  "canonical_name": "Spui",
+  "aliases": [
+   "Spui (Amsterdam)"
+  ],
+  "match_status": "confident",
+  "category": "square",
+  "qid": "Q281703"
+ },
+ "knowledge_depth": "medium",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Spui is a famous square in the centre of Amsterdam, but for centuries it was actually a body of water forming the city's southern border.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The name roughly translates to a 'lockable water discharge', referring to its original function before the area was transformed.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The water was eventually completely filled in back in 1882 to create the wide open square that you see today.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Following a major renovation in 1996, the bustling square was made largely car-free to create a much safer and pedestrian-friendly environment.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The area is well known for hosting an incredibly popular weekly book market every single Friday.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s3",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "It also completely transforms again on Sundays to host a lovely outdoor market entirely dedicated to unique art and antiques.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s3",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Begijnhof",
+   "distance_m": 94,
+   "bearing": "NE",
+   "phrase_hint": "about 95 m north-east of Spui"
+  },
+  {
+   "id": "sp2",
+   "name": "Het Lieverdje",
+   "distance_m": 4,
+   "bearing": "S",
+   "phrase_hint": "right next to Spui, to the south"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s3",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Spui_(Amsterdam)",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Amsterdam/Binnenstad",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the famous 'Het Lieverdje' statue."
+ ],
+ "created_at": "2026-09-25T11:20:07Z"
+}

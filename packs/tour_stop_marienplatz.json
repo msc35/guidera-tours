@@ -1,0 +1,270 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_marienplatz",
+ "identity": {
+  "canonical_name": "Marienplatz",
+  "aliases": [
+   "Mary's Square",
+   "Schrannenplatz"
+  ],
+  "match_status": "confident",
+  "category": "square",
+  "qid": "Q252648"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Marienplatz is the central square of Munich's inner city and has been the city's main square since its founding in 1158 by Henry the Lion.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The square was originally called Markth (market), Schranne, and later Schrannenplatz (grain market square).",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "In 1315, Emperor Ludwig the Bavarian granted Munich market freedom with the condition that the square remain unbuilt for all time.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "During the Middle Ages, the square served as a site for markets, executions, knight tournaments, and festive receptions for visiting emperors.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "In 1638, Elector Maximilian I had the Mariensäule (Marian column) erected in the square to celebrate the end of Swedish occupation during the Thirty Years' War.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The construction of the Mariensäule was seen as an affront by the citizens, as it violated the 1315 privilege that reserved the square as city-owned territory.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "On October 9, 1854, the square was renamed Marienplatz (Mary's Square) to entrust the city to the Patrona Bavariae in hopes of saving it from a cholera epidemic.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [
+    "name_origin",
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "Between 1867 and 1909, the neogothic New Town Hall (Neues Rathaus) was built on the north side of the square by architect Georg von Hauberrisser.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "The construction of the New Town Hall required the demolition of 21 traditional burgher houses and the old government building (Landschaftshäuser).",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c10",
+   "text": "The Old Town Hall (Altes Rathaus) stands on the east side of the square and is a reconstructed Gothic council hall.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c11",
+   "text": "The Glockenspiel in the tower of the New Town Hall was inspired by the medieval tournaments that used to be held in the square.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c12",
+   "text": "The buildings surrounding Marienplatz were severely damaged during the Second World War, resulting in the loss of historical buildings on the south side.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Neues Rathaus",
+   "distance_m": 44,
+   "bearing": "NW",
+   "phrase_hint": "on the north-west edge of Marienplatz, about 45 m away"
+  },
+  {
+   "id": "sp2",
+   "name": "Altes Rathaus",
+   "distance_m": 79,
+   "bearing": "SE",
+   "phrase_hint": "on the south-east edge of Marienplatz, about 80 m away"
+  },
+  {
+   "id": "sp3",
+   "name": "Mariensäule",
+   "distance_m": 46,
+   "bearing": "W",
+   "phrase_hint": "on the west edge of Marienplatz, about 45 m away"
+  },
+  {
+   "id": "sp4",
+   "name": "Fischbrunnen",
+   "distance_m": 11,
+   "bearing": "NE",
+   "phrase_hint": "on the north-east side of Marienplatz"
+  },
+  {
+   "id": "sp5",
+   "name": "Glockenspiel",
+   "distance_m": 59,
+   "bearing": "NW",
+   "phrase_hint": "on the north-west edge of Marienplatz, about 60 m away"
+  },
+  {
+   "id": "sp6",
+   "name": "St. Peter's Church, Munich",
+   "distance_m": 88,
+   "bearing": "S",
+   "phrase_hint": "on the south edge of Marienplatz, about 90 m away"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Marienplatz_(M%C3%BCnchen)",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Marienplatz",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Detailed information about the current buildings on the south and west sides."
+ ],
+ "created_at": "2026-09-25T09:19:52Z"
+}

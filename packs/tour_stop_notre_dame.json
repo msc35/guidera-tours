@@ -1,0 +1,151 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_notre_dame",
+ "identity": {
+  "canonical_name": "Cathédrale Notre-Dame de Paris",
+  "aliases": [
+   "Notre Dame Cathedral",
+   "Notre-Dame"
+  ],
+  "match_status": "confident",
+  "category": "cathedral",
+  "qid": "Q2981"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Cathédrale Notre-Dame de Paris is an iconic Early Gothic masterpiece dedicated to the Virgin Mary.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Its ambitious construction began in 1163 and was not fully completed until the 14th century.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The cathedral famously inspired Victor Hugo's celebrated novel, which was published in 1831 and helped shape its modern history.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Before tragedy struck, it was the most visited monument in Europe, drawing some 13 to 14 million people every single year.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "On 15 April 2019, a devastating fire destroyed the cathedral's historic spire and its entire wooden roof structure.",
+   "type": "event",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Following a massive and complex restoration effort, this resilient symbol of France proudly reopened to the public in December 2024.",
+   "type": "event",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Hôtel-Dieu",
+   "distance_m": 200,
+   "bearing": "NW",
+   "phrase_hint": "about 200 m to the north-west, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Crypte archéologique du parvis Notre-Dame",
+   "distance_m": 150,
+   "bearing": "NW",
+   "phrase_hint": "about 150 m to the north-west, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Pont au Double",
+   "distance_m": 115,
+   "bearing": "W",
+   "phrase_hint": "about 110 m west of Cathédrale Notre-Dame de Paris"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (fr)",
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Paris",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the architectural choices made for the 2024 rebuilt spire."
+ ],
+ "created_at": "2026-09-25T10:24:17Z"
+}

@@ -1,0 +1,163 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_cleopatras_needle",
+ "identity": {
+  "canonical_name": "Cleopatra's Needle",
+  "aliases": [
+   "Cleopatra's Needle, London"
+  ],
+  "match_status": "confident",
+  "category": "monument",
+  "qid": "Q729177"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Cleopatra's Needle is a genuine ancient Egyptian obelisk that was originally erected in the city of Heliopolis around 1450 BC.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The massive monument was carved from red granite and features incredible ancient inscriptions added by both Thutmose III and Ramesses II.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "After being moved to Alexandria by the Romans in 12 BC, it actually toppled over, which fortuitously preserved its hieroglyphs by burying them.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "It was gifted to Britain in 1819 to celebrate military victories, but because the government refused to pay for shipping, it sat in Egypt until 1877.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "During its treacherous voyage to London, the transport ship capsized in a terrible storm, tragically killing six crewmembers.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Believed to be lost forever at sea, the obelisk was miraculously found floating by Spanish trawlers before finally arriving in London in 1878.",
+   "type": "story",
+   "story_type": "documented_anecdote",
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "Today, it sits on the Victoria Embankment flanked by two faux-sphinxes, which still show the shrapnel damage from World War II bombings.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Victoria Embankment",
+   "distance_m": 141,
+   "bearing": "SW",
+   "phrase_hint": "about 140 m to the south-west, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Embankment tube station",
+   "distance_m": 175,
+   "bearing": "SW",
+   "phrase_hint": "about 170 m to the south-west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Cleopatra%27s_Needle,_London",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/Covent_Garden",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about what items were placed in a time capsule hidden beneath the obelisk."
+ ],
+ "created_at": "2026-09-25T10:12:57Z"
+}

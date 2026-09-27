@@ -1,0 +1,153 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_gwanghwamun_gate",
+ "identity": {
+  "canonical_name": "Gwanghwamun Gate",
+  "aliases": [
+   "Gwanghwamun"
+  ],
+  "match_status": "confident",
+  "category": "gate",
+  "qid": "Q485034"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Gwanghwamun is the grand main and south gate of Gyeongbokgung Palace, situated in the Jongno District of Seoul.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Originally completed in 1395, it was given its current name in 1426 by King Sejong the Great, with a meaning thought to be 'spreading the dignity and virtue of the country far and wide.'",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "person"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The gate has suffered multiple destructions throughout its history, including burning down during the 1592 Imjin War and the Korean War.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "A controversial 1968 reconstruction rebuilt the gate almost entirely out of concrete and steel, symbolizing Korea's modernization at the time.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The most recent large-scale restoration to its original wooden form and placement was opened to the public on August 15, 2010.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "In front of the gate stand stone statues of a mythical creature called a 'haetae' (xiezhi), which is traditionally believed to guard against fire and evil spirits.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Heungnyemun",
+   "distance_m": 117,
+   "bearing": "N",
+   "phrase_hint": "about 120 m north of Gwanghwamun Gate"
+  },
+  {
+   "id": "sp2",
+   "name": "National Palace Museum of Korea",
+   "distance_m": 159,
+   "bearing": "NW",
+   "phrase_hint": "about 160 m to the north-west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "osm",
+   "label": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/#map=18/37.5759/126.9768",
+   "license": "ODbL",
+   "tier": 4
+  },
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Gwanghwamun",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikidata",
+   "label": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q485034",
+   "license": "CC0",
+   "tier": 2
+  }
+ ],
+ "gaps": [
+  "Details on the royal changing of the guard ceremony that takes place daily in the plaza before the gate."
+ ],
+ "created_at": "2026-09-27T22:13:35Z"
+}

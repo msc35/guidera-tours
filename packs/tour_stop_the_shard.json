@@ -1,0 +1,154 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_the_shard",
+ "identity": {
+  "canonical_name": "The Shard",
+  "aliases": [
+   "Shard London Bridge",
+   "London Bridge Tower"
+  ],
+  "match_status": "confident",
+  "category": "skyscraper",
+  "qid": "Q18536"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Shard is a spectacular 95-storey skyscraper that stands out as the tallest building in both the United Kingdom and Western Europe.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Italian architect Renzo Piano designed the building to look like a spire emerging from the Thames, inspired by the masts of sailing ships.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Interestingly, the building got its name from critics who complained it would look like a shard of glass plunged into the heart of historic London.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "To achieve its stunning appearance, the facade is covered with 11,000 angled panes of glass designed to reflect the sunlight and sky.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The massive tower replaced an older 24-storey office block that was built on this exact site back in 1975.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "At a breathtaking height of 244 metres, visitors can step outside onto the open-air observation deck located on the 72nd floor.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "While you must book an entry timeslot, you can stay as long as you like at the top and even enjoy cocktails with the panoramic view.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "London Bridge station",
+   "distance_m": 56,
+   "bearing": "E",
+   "phrase_hint": "about 55 m east of The Shard"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/The_Shard",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/South_Bank",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details on the types of businesses and tenants that occupy the lower floors."
+ ],
+ "created_at": "2026-09-25T10:08:04Z"
+}

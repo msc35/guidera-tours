@@ -1,0 +1,243 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_buckingham_palace",
+ "identity": {
+  "canonical_name": "Buckingham Palace",
+  "aliases": [
+   "Buckingham House",
+   "The Queen's House"
+  ],
+  "match_status": "confident",
+  "category": "palace",
+  "qid": "Q42182"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Buckingham Palace is the official residence and administrative headquarters of the British monarch in London.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The core of the building was originally a large townhouse constructed in 1703 for the Duke of Buckingham and Normanby.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "King George III acquired the property in 1761 to serve as a private residence for Queen Charlotte, when it became known as The Queen's House.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "It was not until the accession of Queen Victoria in June 1837 that Buckingham Palace officially became the principal London residence of the monarch.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The palace features the famous East Front balcony where the royal family traditionally gathers to greet the public during national celebrations.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "During the Second World War, a German bomb completely destroyed the palace chapel.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The King's Gallery was built on the site of the destroyed chapel and opened in 1962 to display art from the Royal Collection.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "The massive building contains exactly 775 rooms, which includes 19 state rooms, 92 offices, and 188 staff bedrooms.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "The palace is effectively a self-contained village that features its own cinema, swimming pool, doctor's surgery, jeweller's workshop, and post office.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c10",
+   "text": "The palace grounds boast the largest private garden in all of London.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c11",
+   "text": "During the summer months, the 19 State Rooms used for official royal entertaining are opened to the public.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c12",
+   "text": "The famous Changing of the Guard ceremony takes place right outside the palace.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Victoria Memorial",
+   "distance_m": 105,
+   "bearing": "NE",
+   "phrase_hint": "about 100 m north-east of Buckingham Palace"
+  },
+  {
+   "id": "sp2",
+   "name": "The Green Park",
+   "distance_m": 385,
+   "bearing": "NW",
+   "phrase_hint": "about 380 m to the north-west, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Changing of the Guard",
+   "distance_m": 56,
+   "bearing": "NE",
+   "phrase_hint": "about 55 m north-east of Buckingham Palace"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Buckingham_Palace",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/Westminster",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the famous royal balcony appearances throughout history."
+ ],
+ "created_at": "2026-09-25T09:38:39Z"
+}

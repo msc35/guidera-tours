@@ -1,0 +1,216 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_westminster_abbey",
+ "identity": {
+  "canonical_name": "Westminster Abbey",
+  "aliases": [
+   "Collegiate Church of Saint Peter at Westminster"
+  ],
+  "match_status": "confident",
+  "category": "church",
+  "qid": "Q5933"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Westminster Abbey is a large Anglican church that is formally known as the Collegiate Church of Saint Peter at Westminster.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The abbey has been the prestigious location for the coronations of 40 different English and British monarchs since the year 1066.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The church has also hosted at least 16 royal weddings, including the marriage of Prince William and Catherine Middleton in 2011.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The origins of the church date back to around the year 959, when it was established by a community of Benedictine monks on what was then known as Thorney Island.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Construction of the present magnificent Gothic church began much later, in the year 1245, under the orders of King Henry III.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Unusually for an English church, the abbey's architecture was heavily inspired by French Gothic styles, featuring the highest nave of any Gothic church in England.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The western towers were not added until the 18th century, designed by Nicholas Hawksmoor to blend the abbey's Gothic style with contemporary Baroque elements.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "The famous Henry VII Chapel, located at the east end of the church, is widely considered a masterpiece of Perpendicular Gothic architecture.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "The abbey is the final resting place for more than 3,300 people, including 18 British monarchs, famous scientists, and prominent poets.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c10",
+   "text": "In 1987, the abbey was designated as a UNESCO World Heritage Site due to its immense historic and symbolic significance.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Henry VII Chapel",
+   "distance_m": 68,
+   "bearing": "E",
+   "phrase_hint": "about 70 m east of Westminster Abbey"
+  },
+  {
+   "id": "sp2",
+   "name": "Poets' Corner",
+   "distance_m": 31,
+   "bearing": "SE",
+   "phrase_hint": "about 30 m south-east of Westminster Abbey"
+  },
+  {
+   "id": "sp3",
+   "name": "The Unknown Warrior",
+   "distance_m": 6,
+   "bearing": "NE",
+   "phrase_hint": "right next to Westminster Abbey, to the north-east"
+  },
+  {
+   "id": "sp4",
+   "name": "College Hall",
+   "distance_m": 77,
+   "bearing": "SW",
+   "phrase_hint": "about 75 m south-west of Westminster Abbey"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s2",
+   "kind": "wikidata",
+   "label": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q5933",
+   "license": "CC0",
+   "tier": 2
+  }
+ ],
+ "gaps": [
+  "Details about the specifics of the Unknown Warrior's grave."
+ ],
+ "created_at": "2026-09-25T09:39:50Z"
+}

@@ -1,0 +1,157 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_arc_de_triomphe",
+ "identity": {
+  "canonical_name": "Arc de Triomphe",
+  "aliases": [
+   "Arc de Triomphe de l'Étoile"
+  ],
+  "match_status": "confident",
+  "category": "monument",
+  "qid": "Q64436"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Arc de Triomphe sits proudly at the centre of a massive intersection where twelve different radiating avenues meet to form a star shape.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "It was originally commissioned by Napoleon in 1806 as a grand tribute to his victories and the soldiers who fought for France.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Its original architect, Jean-François Chalgrin, was heavily inspired by the ancient Roman Arch of Titus when designing it.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Unfortunately, Napoleon did not live to see it finished, as the massive monument was not actually completed until 1836, long after his death.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s3",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The inner and outer surfaces of the arch are intricately engraved with the names of famous French military victories and generals.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Directly beneath the vault lies the deeply moving Tomb of the Unknown Soldier, which is marked by a continuously burning eternal flame.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Place Charles de Gaulle",
+   "distance_m": 23,
+   "bearing": "NW",
+   "phrase_hint": "right next to Arc de Triomphe, to the north-west"
+  },
+  {
+   "id": "sp2",
+   "name": "Avenue des Champs-Élysées",
+   "distance_m": 146,
+   "bearing": "SE",
+   "phrase_hint": "about 150 m to the south-east, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Tombe du Soldat inconnu",
+   "distance_m": 11,
+   "bearing": "SE",
+   "phrase_hint": "right next to Arc de Triomphe, to the south-east"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Arc_de_Triomphe",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikidata",
+   "label": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q64436",
+   "license": "CC0",
+   "tier": 2
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Paris/8th_arrondissement",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the 'La Marseillaise' sculpture by François Rude decorating the exterior."
+ ],
+ "created_at": "2026-09-25T10:31:25Z"
+}

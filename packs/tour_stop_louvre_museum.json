@@ -1,0 +1,157 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_louvre_museum",
+ "identity": {
+  "canonical_name": "Louvre Museum",
+  "aliases": [
+   "Musée du Louvre",
+   "Louvre Palace"
+  ],
+  "match_status": "confident",
+  "category": "museum",
+  "qid": "Q19675"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The massive Louvre Palace was actually first built as a defensive medieval fortress in the late 12th to 13th century under King Philip II.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Fascinatingly, you can still see the stone remnants of this original medieval fortress down in the basement of the museum today.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "In 1546, King Francis I completely transformed the old fortress, converting it into the primary grand residence of the French kings.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The palace's role changed forever in 1682 when King Louis XIV moved his royal household to the Palace of Versailles, leaving the Louvre to simply display the royal art collection.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "During the French Revolution, the National Assembly officially decreed that the building should become a public museum to display the nation's masterpieces.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The Louvre Museum officially opened its doors on 10 August 1793, featuring an initial exhibition of 537 paintings that were mostly confiscated church and royal property.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "Today, it is a world-famous national art museum and the permanent home to iconic Western masterpieces like the Mona Lisa and the Venus de Milo.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Pyramide du Louvre",
+   "distance_m": 138,
+   "bearing": "W",
+   "phrase_hint": "about 140 m to the west, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Cour Carrée",
+   "distance_m": 77,
+   "bearing": "E",
+   "phrase_hint": "about 75 m east of Louvre Museum"
+  },
+  {
+   "id": "sp3",
+   "name": "Jardin de l'Oratoire",
+   "distance_m": 102,
+   "bearing": "NE",
+   "phrase_hint": "about 100 m north-east of Louvre Museum"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Louvre",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the addition of I. M. Pei's glass pyramid."
+ ],
+ "created_at": "2026-09-25T10:25:56Z"
+}

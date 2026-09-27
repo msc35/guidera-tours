@@ -1,0 +1,131 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_wat_pho",
+ "identity": {
+  "canonical_name": "Wat Pho",
+  "aliases": [
+   "Temple of the Reclining Buddha",
+   "Wat Phra Chetuphon"
+  ],
+  "match_status": "confident",
+  "category": "temple",
+  "qid": "Q1059910"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Wat Pho is one of Bangkok's oldest temples, originally named Wat Photaram in reference to the sacred monastery of the Bodhi tree in India.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "It is ranked as the highest grade of the first-class royal temples in Thailand and became the main temple of King Rama I.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "In 1788, the king ordered the rebuilding of the dilapidated site and initiated a massive project to rescue and enshrine abandoned Buddha images from across the country.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Today, the complex houses the largest collection of Buddha images in Thailand, most notably an enormous reclining Buddha measuring 46 metres in length.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Considered the earliest centre for public education in the country, the temple is widely celebrated as the historic birthplace of traditional Thai massage.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Fascinating educational illustrations and inscriptions covering various subjects were placed around the complex and have since been recognised by the UNESCO Memory of the World Programme.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Nagaraphirom Park",
+   "distance_m": 332,
+   "bearing": "W",
+   "phrase_hint": "about 330 m to the west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Wat_Pho",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the specific architectural design of the four main stupas (chedis) in the courtyard."
+ ],
+ "created_at": "2026-09-25T22:47:42Z"
+}

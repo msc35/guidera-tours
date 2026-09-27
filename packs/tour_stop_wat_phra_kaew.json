@@ -1,0 +1,134 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_wat_phra_kaew",
+ "identity": {
+  "canonical_name": "Wat Phra Kaew",
+  "aliases": [
+   "Temple of the Emerald Buddha",
+   "Wat Phra Si Rattana Satsadaram"
+  ],
+  "match_status": "confident",
+  "category": "temple",
+  "qid": "Q1045876"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Wat Phra Kaew, most commonly known in English as the Temple of the Emerald Buddha, is widely regarded as the most sacred Buddhist temple in Thailand.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "It is located entirely within the historic precincts of the Grand Palace and was specially built as a royal chapel, meaning it uniquely lacks living quarters for monks.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Construction began in 1783 under King Rama I, and its main hall became the very first building in the entire palace compound to be completed in masonry.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The temple solemnly enshrines the Emerald Buddha, a highly revered and flawless Buddha image that was meticulously carved from a single block of solid jade.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "In 1785, this precious statue was transported with great ceremony from its former home at Wat Arun across the river and installed in its present position.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Inside the main hall, every wall is covered in stunning painted murals, including an eastern wall depicting the Buddha's dramatic battle against the demon Mara.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Grand Palace",
+   "distance_m": 191,
+   "bearing": "S",
+   "phrase_hint": "about 190 m to the south, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Ministry of Defence",
+   "distance_m": 166,
+   "bearing": "E",
+   "phrase_hint": "about 170 m to the east, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Wat_Phra_Kaew",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about exactly who carved the original Emerald Buddha statue."
+ ],
+ "created_at": "2026-09-25T22:48:39Z"
+}

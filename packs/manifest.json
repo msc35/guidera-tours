@@ -1,0 +1,377 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "place_key": "tour:stop_10_downing_street",
+   "qid": "Q169101",
+   "file": "tour_stop_10_downing_street.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_alter_hof",
+   "qid": "Q315084",
+   "file": "tour_stop_alter_hof.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_arc_de_triomphe",
+   "qid": "Q64436",
+   "file": "tour_stop_arc_de_triomphe.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_bateau_lavoir",
+   "qid": "Q426974",
+   "file": "tour_stop_bateau_lavoir.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_big_ben",
+   "qid": "Q41225",
+   "file": "tour_stop_big_ben.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_blackfriars_bridge",
+   "qid": "Q880843",
+   "file": "tour_stop_blackfriars_bridge.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_buckingham_palace",
+   "qid": "Q42182",
+   "file": "tour_stop_buckingham_palace.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_champs_elysees",
+   "qid": "Q550",
+   "file": "tour_stop_champs_elysees.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_chinatown_london",
+   "qid": "Q1988417",
+   "file": "tour_stop_chinatown_london.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_cleopatras_needle",
+   "qid": "Q729177",
+   "file": "tour_stop_cleopatras_needle.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_dam_square",
+   "qid": "Q839050",
+   "file": "tour_stop_dam_square.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_eiffel_tower",
+   "qid": "Q243",
+   "file": "tour_stop_eiffel_tower.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_frauenkirche",
+   "qid": "Q167193",
+   "file": "tour_stop_frauenkirche.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_golden_jubilee_bridges",
+   "qid": "Q1436185",
+   "file": "tour_stop_golden_jubilee_bridges.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_grand_palais",
+   "qid": "Q457318",
+   "file": "tour_stop_grand_palais.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_gwanghwamun_gate",
+   "qid": "Q485034",
+   "file": "tour_stop_gwanghwamun_gate.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_hadrians_gate",
+   "qid": "Q1283114",
+   "file": "tour_stop_hadrians_gate.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_hadrians_library",
+   "qid": "Q1455447",
+   "file": "tour_stop_hadrians_library.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_hofbrauhaus",
+   "qid": "Q152971",
+   "file": "tour_stop_hofbrauhaus.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_hofgarten",
+   "qid": "Q707673",
+   "file": "tour_stop_hofgarten.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_houses_of_parliament",
+   "qid": "Q62408",
+   "file": "tour_stop_houses_of_parliament.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_jardin_des_tuileries",
+   "qid": "Q818517",
+   "file": "tour_stop_jardin_des_tuileries.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_kesik_minare",
+   "qid": "Q6395079",
+   "file": "tour_stop_kesik_minare.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_lapin_agile",
+   "qid": "Q1423353",
+   "file": "tour_stop_lapin_agile.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_london_eye",
+   "qid": "Q160659",
+   "file": "tour_stop_london_eye.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_louvre_museum",
+   "qid": "Q19675",
+   "file": "tour_stop_louvre_museum.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_magere_brug",
+   "qid": "Q1344400",
+   "file": "tour_stop_magere_brug.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_marienplatz",
+   "qid": "Q252648",
+   "file": "tour_stop_marienplatz.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_millennium_bridge",
+   "qid": "Q44057",
+   "file": "tour_stop_millennium_bridge.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_munich_residenz",
+   "qid": "Q686548",
+   "file": "tour_stop_munich_residenz.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_nationaltheater",
+   "qid": "Q707679",
+   "file": "tour_stop_nationaltheater.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_notre_dame",
+   "qid": "Q2981",
+   "file": "tour_stop_notre_dame.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_odeonsplatz",
+   "qid": "Q259839",
+   "file": "tour_stop_odeonsplatz.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_palais_royal",
+   "qid": "Q329948",
+   "file": "tour_stop_palais_royal.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_parthenon",
+   "qid": "Q10288",
+   "file": "tour_stop_parthenon.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_petit_palais",
+   "qid": "Q820892",
+   "file": "tour_stop_petit_palais.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_place_dalida",
+   "qid": "Q3389781",
+   "file": "tour_stop_place_dalida.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_place_de_la_concorde",
+   "qid": "Q189503",
+   "file": "tour_stop_place_de_la_concorde.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_place_du_tertre",
+   "qid": "Q526595",
+   "file": "tour_stop_place_du_tertre.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_pont_neuf",
+   "qid": "Q335277",
+   "file": "tour_stop_pont_neuf.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_rembrandtplein",
+   "qid": "Q1579642",
+   "file": "tour_stop_rembrandtplein.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_rijksmuseum",
+   "qid": "Q190804",
+   "file": "tour_stop_rijksmuseum.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_royal_opera_house",
+   "qid": "Q55018",
+   "file": "tour_stop_royal_opera_house.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_sacre_coeur",
+   "qid": "Q28785",
+   "file": "tour_stop_sacre_coeur.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_sainte_chapelle",
+   "qid": "Q193193",
+   "file": "tour_stop_sainte_chapelle.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_shakespeares_globe",
+   "qid": "Q7725501",
+   "file": "tour_stop_shakespeares_globe.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_somerset_house",
+   "qid": "Q1344889",
+   "file": "tour_stop_somerset_house.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_spui",
+   "qid": "Q281703",
+   "file": "tour_stop_spui.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_st_jamess_palace",
+   "qid": "Q272162",
+   "file": "tour_stop_st_jamess_palace.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_st_peters_church",
+   "qid": "Q707645",
+   "file": "tour_stop_st_peters_church.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_stoa_of_attalos",
+   "qid": "Q1263335",
+   "file": "tour_stop_stoa_of_attalos.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_tate_modern",
+   "qid": "Q193375",
+   "file": "tour_stop_tate_modern.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_the_9_streets",
+   "qid": "Q1980981",
+   "file": "tour_stop_the_9_streets.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_the_shard",
+   "qid": "Q18536",
+   "file": "tour_stop_the_shard.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_tower_bridge",
+   "qid": "Q83125",
+   "file": "tour_stop_tower_bridge.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_tower_of_london",
+   "qid": "Q62378",
+   "file": "tour_stop_tower_of_london.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_trafalgar_square",
+   "qid": "Q129143",
+   "file": "tour_stop_trafalgar_square.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_victoria_embankment_gardens",
+   "qid": "Q7926695",
+   "file": "tour_stop_victoria_embankment_gardens.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_viktualienmarkt",
+   "qid": "Q686629",
+   "file": "tour_stop_viktualienmarkt.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_wat_pho",
+   "qid": "Q1059910",
+   "file": "tour_stop_wat_pho.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_wat_phra_kaew",
+   "qid": "Q1045876",
+   "file": "tour_stop_wat_phra_kaew.json",
+   "version": 1
+  },
+  {
+   "place_key": "tour:stop_westminster_abbey",
+   "qid": "Q5933",
+   "file": "tour_stop_westminster_abbey.json",
+   "version": 1
+  }
+ ]
+}

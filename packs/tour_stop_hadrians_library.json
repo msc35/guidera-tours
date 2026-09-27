@@ -1,0 +1,140 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_hadrians_library",
+ "identity": {
+  "canonical_name": "Hadrian's Library",
+  "aliases": [
+   "Library of Hadrian"
+  ],
+  "match_status": "confident",
+  "category": "library",
+  "qid": "Q1455447"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Hadrian's Library is a monumental ruin on the north side of the Acropolis, commissioned by the Roman Emperor Hadrian in 132 AD.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The building followed a Roman forum architectural style, featuring an inner courtyard surrounded by columns with a decorative oblong pool in the middle.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The library itself was located on the eastern side, containing special cupboards and shelves that held ancient rolls of papyrus 'books'.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The interior would have been stunning, as the ceilings were originally made of gilded wood and the walls were covered in marble and vibrant paintings.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The complex was seriously damaged by the Herulian invasion in the year 267 and its ruins were eventually incorporated into the Roman city walls.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "During Byzantine times, the site was repurposed and three different churches were built here, including a 12th-century cathedral known as Megali Panagia.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Stoa of Attalos",
+   "distance_m": 203,
+   "bearing": "SW",
+   "phrase_hint": "about 200 m to the south-west, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Tzistarakis Mosque",
+   "distance_m": 8,
+   "bearing": "SW",
+   "phrase_hint": "right next to Hadrian's Library, to the south-west"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Hadrian%27s_Library",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikidata",
+   "label": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q1455447",
+   "license": "CC0",
+   "tier": 2
+  }
+ ],
+ "gaps": [
+  "Details about how many papyrus rolls were estimated to be kept in the library."
+ ],
+ "created_at": "2026-09-25T21:51:23Z"
+}

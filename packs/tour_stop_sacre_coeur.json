@@ -1,0 +1,156 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_sacre_coeur",
+ "identity": {
+  "canonical_name": "Sacré-Cœur Basilica",
+  "aliases": [
+   "Basilique du Sacré-Cœur",
+   "Sacré-Cœur"
+  ],
+  "match_status": "confident",
+  "category": "church",
+  "qid": "Q28785"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The gleaming white Sacré-Cœur Basilica sits at the very summit of Montmartre, overlooking the entire city of Paris.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Construction took place between 1875 and 1914, serving as a grand act of national penitence after the bloody 1870 Franco-Prussian War.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Because it was built over the site of the Paris Commune uprising, it remains a highly controversial monument among some left-wing locals.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "conflict"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The building was designed in a unique Romano-Byzantine style, which was highly unusual for the period and completely unlike other Parisian monuments.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The tall campanile bell tower at the north end holds the famous 'Savoyarde', which is the single largest bell in France.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Inside, the lighting is kept unusually dim on purpose, contrasting the bright white exterior to create a deeply mystical atmosphere.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "contrast"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Place du Tertre",
+   "distance_m": 166,
+   "bearing": "W",
+   "phrase_hint": "about 170 m to the west, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Montmartre Funicular",
+   "distance_m": 165,
+   "bearing": "S",
+   "phrase_hint": "about 160 m to the south, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Saint-Pierre de Montmartre",
+   "distance_m": 85,
+   "bearing": "W",
+   "phrase_hint": "about 85 m west of Sacré-Cœur Basilica"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur,_Paris",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s2",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Paris/18th_arrondissement",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the massive mosaic of Christ in Majesty adorning the ceiling of the apse."
+ ],
+ "created_at": "2026-09-25T10:49:11Z"
+}

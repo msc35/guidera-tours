@@ -8,7 +8,7 @@
     },
     {
       "id": "london_royal_westminster",
-      "version": 2,
+      "version": 3,
       "fileName": "london_royal_westminster.json"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "id": "nyc_midtown_landmarks",
-      "version": 2,
+      "version": 3,
       "fileName": "nyc_midtown_landmarks.json"
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "id": "dublin_historic",
-      "version": 2,
+      "version": 3,
       "fileName": "dublin_historic.json"
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "id": "antalya_kaleici",
-      "version": 2,
+      "version": 3,
       "fileName": "antalya_kaleici.json"
     },
     {
@@ -168,12 +168,12 @@
     },
     {
       "id": "izmir_kemeralti_kordon",
-      "version": 2,
+      "version": 3,
       "fileName": "izmir_kemeralti_kordon.json"
     },
     {
       "id": "singapore_marina_civic",
-      "version": 2,
+      "version": 3,
       "fileName": "singapore_marina_civic.json"
     },
     {

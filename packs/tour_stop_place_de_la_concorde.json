@@ -1,0 +1,165 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_place_de_la_concorde",
+ "identity": {
+  "canonical_name": "Place de la Concorde",
+  "aliases": [
+   "Place de la Révolution",
+   "Place Louis XV"
+  ],
+  "match_status": "confident",
+  "category": "square",
+  "qid": "Q189503"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Covering a massive area, the Place de la Concorde holds the title of the largest public square in all of Paris.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "It was originally designed in 1755 as an octagonal square named 'Place Louis XV', complete with a grand statue of the king.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Unlike most enclosed city squares, it is uniquely bordered by open space on three of its sides: the Champs-Élysées, the Tuileries garden, and the river Seine.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The square was dramatically renamed 'Place de la Révolution' following the historic events of 10 August 1792.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "During the Reign of Terror, it became the infamous site where King Louis XVI, Marie Antoinette, and many others were publicly guillotined.",
+   "type": "event",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The peaceful name 'Concorde' was later chosen to mark the reconciliation of the French people and encourage them to move past the bloodshed.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "Today, the very center of the square is famously marked by a towering Egyptian obelisk that was originally brought from the Temple of Luxor.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Obélisque de Louxor",
+   "distance_m": 19,
+   "bearing": "SW",
+   "phrase_hint": "on the south-west side of Place de la Concorde"
+  },
+  {
+   "id": "sp2",
+   "name": "Hôtel de Crillon",
+   "distance_m": 177,
+   "bearing": "N",
+   "phrase_hint": "about 180 m to the north, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Fontaines de la Concorde",
+   "distance_m": 0,
+   "bearing": "NW",
+   "phrase_hint": "on the north-west side of Place de la Concorde"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (fr)",
+   "url": "https://fr.wikipedia.org/wiki/Place_de_la_Concorde",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Paris/8th_arrondissement",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the elaborate fountains added by Hittorff in the 19th century."
+ ],
+ "created_at": "2026-09-25T10:28:11Z"
+}

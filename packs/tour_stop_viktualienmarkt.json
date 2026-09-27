@@ -1,0 +1,224 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_viktualienmarkt",
+ "identity": {
+  "canonical_name": "Viktualienmarkt",
+  "aliases": [
+   "grüner Markt"
+  ],
+  "match_status": "confident",
+  "category": "market",
+  "qid": "Q686629"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Viktualienmarkt is a large daily food market in central Munich that has been held every day, except Sundays and holidays, since 1807.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The market was established by decree of King Maximilian I when the city's original market at Marienplatz became too small for the growing population.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The name 'Viktualienmarkt' comes from the Latin word for food, 'victuals', reflecting a 19th-century trend among the educated middle class to Latinize German words.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Over the years, the market has evolved from a simple farmers' market into a sprawling gourmet destination covering more than two hectares.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Historically, the market grounds were crossed by a messy network of seven different streams, though all of them have since disappeared.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The market's layout today is characterized by its numerous permanent stalls, a central beer garden, and a traditional Bavarian Maypole.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "After being severely damaged in World War II, there were plans to abandon the market and build high-rises on the valuable land, but the city chose to revitalize it instead.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "reversal",
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "In August 1948, protesting high food prices, angry citizens stormed the market and pelted the vendors with their own goods in an event known as the 'Egg Battle at the Viktualienmarkt'.",
+   "type": "event",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "Beginning in 1953, citizens enriched the market by erecting memorial fountains dedicated to famous Munich folk singers and comedians like Karl Valentin and Liesl Karlstadt.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Heilig-Geist-Kirche, Munich",
+   "distance_m": 127,
+   "bearing": "NE",
+   "phrase_hint": "about 130 m to the north-east, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "St. Peter's Church, Munich",
+   "distance_m": 135,
+   "bearing": "N",
+   "phrase_hint": "about 130 m to the north, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Schrannenhalle",
+   "distance_m": 153,
+   "bearing": "SW",
+   "phrase_hint": "about 150 m to the south-west, a short walk"
+  },
+  {
+   "id": "sp4",
+   "name": "Münchner Maibaum",
+   "distance_m": 14,
+   "bearing": "SW",
+   "phrase_hint": "on the south-west side of Viktualienmarkt"
+  },
+  {
+   "id": "sp5",
+   "name": "Karl-Valentin-Brunnen",
+   "distance_m": 61,
+   "bearing": "SW",
+   "phrase_hint": "on the south-west edge of Viktualienmarkt, about 60 m away"
+  },
+  {
+   "id": "sp6",
+   "name": "Liesl-Karlstadt-Brunnen",
+   "distance_m": 13,
+   "bearing": "S",
+   "phrase_hint": "on the south side of Viktualienmarkt"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Viktualienmarkt",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Viktualienmarkt",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Specific details about the daily operations and selection process for the permanent market stalls."
+ ],
+ "created_at": "2026-09-25T09:33:44Z"
+}

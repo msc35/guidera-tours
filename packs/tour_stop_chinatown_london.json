@@ -1,0 +1,169 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_chinatown_london",
+ "identity": {
+  "canonical_name": "Chinatown",
+  "aliases": [
+   "London Chinatown",
+   "Gerrard Street"
+  ],
+  "match_status": "confident",
+  "category": "neighbourhood",
+  "qid": "Q1988417"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "London's famous Chinatown is a vibrant ethnic enclave centered around Gerrard Street that is packed with Chinese restaurants, bakeries, and supermarkets.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Surprisingly, the first Chinatown in London was actually located in the Limehouse area of the East End to cater to Chinese sailors.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Much of that original Limehouse Chinatown was heavily damaged by aerial bombing during the Blitz in the Second World War.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The present Chinatown only started to be recognized as such in the 1970s, as immigrants from Hong Kong opened new restaurants in what was previously a run-down part of Soho.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Today, the area boasts more than 80 restaurants and is completely transformed from its past, when the street was home to brothels and a French coffee house.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "A beautiful new Chinatown gate on Wardour Street, designed in the style of the Qing dynasty by Chinese artisans, was officially opened in 2016.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "While visitors come here to enjoy the incredible Chinese culture and cuisine, it is interesting to note that the area has no museums or temples.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Leicester Square Garden",
+   "distance_m": 146,
+   "bearing": "S",
+   "phrase_hint": "about 150 m to the south, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Prince Charles Cinema",
+   "distance_m": 30,
+   "bearing": "S",
+   "phrase_hint": "about 30 m south of Chinatown"
+  },
+  {
+   "id": "sp3",
+   "name": "Gerrard Street, London",
+   "distance_m": 76,
+   "bearing": "W",
+   "phrase_hint": "about 75 m west of Chinatown"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/Leicester_Square",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  },
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chinatown,_London",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the specific local restaurants and their signature dishes."
+ ],
+ "created_at": "2026-09-25T09:46:30Z"
+}

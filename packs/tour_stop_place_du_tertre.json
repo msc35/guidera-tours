@@ -1,0 +1,150 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_place_du_tertre",
+ "identity": {
+  "canonical_name": "Place du Tertre",
+  "aliases": [
+   "Artists' Square"
+  ],
+  "match_status": "confident",
+  "category": "square",
+  "qid": "Q526595"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Place du Tertre sits near the highest point of the Montmartre hill, at an altitude of 130 meters.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Before Montmartre was absorbed into Paris, this bustling area served as the main central square of the old independent village.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The name 'Tertre' likely refers to its elevated location, as the word simply translates to a small hill or mound.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "However, it could also be named after Guillaume Dutertre, a local man hired by the abbey all the way back in 1503.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Today it is famous worldwide for its many painters and café terraces, earning it the English nickname 'Artists' Square'.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Numerous artists still set up their easels here every single day to paint portraits for tourists and sell their original artwork.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Dalí Paris",
+   "distance_m": 34,
+   "bearing": "NW",
+   "phrase_hint": "on the north-west edge of Place du Tertre, about 35 m away"
+  },
+  {
+   "id": "sp2",
+   "name": "Saint-Pierre de Montmartre",
+   "distance_m": 144,
+   "bearing": "E",
+   "phrase_hint": "about 140 m to the east, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "La Mère Catherine",
+   "distance_m": 70,
+   "bearing": "NE",
+   "phrase_hint": "on the north-east edge of Place du Tertre, about 70 m away"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (fr)",
+   "url": "https://fr.wikipedia.org/wiki/Place_du_Tertre",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Paris/18th_arrondissement",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about how exactly artists apply and qualify to get a highly coveted spot on the square."
+ ],
+ "created_at": "2026-09-25T10:48:33Z"
+}

@@ -1,0 +1,133 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_blackfriars_bridge",
+ "identity": {
+  "canonical_name": "Blackfriars Bridge",
+  "aliases": [
+   "William Pitt Bridge"
+  ],
+  "match_status": "confident",
+  "category": "bridge",
+  "qid": "Q880843"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Blackfriars Bridge is a major road and pedestrian crossing over the River Thames that currently carries the A201 road.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The very first bridge on this exact site opened back in 1769 and was initially named the William Pitt Bridge.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Locals ignored the official title, instead adopting an informal name referencing a nearby Dominican priory known as the Blackfriars Monastery.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Unfortunately, that original structure suffered from very faulty workmanship and had to be completely dismantled in 1860.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The stunning replacement bridge you see today was officially opened by Queen Victoria herself on 6 November 1869.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Designed by engineer Joseph Cubitt, the current bridge spans an impressive 923 feet across five wrought iron arches.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Blackfriars station",
+   "distance_m": 59,
+   "bearing": "NE",
+   "phrase_hint": "about 60 m north-east of Blackfriars Bridge"
+  },
+  {
+   "id": "sp2",
+   "name": "Blackfriars",
+   "distance_m": 32,
+   "bearing": "N",
+   "phrase_hint": "about 30 m north of Blackfriars Bridge"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Blackfriars_Bridge",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the elaborate stonework decorations on the bridge's piers."
+ ],
+ "created_at": "2026-09-25T10:11:43Z"
+}

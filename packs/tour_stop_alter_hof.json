@@ -1,0 +1,222 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_alter_hof",
+ "identity": {
+  "canonical_name": "Alter Hof",
+  "aliases": [
+   "Old Court",
+   "Alte Veste",
+   "Ludwigsburg"
+  ],
+  "match_status": "confident",
+  "category": "urban castle",
+  "qid": "Q315084"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Alter Hof (Old Court) was built in the late 12th century and served as the first permanent imperial residence in the Holy Roman Empire under Emperor Louis IV.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The building complex consists of five wings named Burgstock, Zwingerstock, Lorenzistock, Pfisterstock, and Brunnenstock.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The former St. Lorenz Chapel, which stood on the north side until its demolition in the 19th century, once housed the crown jewels and regalia of the House of Wittelsbach.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Following citizen uprisings that made the old castle feel unsafe, the ruling dukes eventually built a new fortress further out that would become the modern Munich Residenz.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "By the 16th century, the royal residence was permanently moved to the new fortress, and the Alter Hof was relegated to housing various governmental departments.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "A modern equestrian statue of Emperor Louis IV, created by sculptor Hans Wimmer, stands on the northern exterior of the complex.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "In 1914, a young Adolf Hitler painted a watercolor depicting the building, known as 'The Courtyard of the Old Residency in Munich'.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "The complex was heavily destroyed during World War II and underwent significant reconstruction in the post-war period.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "In 2001, a highly controversial redevelopment project saw the Brunnenstock and Pfisterstock wings completely demolished and replaced with modern structures by private investors.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Alte Münze",
+   "distance_m": 56,
+   "bearing": "NE",
+   "phrase_hint": "about 55 m north-east of Alter Hof"
+  },
+  {
+   "id": "sp2",
+   "name": "Reiterstandbild Kaiser Ludwigs des Bayern",
+   "distance_m": 29,
+   "bearing": "NW",
+   "phrase_hint": "about 30 m north-west of Alter Hof"
+  },
+  {
+   "id": "sp3",
+   "name": "Pfisterstraße",
+   "distance_m": 27,
+   "bearing": "N",
+   "phrase_hint": "about 25 m north of Alter Hof"
+  },
+  {
+   "id": "sp4",
+   "name": "Dallmayr",
+   "distance_m": 94,
+   "bearing": "W",
+   "phrase_hint": "about 95 m west of Alter Hof"
+  },
+  {
+   "id": "sp5",
+   "name": "National Theatre",
+   "distance_m": 136,
+   "bearing": "NE",
+   "phrase_hint": "about 140 m to the north-east, a short walk"
+  },
+  {
+   "id": "sp6",
+   "name": "Hofbräuhaus am Platzl",
+   "distance_m": 135,
+   "bearing": "SE",
+   "phrase_hint": "about 140 m to the south-east, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Alter_Hof_(M%C3%BCnchen)",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Alter_Hof",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the legendary monkey tower (Affenturm) associated with the Alter Hof."
+ ],
+ "created_at": "2026-09-25T09:30:51Z"
+}

@@ -3,7 +3,7 @@
   "name": "London: Royal Westminster & The Heart of Power",
   "city": "London",
   "category": "historical",
-  "version": 1,
+  "version": 3,
   "stops": [
     {
       "id": "stop_buckingham_palace",
@@ -62,7 +62,7 @@
       "shortDescription": "A public square established in the early 19th century that commemorates the Battle of Trafalgar, a British naval victory in 1805. At its center stands Nelson's Column, guarded by four massive bronze lions."
     },
     {
-      "id": "stop_national_gallery",
+      "id": "stop_national_gallery_london",
       "name": "The National Gallery",
       "latitude": 51.5089,
       "longitude": -0.1283,

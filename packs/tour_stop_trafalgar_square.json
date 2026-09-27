@@ -1,0 +1,206 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_trafalgar_square",
+ "identity": {
+  "canonical_name": "Trafalgar Square",
+  "aliases": [
+   "Charing Cross"
+  ],
+  "match_status": "confident",
+  "category": "square",
+  "qid": "Q129143"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Trafalgar Square is Central London's main public square and is widely known as a center for national celebrations and political demonstrations.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The square was named to commemorate the Battle of Trafalgar, a famous British naval victory over France and Spain on 21 October 1805.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Interestingly, the name 'Trafalgar' itself is a Spanish word of Arabic origin, derived from phrases meaning 'cape of the cave' or 'extremity of the west'.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Before becoming a public square, the site was occupied by the King's Mews, where royal hawks and later horses were kept from the 13th century until they were moved to Buckingham Palace.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "In the late 1950s, building work surprisingly uncovered prehistoric fossils on the site, revealing that cave lions, rhinoceroses, and hippopotamuses once roamed the area.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "At the center of the square stands the 169-foot Nelson's Column, which is surrounded by four bronze lions and commemorates Vice-Admiral Horatio Nelson.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The square is famous for its 'fourth plinth', which was originally intended for an equestrian statue but has instead hosted a rotating display of contemporary artworks since 1999.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "Every year since 1947, the government of Norway has generously donated a large Christmas tree to be erected in the square for the holidays.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "The square used to be famously overrun by hundreds of feral pigeons, but their population was drastically reduced after a 2003 bylaw made it illegal to feed them.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Nelson's Column",
+   "distance_m": 59,
+   "bearing": "SE",
+   "phrase_hint": "on the south-east edge of Trafalgar Square, about 60 m away"
+  },
+  {
+   "id": "sp2",
+   "name": "National Gallery",
+   "distance_m": 92,
+   "bearing": "N",
+   "phrase_hint": "on the north edge of Trafalgar Square, about 90 m away"
+  },
+  {
+   "id": "sp3",
+   "name": "National Portrait Gallery",
+   "distance_m": 152,
+   "bearing": "N",
+   "phrase_hint": "about 150 m to the north, a short walk"
+  },
+  {
+   "id": "sp4",
+   "name": "Fourth plinth",
+   "distance_m": 15,
+   "bearing": "NW",
+   "phrase_hint": "on the north-west side of Trafalgar Square"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Trafalgar_Square",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/Leicester_Square",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Information on the artists who created the four bronze lions."
+ ],
+ "created_at": "2026-09-25T09:44:02Z"
+}

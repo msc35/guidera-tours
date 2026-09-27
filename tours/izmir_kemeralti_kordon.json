@@ -3,7 +3,7 @@
   "name": "Izmir: The Aegean Pearl & Kemeraltı",
   "city": "Izmir",
   "category": "historical",
-  "version": 1,
+  "version": 3,
   "stops": [
     {
       "id": "stop_konak_square",
@@ -78,7 +78,7 @@
       "shortDescription": "A beautifully pedestrianized street lined with elegant, early 20th-century Neoclassical buildings. It is famously known as the wedding dress and high fashion capital of the city."
     },
     {
-      "id": "stop_cumhuriyet_square",
+      "id": "stop_cumhuriyet_square_izmir",
       "name": "Cumhuriyet Square",
       "latitude": 38.4290,
       "longitude": 27.1333,

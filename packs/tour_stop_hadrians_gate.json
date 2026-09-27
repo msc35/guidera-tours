@@ -1,0 +1,134 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_hadrians_gate",
+ "identity": {
+  "canonical_name": "Hadrian's Gate",
+  "aliases": [
+   "Üçkapılar",
+   "The Three Gates"
+  ],
+  "match_status": "confident",
+  "category": "triumphal_arch",
+  "qid": "Q1283114"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Hadrian's Gate, known in Turkish as Üçkapılar meaning 'The Three Gates', is a Roman triumphal arch built in honour of the Emperor Hadrian, who visited the city in 130 CE.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Standing about 8 meters high, the gate is considered to be Pamphylia's most beautiful gate and is built almost entirely of white marble, except for the granite pillars.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The three passageways are decorated with floral and rosette reliefs, and a frieze of floral motifs with lion heads runs across the entablature above.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The original gate was two stories, and although little is known of the top story, it is believed to have held statues of the emperor and his family.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The gate was rediscovered by the Irish hydrographer Francis Beaufort in 1817, while commanding on HMS Fridericksteen.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "According to local legend, Sultana Belkis, the Queen of Sheba, is said to have passed under those gates on her way to visit King Solomon.",
+   "type": "story",
+   "story_type": "local_legend",
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Tekeli Mehmet Pasha Mosque",
+   "distance_m": 212,
+   "bearing": "NW",
+   "phrase_hint": "about 210 m to the north-west, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Yivli Minaret Mosque",
+   "distance_m": 313,
+   "bearing": "NW",
+   "phrase_hint": "about 310 m to the north-west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Hadrian%27s_Gate",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the Seljuk-era modifications to the Northern Tower."
+ ],
+ "created_at": "2026-09-25T11:28:00Z"
+}

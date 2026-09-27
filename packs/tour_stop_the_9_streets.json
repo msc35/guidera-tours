@@ -1,0 +1,133 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_the_9_streets",
+ "identity": {
+  "canonical_name": "De 9 Straatjes",
+  "aliases": [
+   "The 9 Streets",
+   "Negen Straatjes",
+   "The Nine Streets"
+  ],
+  "match_status": "confident",
+  "category": "neighbourhood",
+  "qid": "Q1980981"
+ },
+ "knowledge_depth": "medium",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Meaning 'The Nine Little Streets', this vibrant neighbourhood is made up of exactly nine narrow streets that link the city's main canals.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s3",
+    "s4"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "While the area itself is much older, the vast majority of the beautiful buildings you see here today actually date back to the 18th century.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Incredibly, this relatively small shopping district preserves more than 140 officially recognised national and municipal historic monuments.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The clever idea to group these streets together and promote them as a unified shopping destination was originally hatched by local entrepreneurs in 1996.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Even though many locals initially thought it was a terrible name, 'The 9 Streets' quickly stuck and helped put the neighbourhood on the map.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Today, it is considered one of Amsterdam's most fashionable areas, packed tightly with charming vintage boutiques, specialist shops, and cozy cafes.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [],
+ "sources": [
+  {
+   "id": "s3",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Negen_Straatjes",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Amsterdam/Canal_District",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about specific famous boutiques or famous historic shopfronts located here."
+ ],
+ "created_at": "2026-09-25T11:16:12Z"
+}

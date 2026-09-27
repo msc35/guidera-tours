@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-25",
+  "cities": {
+    "munich": {
+      "match": {
+        "country_code": "DE",
+        "names": ["München", "Munich", "Monaco di Baviera", "Múnich", "Munique", "Münih", "ミュンヘン", "慕尼黑"],
+        "wikidata_qid": "Q1726"
+      },
+      "language": "de",
+      "sources": [
+        {
+          "id": "muenchen_de",
+          "kind": "official",
+          "label": "muenchen.de (official city portal)",
+          "domain": "www.muenchen.de",
+          "tier": 1,
+          "sitemaps": ["https://www.muenchen.de/sitemap.xml"],
+          "index_path_prefixes": ["/sehenswuerdigkeiten", "/stadtteile", "/freizeit", "/maerkte", "/themen", "/umland", "/sights"],
+          "search_url_template": null,
+          "path_hints": ["/sehenswuerdigkeiten"],
+          "main_selector": "main"
+        }
+      ]
+    }
+  },
+  "global": [
+    {
+      "id": "unesco_whc",
+      "kind": "unesco",
+      "label": "UNESCO World Heritage Centre",
+      "domain": "whc.unesco.org",
+      "tier": 1,
+      "sitemaps": [],
+      "search_url_template": null,
+      "path_hints": ["/en/list/"],
+      "main_selector": null
+    }
+  ],
+  "wikidata_identifier_allowlist": [
+    { "property": "P757", "label": "UNESCO World Heritage Site", "kind": "unesco", "formatter_url": "https://whc.unesco.org/en/list/$1" },
+    { "property": "P1216", "label": "National Heritage List for England", "kind": "heritage_registry", "formatter_url": "https://historicengland.org.uk/listing/the-list/list-entry/$1" },
+    { "property": "P359", "label": "Rijksmonumentenregister", "kind": "heritage_registry", "formatter_url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/$1" },
+    { "property": "P1708", "label": "Denkmalliste Sachsen", "kind": "heritage_registry", "formatter_url": "https://denkmalliste.denkmalpflege.sachsen.de/CardoMap/Denkmalliste_Report.aspx?HIDA_Nr=$1" }
+  ]
+}

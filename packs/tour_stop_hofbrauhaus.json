@@ -1,0 +1,253 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_hofbrauhaus",
+ "identity": {
+  "canonical_name": "Hofbräuhaus am Platzl",
+  "aliases": [
+   "Staatliches Hofbräuhaus",
+   "Hofbräuhaus"
+  ],
+  "match_status": "confident",
+  "category": "beer hall",
+  "qid": "Q152971"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Hofbräuhaus is Munich's most famous beer hall and was originally built as a royal brewery in 1589 by Duke William V of Bavaria.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4",
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The brewery was established because the Duke found the existing beer in Munich to be of poor quality and was tired of importing better beer from Saxony.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "In 1607, the brewing operations for the newly popular wheat beer were moved to a new building at the current 'Platzl' location.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "In 1612, a brewmaster from the city of Einbeck was hired to brew 'Ainpöck' beer, which the Munich dialect soon transformed into the famous 'Bock' beer.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The Hofbräuhaus held the exclusive monopoly on brewing Bock beer in Munich until the year 1810.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The beer hall was strictly reserved for the royal court until 1828, when King Ludwig I finally allowed the general public to be admitted.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The building was completely remodeled in 1897 by architect Max Littmann after the actual brewing operations were relocated to the city suburbs.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "On February 24, 1920, the beer hall was the site where Adolf Hitler made a speech founding the National Socialist German Workers' Party (Nazi Party).",
+   "type": "event",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "The building was largely destroyed by Allied bombing raids during World War II, but was faithfully reconstructed by 1958 in time for Munich's 800th anniversary.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c10",
+   "text": "The ground floor features the 'Schwemme', a massive 1,300-seat historic beer hall that is the heart of the original brewery area.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s4",
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c11",
+   "text": "The upper floors house the stylish Bräustüberl restaurant and the Festsaal, a barrel-vaulted events venue on the second floor.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Orlando-Haus",
+   "distance_m": 67,
+   "bearing": "N",
+   "phrase_hint": "about 65 m north of Hofbräuhaus am Platzl"
+  },
+  {
+   "id": "sp2",
+   "name": "Zerwirkgewölbe",
+   "distance_m": 131,
+   "bearing": "W",
+   "phrase_hint": "about 130 m to the west, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Wolfsbrunnen",
+   "distance_m": 115,
+   "bearing": "NE",
+   "phrase_hint": "about 110 m north-east of Hofbräuhaus am Platzl"
+  },
+  {
+   "id": "sp4",
+   "name": "Platzl",
+   "distance_m": 51,
+   "bearing": "N",
+   "phrase_hint": "about 50 m north of Hofbräuhaus am Platzl"
+  },
+  {
+   "id": "sp5",
+   "name": "Pfistermühle",
+   "distance_m": 95,
+   "bearing": "NW",
+   "phrase_hint": "about 95 m north-west of Hofbräuhaus am Platzl"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Hofbr%C3%A4uhaus_am_Platzl",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Hofbr%C3%A4uhaus_am_Platzl",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s5",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Munich/Altstadt",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the famous Hofbräuhaus song and its origins."
+ ],
+ "created_at": "2026-09-25T09:32:49Z"
+}

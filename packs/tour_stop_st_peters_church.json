@@ -1,0 +1,231 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_st_peters_church",
+ "identity": {
+  "canonical_name": "St. Peter",
+  "aliases": [
+   "Alter Peter",
+   "St. Peter's Church",
+   "Peterskirche"
+  ],
+  "match_status": "confident",
+  "category": "church",
+  "qid": "Q707645"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "St. Peter's Church is the oldest recorded parish church in Munich and is presumed to be the originating point for the entire city.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The church sits on a small hill called Petersbergl, where monks reportedly lived around a pre-Merovingian church as early as the eighth century, long before Munich was founded in 1158.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "After a devastating fire destroyed the earlier Romanesque building in 1327, the church was rebuilt in the Gothic style and consecrated anew in 1368.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s3",
+    "s4"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The church's iconic tower, which stands 91 meters tall, is affectionately known by locals as 'Alter Peter' (Old Peter) and remains a prominent landmark.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "In the early 17th century, the famous tower was modified to include its current Renaissance-style steeple top.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The interior is dominated by a magnificent Baroque high altar that was inspired by Bernini's Cathedra Petri in Rome and features a figure of Saint Peter by Erasmus Grasser.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The richly decorated interior also includes masterpieces such as Gothic paintings by Jan Polack and ceiling frescoes by Johann Baptist Zimmermann.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "The church is a site of veneration for the holy relics of Saint Munditia and Saint Erasmus of Formia.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "Like many historic buildings in the area, the church was heavily damaged by Allied bombing during World War II before being carefully reconstructed.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Marienplatz",
+   "distance_m": 103,
+   "bearing": "N",
+   "phrase_hint": "about 100 m north of St. Peter"
+  },
+  {
+   "id": "sp2",
+   "name": "Mariensäule",
+   "distance_m": 92,
+   "bearing": "N",
+   "phrase_hint": "about 90 m north of St. Peter"
+  },
+  {
+   "id": "sp3",
+   "name": "Old Town Hall, Munich",
+   "distance_m": 90,
+   "bearing": "E",
+   "phrase_hint": "about 90 m east of St. Peter"
+  },
+  {
+   "id": "sp4",
+   "name": "Fischbrunnen",
+   "distance_m": 98,
+   "bearing": "N",
+   "phrase_hint": "about 100 m north of St. Peter"
+  },
+  {
+   "id": "sp5",
+   "name": "Rindermarkt",
+   "distance_m": 76,
+   "bearing": "W",
+   "phrase_hint": "about 75 m west of St. Peter"
+  },
+  {
+   "id": "sp6",
+   "name": "Heilig-Geist-Kirche, Munich",
+   "distance_m": 110,
+   "bearing": "E",
+   "phrase_hint": "about 110 m east of St. Peter"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/St._Peter_(M%C3%BCnchen)",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/St._Peter%27s_Church,_Munich",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Munich/Altstadt",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Information about the specific details of the jeweled skeleton of Saint Munditia."
+ ],
+ "created_at": "2026-09-25T09:35:13Z"
+}

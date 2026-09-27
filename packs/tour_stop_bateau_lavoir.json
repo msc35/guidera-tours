@@ -1,0 +1,150 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_bateau_lavoir",
+ "identity": {
+  "canonical_name": "Le Bateau-Lavoir",
+  "aliases": [
+   "Bateau-Lavoir"
+  ],
+  "match_status": "confident",
+  "category": "building",
+  "qid": "Q426974"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Bateau-Lavoir is an incredibly famous building in art history, known as the early residence and meeting place for some of the world's greatest artists.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Originally operating as a ballroom and piano factory, it was converted into 20 small, unheated artist workshops in 1889.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Pablo Picasso himself lived here, painting some of his most famous masterpieces, including 'Les Demoiselles d'Avignon' in 1907.",
+   "type": "person",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The name translates to 'Washhouse Boat', a nickname coined by French poet Max Jacob because the dark, creaky building reminded him of washing-boats floating on the Seine.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Sadly, a massive fire destroyed almost the entire original building in 1970, miraculously leaving only its original facade standing.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The structure was successfully rebuilt in 1978, and today it actually still functions as a creative home, continuing to house working artist studios.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Place Émile-Goudeau",
+   "distance_m": 23,
+   "bearing": "SW",
+   "phrase_hint": "right next to Le Bateau-Lavoir, to the south-west"
+  },
+  {
+   "id": "sp2",
+   "name": "Rue Ravignan",
+   "distance_m": 64,
+   "bearing": "S",
+   "phrase_hint": "about 65 m south of Le Bateau-Lavoir"
+  },
+  {
+   "id": "sp3",
+   "name": "Dalí Paris",
+   "distance_m": 128,
+   "bearing": "E",
+   "phrase_hint": "about 130 m to the east, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (fr)",
+   "url": "https://fr.wikipedia.org/wiki/Bateau-Lavoir",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Bateau-Lavoir",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about what the interior studios actually look like today, as they are not open to the general public."
+ ],
+ "created_at": "2026-09-25T10:55:29Z"
+}

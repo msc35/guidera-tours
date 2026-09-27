@@ -1,0 +1,152 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_pont_neuf",
+ "identity": {
+  "canonical_name": "Pont Neuf",
+  "aliases": [],
+  "match_status": "confident",
+  "category": "bridge",
+  "qid": "Q335277"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Despite its name translating to 'New Bridge', the Pont Neuf is actually the oldest existing bridge in Paris today.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "reversal",
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "It was constructed at the western point of the Île de la Cité between 1578 and its official opening in 1607.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "It was considered incredibly modern because it was built completely without houses on it, unlike older medieval bridges.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "It was also the very first bridge in the city to feature raised sidewalks, which protected pedestrians from mud and horses.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "This impressive structure holds another record as the very first stone bridge in Paris to entirely cross the river Seine.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Recognizing its massive historical importance, the bridge was officially classified as a historical monument in 1889.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Place Dauphine",
+   "distance_m": 100,
+   "bearing": "SE",
+   "phrase_hint": "about 100 m south-east of Pont Neuf"
+  },
+  {
+   "id": "sp2",
+   "name": "Square du Vert-Galant",
+   "distance_m": 107,
+   "bearing": "NW",
+   "phrase_hint": "about 110 m north-west of Pont Neuf"
+  },
+  {
+   "id": "sp3",
+   "name": "Statue équestre d'Henri IV",
+   "distance_m": 38,
+   "bearing": "NW",
+   "phrase_hint": "about 40 m north-west of Pont Neuf"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (fr)",
+   "url": "https://fr.wikipedia.org/wiki/Pont_Neuf",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s2",
+   "kind": "wikidata",
+   "label": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q335277",
+   "license": "CC0",
+   "tier": 2
+  }
+ ],
+ "gaps": [
+  "Details about the equestrian statue of Henri IV located on the bridge."
+ ],
+ "created_at": "2026-09-25T10:25:21Z"
+}

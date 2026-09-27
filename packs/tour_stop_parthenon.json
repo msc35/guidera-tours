@@ -1,0 +1,144 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_parthenon",
+ "identity": {
+  "canonical_name": "Parthenon",
+  "aliases": [
+   "Parthenonas",
+   "Temple of Athena"
+  ],
+  "match_status": "confident",
+  "category": "temple",
+  "qid": "Q10288"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Parthenon is an enduring symbol of ancient Greece and Western civilisation, originally built in the 5th century BC as a temple dedicated to the goddess Athena.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "It was constructed in thanksgiving for the Greek victory over the Persian invaders during the Greco-Persian Wars.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The name 'Parthenon' derives from the Greek word 'parthénos' meaning maiden or virgin, which likely referred to the unmarried women's apartments or a specific room in the temple.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Like most Greek temples, the building also served a practical purpose as the city treasury, eventually holding the funds of the powerful Delian League.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Over its long history, the structure has been repurposed multiple times, serving as a Christian church in the 6th century AD and later as a mosque following the Ottoman conquest.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The temple suffered its most devastating blow during the Morean War in 1687, when a Venetian bomb hit the building while the Ottomans were using it as a munitions dump.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Erechtheion",
+   "distance_m": 65,
+   "bearing": "N",
+   "phrase_hint": "about 65 m north of Parthenon"
+  },
+  {
+   "id": "sp2",
+   "name": "Acropolis of Athens",
+   "distance_m": 44,
+   "bearing": "W",
+   "phrase_hint": "about 45 m west of Parthenon"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Parthenon",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikidata",
+   "label": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q10288",
+   "license": "CC0",
+   "tier": 2
+  }
+ ],
+ "gaps": [
+  "Details about the specific layout of the internal frieze."
+ ],
+ "created_at": "2026-09-25T21:49:07Z"
+}

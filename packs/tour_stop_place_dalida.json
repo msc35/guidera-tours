@@ -1,0 +1,138 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_place_dalida",
+ "identity": {
+  "canonical_name": "Place Dalida",
+  "aliases": [],
+  "match_status": "confident",
+  "category": "square",
+  "qid": "Q3389781"
+ },
+ "knowledge_depth": "medium",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Place Dalida is a quiet little square tucked away at the L-shaped intersection of Rue Girardon and Rue de l'Abreuvoir.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The city of Paris officially created the square in 1996 to honour the beloved Italian-French singer Dalida, who lived in this very neighbourhood.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "To mark the 10th anniversary of her death in 1997, a beautiful bronze bust of the singer was added to the center of the square.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Sculpted by the French artist Aslan, the bust rests proudly atop five blocks of solid cut granite beneath the shade of three trees.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "An engraved plaque directly underneath the bust displays her real birth name, Yolanda Gigliotti, alongside her birth and death years: 1933–1987.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Today, it remains a surprisingly popular pilgrimage site where countless fans and tourists come to peacefully pay their respects.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Rue de l'Abreuvoir",
+   "distance_m": 99,
+   "bearing": "NE",
+   "phrase_hint": "on the north-east edge of Place Dalida, about 100 m away"
+  },
+  {
+   "id": "sp2",
+   "name": "Rue Girardon",
+   "distance_m": 53,
+   "bearing": "N",
+   "phrase_hint": "on the north edge of Place Dalida, about 55 m away"
+  },
+  {
+   "id": "sp3",
+   "name": "Moulin de la Galette",
+   "distance_m": 72,
+   "bearing": "W",
+   "phrase_hint": "on the west edge of Place Dalida, about 70 m away"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s3",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Place_Dalida",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the tradition of touching the bust for good luck."
+ ],
+ "created_at": "2026-09-25T10:53:39Z"
+}

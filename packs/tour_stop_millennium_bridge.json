@@ -1,0 +1,159 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_millennium_bridge",
+ "identity": {
+  "canonical_name": "Millennium Bridge",
+  "aliases": [
+   "London Millennium Footbridge",
+   "Wobbly Bridge"
+  ],
+  "match_status": "confident",
+  "category": "bridge",
+  "qid": "Q44057"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Millennium Bridge is a striking steel suspension bridge designed exclusively for pedestrians to cross the River Thames.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Although construction began in 1998, the bridge first opened to the public on 10 June 2000.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "It quickly earned the hilarious nickname of the 'Wobbly Bridge' after pedestrians experienced an alarming swaying motion on opening day.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Because of the swaying, it had to be closed for almost two years while engineers worked to stabilize the structure.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Before it could finally reopen in February 2002, 700 staff members had to walk across it to conduct real-life safety tests.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The bridge's perfect alignment provides a stunning, unobstructed terminating vista of the south façade of St Paul's Cathedral.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "If you look closely under your feet, the bridge is actually dotted with hundreds of tiny, hidden paintings that most people walk right past.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Bankside",
+   "distance_m": 181,
+   "bearing": "SW",
+   "phrase_hint": "about 180 m to the south-west, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "St Paul's Cathedral",
+   "distance_m": 467,
+   "bearing": "N",
+   "phrase_hint": "about 470 m to the north, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Millennium_Bridge,_London",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/South_Bank",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the artist who creates the tiny paintings on the bridge."
+ ],
+ "created_at": "2026-09-25T10:10:26Z"
+}

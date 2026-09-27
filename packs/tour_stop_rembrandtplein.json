@@ -1,0 +1,144 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_rembrandtplein",
+ "identity": {
+  "canonical_name": "Rembrandtplein",
+  "aliases": [
+   "Rembrandt Square"
+  ],
+  "match_status": "confident",
+  "category": "square",
+  "qid": "Q1579642"
+ },
+ "knowledge_depth": "medium",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Rembrandtplein is a major square in central Amsterdam, named after the legendary Dutch painter Rembrandt van Rijn.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Before becoming a square, this very spot was once part of the city's medieval defensive walls and held a gateway into Amsterdam.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "By 1655, farmers were already flocking here to sell their butter, dairy and poultry, and the area became known as the Botermarkt or butter market.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The square was officially renamed Rembrandtplein in 1876 when a statue of the painter by sculptor Louis Royer was moved to its centre.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "That statue of Rembrandt is the oldest surviving public statue in the entire city and has been officially designated a national monument.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Today the square remains one of Amsterdam's busiest nightlife districts, packed with cafes, restaurants and terraces.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Thorbeckeplein",
+   "distance_m": 100,
+   "bearing": "SW",
+   "phrase_hint": "about 100 m south-west of Rembrandtplein"
+  },
+  {
+   "id": "sp2",
+   "name": "De Kleine Komedie",
+   "distance_m": 98,
+   "bearing": "NW",
+   "phrase_hint": "about 100 m north-west of Rembrandtplein"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (nl)",
+   "url": "https://nl.wikipedia.org/wiki/Rembrandtplein_(Amsterdam)",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Rembrandtplein",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the life-size bronze sculptures of The Night Watch placed on the square."
+ ],
+ "created_at": "2026-09-25T11:21:43Z"
+}

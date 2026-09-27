@@ -1,0 +1,265 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_munich_residenz",
+ "identity": {
+  "canonical_name": "Munich Residenz",
+  "aliases": [
+   "Münchner Residenz",
+   "Munich Residence"
+  ],
+  "match_status": "confident",
+  "category": "palace",
+  "qid": "Q686548"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Munich Residenz is the former royal palace and seat of government of the Wittelsbach monarchs of Bavaria, and stands today as the largest city palace in Germany.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The first buildings on this site were erected in 1385, financed by the citizens of Munich as a sanction for their failed uprising against the ruling dukes.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The fortress was originally built because the Dukes wanted a secure shelter to protect themselves from rebellious city dwellers and warlike relatives.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The Gothic foundation walls and the basement vaults of the old castle are the oldest surviving parts of the palace today.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Over four centuries, the palace complex continually expanded, eventually replacing an entire former city quarter that included a monastery, barracks, houses, and gardens.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The sprawling complex now consists of three main parts, contains ten courtyards, and displays 130 rooms.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The palace's architecture blends elements from the late Renaissance, Baroque, Rococo, and Neo-Classical periods.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "The Residenz Museum features the Antiquarium, a grand barrel-vaulted banqueting hall.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "The Treasury holds a vast collection of ecclesiastical and secular artifacts, including the royal crowns, orb, and sceptre of the Bavarian monarchs.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c10",
+   "text": "A wing of the palace known as the Festsaalbau houses the Cuvilliés Theatre and the Herkulessaal, the primary concert venue for the Bavarian Radio Symphony Orchestra.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c11",
+   "text": "The neo-classical Königsbau wing was added in the 19th century and contains the royal apartments and the Halls of Battles.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c12",
+   "text": "The palace was bombed during the Second World War but was painstakingly rebuilt in the post-war decades.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Antiquarium",
+   "distance_m": 56,
+   "bearing": "SE",
+   "phrase_hint": "about 55 m south-east of Munich Residenz"
+  },
+  {
+   "id": "sp2",
+   "name": "Cuvilliés Theatre",
+   "distance_m": 124,
+   "bearing": "S",
+   "phrase_hint": "about 120 m to the south, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Herkulessaal",
+   "distance_m": 103,
+   "bearing": "NE",
+   "phrase_hint": "about 100 m north-east of Munich Residenz"
+  },
+  {
+   "id": "sp4",
+   "name": "Allerheiligen-Hofkirche",
+   "distance_m": 119,
+   "bearing": "E",
+   "phrase_hint": "about 120 m east of Munich Residenz"
+  },
+  {
+   "id": "sp5",
+   "name": "Feldherrnhalle",
+   "distance_m": 116,
+   "bearing": "NW",
+   "phrase_hint": "about 120 m north-west of Munich Residenz"
+  },
+  {
+   "id": "sp6",
+   "name": "Odeonsplatz",
+   "distance_m": 147,
+   "bearing": "NW",
+   "phrase_hint": "about 150 m to the north-west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Munich_Residenz",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Munich/Altstadt",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the daily life of the Wittelsbach monarchs within the palace.",
+  "Specific details about the Rococo Ornate Rooms and the Porcelain Cabinet."
+ ],
+ "created_at": "2026-09-25T09:28:01Z"
+}

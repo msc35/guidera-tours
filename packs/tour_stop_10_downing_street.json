@@ -1,0 +1,195 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_10_downing_street",
+ "identity": {
+  "canonical_name": "10 Downing Street",
+  "aliases": [
+   "Number 10"
+  ],
+  "match_status": "confident",
+  "category": "government building",
+  "qid": "Q169101"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "10 Downing Street serves as the official London residence and executive office of the Prime Minister of the United Kingdom.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The famous building is actually made up of three separate original properties: a mansion overlooking the park, a town house, and a small cottage.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The street itself was developed between 1682 and 1684 by Sir George Downing, who was notably a former spy for Oliver Cromwell.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Downing hired the legendary architect Christopher Wren to design the houses, but they were built so cheaply on soft soil that they suffered from shallow foundations.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "King George II first presented the property to Sir Robert Walpole, widely considered the first Prime Minister, in 1732.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The oldest part of the complex, known as the 'House at the Back', dates to 1530 and once secretly hosted early cabinet meetings after the Glorious Revolution of 1688.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "Thomas Knyvet, who famously captured Guy Fawkes during the Gunpowder Plot in 1605, was once a resident of the 'House at the Back'.",
+   "type": "person",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "In 1985, Prime Minister Margaret Thatcher described the iconic building as 'one of the most precious jewels in the national heritage'.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Cabinet Office",
+   "distance_m": 72,
+   "bearing": "NE",
+   "phrase_hint": "about 70 m north-east of 10 Downing Street"
+  },
+  {
+   "id": "sp2",
+   "name": "Cabinet War Rooms and Churchill Museum",
+   "distance_m": 172,
+   "bearing": "SW",
+   "phrase_hint": "about 170 m to the south-west, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "Banqueting House",
+   "distance_m": 169,
+   "bearing": "NE",
+   "phrase_hint": "about 170 m to the north-east, a short walk"
+  },
+  {
+   "id": "sp4",
+   "name": "Whitehall",
+   "distance_m": 129,
+   "bearing": "SE",
+   "phrase_hint": "about 130 m to the south-east, a short walk"
+  },
+  {
+   "id": "sp5",
+   "name": "Horse Guards Parade",
+   "distance_m": 152,
+   "bearing": "N",
+   "phrase_hint": "about 150 m to the north, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/10_Downing_Street",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/Westminster",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the famous black front door and its construction."
+ ],
+ "created_at": "2026-09-25T09:43:28Z"
+}

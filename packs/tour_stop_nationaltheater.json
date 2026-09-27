@@ -1,0 +1,256 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_nationaltheater",
+ "identity": {
+  "canonical_name": "National Theatre",
+  "aliases": [
+   "Nationaltheater",
+   "National Theatre Munich"
+  ],
+  "match_status": "confident",
+  "category": "opera house",
+  "qid": "Q707679"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The National Theatre on Max-Joseph-Platz is the historic home of the Bavarian State Opera, the Bavarian State Orchestra, and the Bavarian State Ballet.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "With a capacity of over 2,100 seats, it is the largest opera house in Germany.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The theatre was commissioned in 1810 by King Maximilian I because the nearby Cuvilliés Theatre had become too small to accommodate the growing audience.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The original building, designed by architect Karl von Fischer, opened in 1818 and drew its architectural inspiration from the Odéon theatre in Paris.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "In 1823, the first theatre was completely destroyed by a fire that started on stage, which could not be extinguished because the city's water supply was frozen.",
+   "type": "event",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The theatre was rebuilt by Leo von Klenze in 1825 as a masterpiece of European Neo-Classicism, featuring a portico supported by Corinthian columns and a double triangular pediment.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "After being gutted during a World War II air raid in 1943, the theatre was rebuilt for a third time in 1963, closely recreating Karl von Fischer's original design.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "The auditorium is renowned for its excellent acoustics, which are achieved through the consistent use of wood as a building material.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "At the center of the interior rondel sits a magnificent royal box that is decorated with two large caryatids.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c10",
+   "text": "The stage covers an area of over 2,400 square meters, making it the third-largest opera stage in Europe after those in Paris and Warsaw.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c11",
+   "text": "The theatre hosted the world premieres of four major operas by Richard Wagner, including 'Tristan und Isolde' and 'Die Meistersinger von Nürnberg'.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Bayerische Staatsoper",
+   "distance_m": 40,
+   "bearing": "E",
+   "phrase_hint": "about 40 m east of National Theatre"
+  },
+  {
+   "id": "sp2",
+   "name": "Max-Joseph-Platz",
+   "distance_m": 56,
+   "bearing": "SE",
+   "phrase_hint": "about 55 m south-east of National Theatre"
+  },
+  {
+   "id": "sp3",
+   "name": "Max-Joseph-Denkmal",
+   "distance_m": 55,
+   "bearing": "W",
+   "phrase_hint": "about 55 m west of National Theatre"
+  },
+  {
+   "id": "sp4",
+   "name": "Munich Residenz",
+   "distance_m": 166,
+   "bearing": "N",
+   "phrase_hint": "about 170 m to the north, a short walk"
+  },
+  {
+   "id": "sp5",
+   "name": "Cuvilliés Theatre",
+   "distance_m": 34,
+   "bearing": "N",
+   "phrase_hint": "about 35 m north of National Theatre"
+  },
+  {
+   "id": "sp6",
+   "name": "Residence Theatre",
+   "distance_m": 34,
+   "bearing": "N",
+   "phrase_hint": "about 35 m north of National Theatre"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Nationaltheater_(M%C3%BCnchen)",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/National_Theatre_(Munich)",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the interior color scheme from its 19th-century inception."
+ ],
+ "created_at": "2026-09-25T09:30:03Z"
+}

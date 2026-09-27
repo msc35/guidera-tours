@@ -1,0 +1,182 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_tower_of_london",
+ "identity": {
+  "canonical_name": "Tower of London",
+  "aliases": [
+   "His Majesty's Royal Palace and Fortress of the Tower of London"
+  ],
+  "match_status": "confident",
+  "category": "castle",
+  "qid": "Q62378"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Tower of London is a historic castle and fortress founded in 1066 by William the Conqueror during the Norman Conquest.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The massive White Tower at its centre was built in 1078 and originally served as a deeply resented symbol of Norman oppression.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Over its incredible history, the complex has served as an armoury, a menagerie for exotic animals, and the heavily guarded home of the Crown Jewels of England.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "It became infamous as a prison in the 16th and 17th centuries, holding disgraced figures and even Elizabeth I before she became queen.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Despite its terrifying reputation as a place of death, only seven people were actually executed inside the Tower before the 20th century.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The very first prisoner held here in 1100 was also the first to escape, managing to climb down using a rope smuggled inside a butt of wine.",
+   "type": "story",
+   "story_type": "documented_anecdote",
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "Today, during the winter months, visitors can actually go ice skating on the bottom of the castle's old dry moat.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "While you can take pictures almost everywhere, photography is strictly forbidden inside St John's Chapel in the White Tower.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "White Tower",
+   "distance_m": 2,
+   "bearing": "SW",
+   "phrase_hint": "right next to Tower of London, to the south-west"
+  },
+  {
+   "id": "sp2",
+   "name": "Jewel House",
+   "distance_m": 13,
+   "bearing": "SW",
+   "phrase_hint": "right next to Tower of London, to the south-west"
+  },
+  {
+   "id": "sp3",
+   "name": "St John's Chapel, London",
+   "distance_m": 16,
+   "bearing": "S",
+   "phrase_hint": "right next to Tower of London, to the south"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tower_of_London",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/City_of_London",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the identities of the seven people executed inside the Tower."
+ ],
+ "created_at": "2026-09-25T10:07:04Z"
+}

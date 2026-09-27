@@ -1,0 +1,133 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_rijksmuseum",
+ "identity": {
+  "canonical_name": "Rijksmuseum",
+  "aliases": [
+   "Rijksmuseum Amsterdam"
+  ],
+  "match_status": "confident",
+  "category": "museum",
+  "qid": "Q190804"
+ },
+ "knowledge_depth": "medium",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Rijksmuseum is the national museum of the Netherlands, entirely dedicated to showcasing the country's extraordinary arts and history.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Originally founded in The Hague on 19 November 1798, the museum moved to Amsterdam in 1808 and eventually settled in its current grand building.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The magnificent main building was designed by the architect Pierre Cuypers and first opened its doors in 1885.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Inside, you will find 8,000 objects of art and history on display, drawn from an enormous total collection of one million objects.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Among those treasures are some undisputed masterpieces by the legendary painters Rembrandt, Frans Hals, and Johannes Vermeer.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "It holds the remarkable distinction of being the most visited and the largest art museum in the entire country.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Museumbrug",
+   "distance_m": 118,
+   "bearing": "NE",
+   "phrase_hint": "about 120 m north-east of Rijksmuseum"
+  },
+  {
+   "id": "sp2",
+   "name": "Diamond Museum Amsterdam",
+   "distance_m": 193,
+   "bearing": "W",
+   "phrase_hint": "about 190 m to the west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Rijksmuseum",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the famous Night Watch painting by Rembrandt."
+ ],
+ "created_at": "2026-09-25T11:22:53Z"
+}

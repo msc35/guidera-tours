@@ -1,0 +1,235 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_odeonsplatz",
+ "identity": {
+  "canonical_name": "Odeonsplatz",
+  "aliases": [
+   "Fürstenplatz",
+   "Reitschulplatz"
+  ],
+  "match_status": "confident",
+  "category": "square",
+  "qid": "Q259839"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Odeonsplatz was developed in the early 19th century by architect Leo von Klenze and marks the southern end of the monumental Ludwigstraße.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "Before 1827, the square was known as Fürstenplatz or Reitschulplatz, named after an old riding school that was located there.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The square was renamed Odeonsplatz in 1827 after the Odeon, a concert hall commissioned by King Ludwig I and built by Klenze on the west side of the square.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The Odeon building and the identical Palais Leuchtenberg were both modelled on the Palazzo Farnese in Rome.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "Today, the former Odeon concert hall houses the Bavarian Ministry of the Interior, while the Palais Leuchtenberg serves as the Bavarian State Ministry of Finance.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "An equestrian statue of King Ludwig I, designed by Ludwig von Schwanthaler, was added to the square in 1862.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The square has traditionally served as a major venue for parades and public events, and the annual parade to the Oktoberfest still passes through it today.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "On November 9, 1923, the square was the site of a fatal gun battle that ended the Beer Hall Putsch, resulting in the deaths of four state police officers and sixteen Nazis.",
+   "type": "event",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "During the Third Reich, a memorial for the fallen Nazis was erected near the Feldherrnhalle, and all passersby were required to perform the Hitler salute; the memorial was demolished in 1945.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c10",
+   "text": "Adolf Hitler was captured in a famous 1914 photograph taken at the Odeonsplatz, showing the crowd celebrating the outbreak of the First World War.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Feldherrnhalle",
+   "distance_m": 92,
+   "bearing": "S",
+   "phrase_hint": "on the south edge of Odeonsplatz, about 90 m away"
+  },
+  {
+   "id": "sp2",
+   "name": "Theatinerkirche",
+   "distance_m": 87,
+   "bearing": "SW",
+   "phrase_hint": "on the south-west edge of Odeonsplatz, about 85 m away"
+  },
+  {
+   "id": "sp3",
+   "name": "Munich Residenz",
+   "distance_m": 160,
+   "bearing": "S",
+   "phrase_hint": "about 160 m to the south, a short walk"
+  },
+  {
+   "id": "sp4",
+   "name": "Palais Moy",
+   "distance_m": 42,
+   "bearing": "W",
+   "phrase_hint": "on the west edge of Odeonsplatz, about 40 m away"
+  },
+  {
+   "id": "sp5",
+   "name": "Hofgarten",
+   "distance_m": 221,
+   "bearing": "E",
+   "phrase_hint": "about 220 m to the east, a short walk"
+  },
+  {
+   "id": "sp6",
+   "name": "Bayerisches Staatsministerium des Innern, für Sport und Integration",
+   "distance_m": 91,
+   "bearing": "N",
+   "phrase_hint": "on the north edge of Odeonsplatz, about 90 m away"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Odeonsplatz",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Odeonsplatz",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the bazaar building and its architectural significance.",
+  "Information about the exact connection to the adjacent Hofgarten."
+ ],
+ "created_at": "2026-09-25T09:21:41Z"
+}

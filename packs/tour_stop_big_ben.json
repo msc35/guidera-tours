@@ -1,0 +1,202 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_big_ben",
+ "identity": {
+  "canonical_name": "Big Ben",
+  "aliases": [
+   "Elizabeth Tower",
+   "Clock Tower",
+   "Great Bell"
+  ],
+  "match_status": "confident",
+  "category": "tower",
+  "qid": "Q41225"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Although commonly used to describe the entire structure, the name Big Ben originally referred only to the Great Bell inside the tower.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The tower was officially known as the Clock Tower until 2012, when it was renamed the Elizabeth Tower in honor of Queen Elizabeth II's Diamond Jubilee.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Completed in 1859, the iconic structure was designed by Augustus Pugin and Charles Barry in the Perpendicular Gothic style.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The tower stands exactly 316 feet tall, and reaching the belfry requires climbing 334 steps from the ground level.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The massive Great Bell weighs an incredible 13.5 long tons and was cast by the historic Whitechapel Bell Foundry.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "The nickname is generally believed to come from Sir Benjamin Hall, the large man who oversaw its installation, though some think it was named after champion boxer Ben Caunt.",
+   "type": "name_origin",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The distinctive tolling of the bell is broadcast live across the United Kingdom on BBC Radio 4 twice a day.",
+   "type": "event",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "The clock tower is considered a worldwide symbol of parliamentary democracy and is part of a UNESCO World Heritage Site.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "Only British residents are permitted to climb the tower, and they must request the strictly limited tickets directly through their Member of Parliament.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s3"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Palace of Westminster",
+   "distance_m": 146,
+   "bearing": "S",
+   "phrase_hint": "about 150 m to the south, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Westminster Millennium Pier",
+   "distance_m": 162,
+   "bearing": "NE",
+   "phrase_hint": "about 160 m to the north-east, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "St. Margaret's Church",
+   "distance_m": 177,
+   "bearing": "SW",
+   "phrase_hint": "about 180 m to the south-west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Big_Ben",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/Westminster",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details on the specific mechanism that powers the clock's accuracy."
+ ],
+ "created_at": "2026-09-25T09:42:27Z"
+}

@@ -3,7 +3,7 @@
   "name": "Dublin: Historic Core & City Legends",
   "city": "Dublin",
   "category": "historical",
-  "version": 1,
+  "version": 3,
   "stops": [
     {
       "id": "stop_trinity_college_library",
@@ -54,7 +54,7 @@
       "shortDescription": "Originally founded as a wooden Viking church around 1028, making it Dublin's oldest building. Its cavernous 12th-century crypt contains historical artifacts, including a mummified cat and rat found stuck in an organ pipe."
     },
     {
-      "id": "stop_st_patricks_cathedral",
+      "id": "stop_st_patricks_cathedral_dublin",
       "name": "St. Patrick's Cathedral",
       "latitude": 53.3395,
       "longitude": -6.2714,

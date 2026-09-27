@@ -1,0 +1,165 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_london_eye",
+ "identity": {
+  "canonical_name": "London Eye",
+  "aliases": [
+   "Millennium Wheel"
+  ],
+  "match_status": "confident",
+  "category": "observation wheel",
+  "qid": "Q160659"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The London Eye, originally known as the Millennium Wheel, is an enormous cantilevered observation wheel located right on the South Bank of the River Thames.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "It stands an impressive 135 metres tall and the wheel itself has a massive diameter of 120 metres.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "When it first opened to the public in 2000, it held the title of the world's tallest Ferris wheel until 2006.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Unlike taller traditional wheels, the London Eye is cantilevered, meaning it is supported solely by a giant A-frame on just one side.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The wheel carries 32 exterior glass-walled capsules that slowly rotate to provide panoramic sights.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "On a clear, good day, the sweeping views from the top can stretch up to 40 km away over central London.",
+   "type": "visual_feature",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "Today, it is actually the most popular paid tourist attraction in the United Kingdom, drawing more than three million visitors annually.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "County Hall",
+   "distance_m": 155,
+   "bearing": "S",
+   "phrase_hint": "about 160 m to the south, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Jubilee Gardens",
+   "distance_m": 120,
+   "bearing": "NE",
+   "phrase_hint": "about 120 m north-east of London Eye"
+  },
+  {
+   "id": "sp3",
+   "name": "International Brigades Memorial",
+   "distance_m": 67,
+   "bearing": "E",
+   "phrase_hint": "about 65 m east of London Eye"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/London_Eye",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/South_Bank",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the speed of rotation and how long one full revolution takes."
+ ],
+ "created_at": "2026-09-25T10:17:09Z"
+}

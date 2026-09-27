@@ -1,0 +1,180 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_tower_bridge",
+ "identity": {
+  "canonical_name": "Tower Bridge",
+  "aliases": [],
+  "match_status": "confident",
+  "category": "bridge",
+  "qid": "Q83125"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Tower Bridge is a spectacular combined bascule and suspension bridge that was built between 1886 and 1894.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "It was originally constructed to connect East London's rapidly growing population while still allowing shipping to access the Pool of London.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The bridge spans a massive 940 feet in length and features twin towers that each stand exactly 65 metres tall.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s3"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "To allow ships to pass underneath, the massive central bascules were originally raised using a hydraulically powered system.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "In 1972, this original operating mechanism was modernized and converted into an electro-hydraulic system.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Because it is so iconic, tourists frequently confuse it with the nearby London Bridge, which sits just 0.5 miles upstream.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "In fact, this confusion is the source of a famous urban legend that an American accidentally purchased the wrong bridge.",
+   "type": "story",
+   "story_type": "local_legend",
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "human_story"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "Today, visitors can actually explore the twin towers, the high-level walkways, and the original Victorian engine rooms as part of the Tower Bridge Exhibition.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Tower of London",
+   "distance_m": 309,
+   "bearing": "N",
+   "phrase_hint": "about 310 m to the north, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Pool of London",
+   "distance_m": 193,
+   "bearing": "NW",
+   "phrase_hint": "about 190 m to the north-west, a short walk"
+  },
+  {
+   "id": "sp3",
+   "name": "London Bridge & West Bermondsey",
+   "distance_m": 717,
+   "bearing": "SW",
+   "phrase_hint": "about 700 m to the south-west, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tower_Bridge",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s3",
+   "kind": "wikidata",
+   "label": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q83125",
+   "license": "CC0",
+   "tier": 2
+  }
+ ],
+ "gaps": [
+  "Details about what events trigger the bridge lifting today."
+ ],
+ "created_at": "2026-09-25T10:07:32Z"
+}

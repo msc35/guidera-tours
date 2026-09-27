@@ -3,7 +3,7 @@
   "name": "Singapore: Civic District & Marina Bay",
   "city": "Singapore",
   "category": "modern",
-  "version": 1,
+  "version": 3,
   "stops": [
     {
       "id": "stop_raffles_hotel",
@@ -30,7 +30,7 @@
       "shortDescription": "Singapore's largest cathedral, standing gleaming white in the Civic District. Its walls were uniquely plastered using 'Madras chunam', a mixture including shell lime and egg whites."
     },
     {
-      "id": "stop_national_gallery",
+      "id": "stop_national_gallery_singapore",
       "name": "National Gallery Singapore",
       "latitude": 1.2905,
       "longitude": 103.8517,

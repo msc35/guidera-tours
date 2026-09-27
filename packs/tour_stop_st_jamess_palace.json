@@ -1,0 +1,225 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_st_jamess_palace",
+ "identity": {
+  "canonical_name": "St James's Palace",
+  "aliases": [
+   "Court of St James's"
+  ],
+  "match_status": "confident",
+  "category": "palace",
+  "qid": "Q272162"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "St James's Palace is the most senior royal palace in London and officially remains the principal seat of the British monarch.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s2",
+    "s4"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The palace was built in the 1530s by order of King Henry VIII on the former site of an isolated leper hospital dedicated to Saint James the Less.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Its distinctive architecture is primarily Tudor in style and was constructed mainly using traditional red brick.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "During the Tudor and Stuart eras, it was surrounded by a deer park and often served as a quiet hunting lodge and retreat from the formal court.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The palace took on primary administrative functions for the monarchy only after the main Palace of Whitehall tragically burned down.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "In 1809, a devastating fire destroyed significant parts of the building, including the monarch's private apartments which were never replaced.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "survived_destruction"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "The building eventually began losing its status as the monarch's primary residence, a move that was formalized in 1837 by Queen Victoria in favor of Buckingham Palace.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c08",
+   "text": "Because it is still the official court, all foreign ambassadors and high commissioners to the United Kingdom are officially accredited to the Court of St James's.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c09",
+   "text": "The palace remains an active working residence today, housing the London apartments of several members of the royal family, including Princess Anne.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c10",
+   "text": "The nearby Queen's Chapel, designed by the famous architect Inigo Jones in the 1620s, is still considered to be an integral part of the palace complex.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Clarence House",
+   "distance_m": 76,
+   "bearing": "S",
+   "phrase_hint": "about 75 m south of St James's Palace"
+  },
+  {
+   "id": "sp2",
+   "name": "Friary Court",
+   "distance_m": 65,
+   "bearing": "SE",
+   "phrase_hint": "about 65 m south-east of St James's Palace"
+  },
+  {
+   "id": "sp3",
+   "name": "Marlborough Gate",
+   "distance_m": 82,
+   "bearing": "NE",
+   "phrase_hint": "about 80 m north-east of St James's Palace"
+  },
+  {
+   "id": "sp4",
+   "name": "Queen's Chapel",
+   "distance_m": 98,
+   "bearing": "NE",
+   "phrase_hint": "about 100 m north-east of St James's Palace"
+  },
+  {
+   "id": "sp5",
+   "name": "Lancaster House",
+   "distance_m": 107,
+   "bearing": "SW",
+   "phrase_hint": "about 110 m south-west of St James's Palace"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s2",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/St_James%27s_Palace",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s4",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/London/Westminster",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the Accession Council ceremony that takes place at the palace."
+ ],
+ "created_at": "2026-09-25T09:39:16Z"
+}

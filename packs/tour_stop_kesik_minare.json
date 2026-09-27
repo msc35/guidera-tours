@@ -1,0 +1,132 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_kesik_minare",
+ "identity": {
+  "canonical_name": "Kesik Minare",
+  "aliases": [
+   "Broken Minaret Mosque",
+   "Korkut Cami"
+  ],
+  "match_status": "confident",
+  "category": "mosque",
+  "qid": "Q6395079"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Kesik Minare, or Broken Minaret Mosque, has one of the most layered histories of any building in Turkey, originally built as a Roman temple in the 2nd century AD.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "record"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "In the 7th century it was converted into a Byzantine church dedicated to the Virgin Mary, though it was heavily damaged during the Arab invasions of that same century.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "The minaret was added in the early 13th century when the Sultanate of Rum established their rule in Antalya and converted the church into a mosque.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "In 1361, when the crusader king of Cyprus captured Antalya from the Seljuks, it was consecrated as a church again, only to become a mosque once more under Ottoman rule.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The main building was tragically destroyed in a fire in 1896, leaving only the surviving minaret standing on Hesapçı Street.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "After restoration work beginning in 2018 and the top cone being restored in 2019, the structure officially reopened as a mosque in 2021, welcoming worshippers for the first time in nearly 125 years.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Hidirlik Tower",
+   "distance_m": 277,
+   "bearing": "SW",
+   "phrase_hint": "about 280 m to the south-west, a short walk"
+  },
+  {
+   "id": "sp2",
+   "name": "Hadrian's Gate",
+   "distance_m": 338,
+   "bearing": "NE",
+   "phrase_hint": "about 340 m to the north-east, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Kesik_Minare",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [],
+ "created_at": "2026-09-25T11:28:38Z"
+}

@@ -1,0 +1,152 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_palais_royal",
+ "identity": {
+  "canonical_name": "Palais-Royal",
+  "aliases": [
+   "Palais-Cardinal",
+   "Le Palais Royal"
+  ],
+  "match_status": "confident",
+  "category": "palace",
+  "qid": "Q329948"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Palais-Royal was originally called the Palais-Cardinal, as it was famously built for Cardinal Richelieu between 1633 and 1639.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [
+    "name_origin"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "It earned its royal title when Anne of Austria moved in to get away from the nearby Louvre palace.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Over the years, the powerful Dukes of Orléans made such extensive alterations that almost nothing of the original design survives today.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [
+    "vanished_thing"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "The palace completely encloses a beautiful, peaceful central garden that is lined by covered shopping arcades.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "high",
+   "source_ids": [
+    "s4",
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "In 1789, it became the scene of a seminal event of the French Revolution when Camille Desmoulins made a famous declaration to the crowds here.",
+   "type": "event",
+   "story_type": null,
+   "tier": 4,
+   "confidence": "medium",
+   "source_ids": [
+    "s5"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Today, this former royal residence serves as the prestigious seat of the Ministry of Culture, the Conseil d'État, and the Constitutional Council.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s4"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Jardin du Palais-Royal",
+   "distance_m": 42,
+   "bearing": "E",
+   "phrase_hint": "about 40 m east of Palais-Royal"
+  },
+  {
+   "id": "sp2",
+   "name": "Conseil Constitutionnel",
+   "distance_m": 116,
+   "bearing": "SW",
+   "phrase_hint": "about 120 m south-west of Palais-Royal"
+  },
+  {
+   "id": "sp3",
+   "name": "Théâtre du Palais-Royal",
+   "distance_m": 145,
+   "bearing": "N",
+   "phrase_hint": "about 150 m to the north, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s4",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Palais-Royal",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s5",
+   "kind": "wikivoyage",
+   "label": "Wikivoyage (en)",
+   "url": "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement",
+   "license": "CC BY-SA 4.0",
+   "tier": 4
+  }
+ ],
+ "gaps": [
+  "Details about the modern art installations in the courtyard, such as the Colonnes de Buren."
+ ],
+ "created_at": "2026-09-25T10:27:12Z"
+}

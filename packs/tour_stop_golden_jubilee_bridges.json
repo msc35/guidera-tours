@@ -1,0 +1,150 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_golden_jubilee_bridges",
+ "identity": {
+  "canonical_name": "Golden Jubilee Bridges",
+  "aliases": [
+   "Hungerford Bridge and Golden Jubilee Bridges"
+  ],
+  "match_status": "confident",
+  "category": "bridge",
+  "qid": "Q1436185"
+ },
+ "knowledge_depth": "very_high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "The Golden Jubilee Bridges are actually two stunning cable-stayed pedestrian bridges that flank the older central steel truss railway bridge.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The very first crossing here was a suspension footbridge designed by Isambard Kingdom Brunel that opened in 1845.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "In 1864, the Charing Cross Railway Company completely replaced the old footbridge with a new railway structure designed by Sir John Hawkshaw.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 2,
+   "confidence": "high",
+   "source_ids": [
+    "s1",
+    "s2"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "Amazingly, the heavy chains from Brunel's original bridge were saved and famously reused to build Bristol's Clifton Suspension Bridge.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "The original brick pile buttresses from Brunel's very first footbridge are actually still in use today.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Before the new Golden Jubilee Bridges were built following a 1996 design competition, pedestrians had to use a narrow, dilapidated, and dangerous walkway attached to the railway bridge.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c07",
+   "text": "As an added bonus, the construction of these new pedestrian structures helped protect the vulnerable iron pillars of the old railway bridge from dangerous riverboat impacts.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Southbank Centre",
+   "distance_m": 209,
+   "bearing": "SE",
+   "phrase_hint": "about 210 m to the south-east, a short walk"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Hungerford_Bridge_and_Golden_Jubilee_Bridges",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  },
+  {
+   "id": "s2",
+   "kind": "wikidata",
+   "label": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q1436185",
+   "license": "CC0",
+   "tier": 2
+  }
+ ],
+ "gaps": [
+  "Details about the exact architectural inspiration behind the new cable-stayed design."
+ ],
+ "created_at": "2026-09-25T10:14:23Z"
+}

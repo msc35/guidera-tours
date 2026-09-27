@@ -1,0 +1,135 @@
+{
+ "pack_version": 1,
+ "pipeline_version": "kp-1",
+ "place_key": "tour:stop_tate_modern",
+ "identity": {
+  "canonical_name": "Tate Modern",
+  "aliases": [
+   "Tate Gallery of Modern Art"
+  ],
+  "match_status": "confident",
+  "category": "museum",
+  "qid": "Q193375"
+ },
+ "knowledge_depth": "high",
+ "claims": [
+  {
+   "id": "c01",
+   "text": "Tate Modern is an enormous art gallery that houses the United Kingdom's national collection of international modern and contemporary art.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c02",
+   "text": "The incredible museum is actually located inside the massive industrial structure of the former Bankside Power Station.",
+   "type": "architectural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "reversal"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c03",
+   "text": "Since the gallery first opened to the public in 2000, its vast collections have intentionally been arranged thematically rather than in chronological order.",
+   "type": "cultural_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [
+    "hidden_detail"
+   ],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c04",
+   "text": "It has grown to become one of the largest museums of modern and contemporary art in the world, exclusively featuring works created from or after 1900.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c05",
+   "text": "In 2025 alone, the museum welcomed an astonishing 4,514,266 visitors, making it the most popular art gallery in the entire country.",
+   "type": "historical_fact",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  },
+  {
+   "id": "c06",
+   "text": "Best of all, like many other national galleries in the UK, there is no admission charge to view the main collection displays.",
+   "type": "practical",
+   "story_type": null,
+   "tier": 3,
+   "confidence": "medium",
+   "source_ids": [
+    "s1"
+   ],
+   "hooks": [],
+   "conflict_group": null,
+   "subject": "self"
+  }
+ ],
+ "spatial": [
+  {
+   "id": "sp1",
+   "name": "Bankside Power Station",
+   "distance_m": 27,
+   "bearing": "E",
+   "phrase_hint": "about 25 m east of Tate Modern"
+  },
+  {
+   "id": "sp2",
+   "name": "Bankside",
+   "distance_m": 85,
+   "bearing": "NW",
+   "phrase_hint": "about 85 m north-west of Tate Modern"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "kind": "wikipedia",
+   "label": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tate_Modern",
+   "license": "CC BY-SA 4.0",
+   "tier": 3
+  }
+ ],
+ "gaps": [
+  "Details about the massive installations inside the Turbine Hall."
+ ],
+ "created_at": "2026-09-25T10:09:53Z"
+}

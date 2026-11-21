@@ -1,0 +1,137 @@
+{
+  "id": "konstanz_council_old_town",
+  "name": "Konstanz: Council City, Old Town & the Swiss Border - Kurulu Düzen Special",
+  "city": "Konstanz",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_imperia",
+      "name": "Imperia",
+      "latitude": 47.66075,
+      "longitude": 9.181109,
+      "order": 0,
+      "shortDescription": "Konstanz's landmark at the harbour entrance: a 9-metre, 18-tonne statue of a courtesan by sculptor Peter Lenk, unveiled in 1993 and slowly rotating on her pedestal. In her raised hands she holds two naked little men, Emperor Sigismund and Pope Martin V, a satirical jab at the powerful men who gathered here for the Council of Constance (1414–1418)."
+    },
+    {
+      "id": "stop_konzil_building_konstanz",
+      "name": "Konzilgebäude (Council Building)",
+      "latitude": 47.661203,
+      "longitude": 9.178258,
+      "order": 1,
+      "shortDescription": "Built in 1388 as a grain and goods warehouse, this massive lakeside hall made history in November 1417, when cardinals met on its upper floor and elected Pope Martin V. It is the only papal election ever held north of the Alps, and it ended the Western Schism of three rival popes."
+    },
+    {
+      "id": "stop_inselhotel_dominican_island",
+      "name": "Dominican Island (Steigenberger Inselhotel)",
+      "latitude": 47.664326,
+      "longitude": 9.177728,
+      "order": 2,
+      "shortDescription": "This hotel was a Dominican monastery from 1236 until 1785. During the Council, the Czech reformer Jan Hus was imprisoned in its tower from December 1414 to March 1415. In 1838 Count Ferdinand von Zeppelin, inventor of the Zeppelin airship, was born here, and the building has been a grand hotel since 1875; its cloister survives inside."
+    },
+    {
+      "id": "stop_rheintorturm",
+      "name": "Rheintorturm",
+      "latitude": 47.666009,
+      "longitude": 9.177411,
+      "order": 3,
+      "shortDescription": "Built around 1200 as the northern town gate guarding the medieval bridge over the Rhine, right where the river leaves Lake Constance. Today the tower houses a small museum of the local Fasnacht carnival."
+    },
+    {
+      "id": "stop_pulverturm_konstanz",
+      "name": "Pulverturm (Konstanz)",
+      "latitude": 47.667029,
+      "longitude": 9.175262,
+      "order": 4,
+      "shortDescription": "The stout 14th-century corner tower of the old town walls on the Rhine. It served as a prison: after the Council, King Sigismund had several Jews locked up here so their ransom could pay off his Council debts."
+    },
+    {
+      "id": "stop_niederburg",
+      "name": "Niederburg",
+      "latitude": 47.665295,
+      "longitude": 9.175836,
+      "order": 5,
+      "shortDescription": "The oldest quarter of Konstanz, a maze of narrow lanes between the Münster and the Rhine. Once home to fishermen, craftsmen and the bishop's serfs, it is full of late-medieval houses, hidden courtyards, old wine taverns and the Zoffingen convent, the only monastery left of the former bishop's city."
+    },
+    {
+      "id": "stop_stadttheater_konstanz",
+      "name": "Stadttheater Konstanz",
+      "latitude": 47.663844,
+      "longitude": 9.177422,
+      "order": 6,
+      "shortDescription": "Set up in 1607 in a Jesuit school, this is considered the oldest continuously used theatre stage in Germany. It still stages plays in the heart of the old town today."
+    },
+    {
+      "id": "stop_muenster_konstanz",
+      "name": "Konstanz Minster (Münster Unserer Lieben Frau)",
+      "latitude": 47.663359,
+      "longitude": 9.175917,
+      "order": 7,
+      "shortDescription": "The former cathedral of one of Europe's largest medieval dioceses, standing on the ruins of a Roman fort. Its Romanesque basilica was consecrated in 1089, and here on 6 July 1415 the Council condemned Jan Hus to be burned. Don't miss the crypt with its gold discs from around 1000, and climb the 78-metre tower for a view over the lake and the Alps."
+    },
+    {
+      "id": "stop_lenk_brunnen",
+      "name": "Lenk Fountain (Lenk-Brunnen)",
+      "latitude": 47.663061,
+      "longitude": 9.172502,
+      "order": 8,
+      "shortDescription": "Another provocative work by Imperia's creator Peter Lenk: more than 30 comic figures caricaturing car mania and modern leisure culture. One scene recalls the 'Pope's fall' of 1414, when Pope John XXIII's carriage tipped over in the snow on his way to the Council."
+    },
+    {
+      "id": "stop_hohes_haus_konstanz",
+      "name": "Hohes Haus",
+      "latitude": 47.662074,
+      "longitude": 9.175344,
+      "order": 9,
+      "shortDescription": "Dating back to around 1294, this tall Gothic house is probably the oldest medieval 'high-rise' in Konstanz. Look up at its pointed-arch windows; inside, fragments of late-Romanesque wall paintings have survived."
+    },
+    {
+      "id": "stop_obermarkt_konstanz",
+      "name": "Obermarkt & Haus zum Hohen Hafen",
+      "latitude": 47.660984,
+      "longitude": 9.173529,
+      "order": 10,
+      "shortDescription": "On this small square on 18 April 1417, Emperor Sigismund enfeoffed Frederick of Hohenzollern with the Margraviate of Brandenburg, the birth of the Hohenzollern dynasty that would later rule Prussia and Germany. The scene is painted on the facade of the Haus zum Hohen Hafen."
+    },
+    {
+      "id": "stop_rathaus_konstanz",
+      "name": "Konstanz Town Hall (Rathaus)",
+      "latitude": 47.660427,
+      "longitude": 9.173599,
+      "order": 11,
+      "shortDescription": "Built from several historic houses, including the former weavers' guild house 'Zur Salzscheibe', the town hall has a facade painted in 1864 with scenes from the city's history. Step through the gate into its peaceful Italian Renaissance courtyard."
+    },
+    {
+      "id": "stop_hus_haus_konstanz",
+      "name": "Hus House & Schnetztor",
+      "latitude": 47.658897,
+      "longitude": 9.170944,
+      "order": 12,
+      "shortDescription": "Tradition says Jan Hus lodged in this house with the widow Fida Pfister when he arrived for the Council in November 1414, shortly before his arrest. Today it is a small free museum on his life and legacy, standing beside the medieval Schnetztor, one of the town's surviving gate towers."
+    },
+    {
+      "id": "stop_rosgartenmuseum",
+      "name": "Rosgartenmuseum",
+      "latitude": 47.65979,
+      "longitude": 9.174765,
+      "order": 13,
+      "shortDescription": "The city history museum, founded in 1870 in the medieval butchers' guild house 'Zum Rosgarten'. It tells the story of Konstanz and the Lake Constance region from prehistoric lake dwellings to the Council."
+    },
+    {
+      "id": "stop_kaiserbrunnen_konstanz",
+      "name": "Kaiserbrunnen & Marktstätte",
+      "latitude": 47.660282,
+      "longitude": 9.174963,
+      "order": 14,
+      "shortDescription": "The Emperor's Fountain on the lively Marktstätte dates from 1897, but its figures were replaced in the 1990s by Gernot and Barbara Rumpf with witty caricatures. Look for the three-headed peacock wearing three papal crowns, a symbol of the three rival popes whose schism led to the Council. Nearby, the house 'Zum Wolf' (1774) has the only Rococo facade in Konstanz."
+    },
+    {
+      "id": "stop_kunstgrenze",
+      "name": "Kunstgrenze (Art Border)",
+      "latitude": 47.655665,
+      "longitude": 9.180782,
+      "order": 15,
+      "shortDescription": "Since 2007, 22 stainless-steel figures by artist Johannes Dörflinger, based on the trump cards of the Tarot, have stood right on the German-Swiss border between Konstanz and Kreuzlingen. A playful place to end the tour with one foot in each country."
+    }
+  ]
+}

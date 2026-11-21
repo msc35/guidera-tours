@@ -200,6 +200,16 @@
       "id": "prague_castle_lesser_town",
       "version": 1,
       "fileName": "prague_castle_lesser_town.json"
+    },
+    {
+      "id": "konstanz_council_old_town",
+      "version": 1,
+      "fileName": "konstanz_council_old_town.json"
+    },
+    {
+      "id": "lindau_island_old_town",
+      "version": 1,
+      "fileName": "lindau_island_old_town.json"
     }
   ]
 }

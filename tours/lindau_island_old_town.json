@@ -1,0 +1,129 @@
+{
+  "id": "lindau_island_old_town",
+  "name": "Lindau: Island Old Town & Harbour - Kurulu Düzen Special",
+  "city": "Lindau",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_mangturm",
+      "name": "Mangturm",
+      "latitude": 47.544423,
+      "longitude": 9.68351,
+      "order": 0,
+      "shortDescription": "Lindau's medieval harbour tower dates from the 12th century and served as the town's lighthouse until 1856. Its roof of colourful glazed tiles is the island's most photographed detail. The name comes from the 'Mange', a press used by cloth makers in the nearby guild warehouses."
+    },
+    {
+      "id": "stop_new_lighthouse_lindau",
+      "name": "New Lighthouse",
+      "latitude": 47.54292,
+      "longitude": 9.683591,
+      "order": 1,
+      "shortDescription": "Completed in 1856, this 33-metre tower at the harbour entrance is Bavaria's only lighthouse and the southernmost lighthouse in Germany. It even has a clock face. Climb its 139 steps for a panorama of the lake and the Alps (usually open from spring to autumn in good weather)."
+    },
+    {
+      "id": "stop_bavarian_lion_lindau",
+      "name": "Bavarian Lion",
+      "latitude": 47.543255,
+      "longitude": 9.683923,
+      "order": 2,
+      "shortDescription": "Facing the lighthouse across the harbour entrance, this 6-metre stone lion was set up in 1856 as a proud symbol of Bavaria on its only stretch of Lake Constance shore. Sitting at the tip of the Löwenmole pier, it greets every boat arriving in Lindau. To reach it, walk around the harbour basin past the Römerschanze."
+    },
+    {
+      "id": "stop_lindavia_fountain",
+      "name": "Lindavia Fountain",
+      "latitude": 47.545683,
+      "longitude": 9.684505,
+      "order": 3,
+      "shortDescription": "Built in 1884 by Friedrich von Thiersch and Wilhelm Rümann on the site of the old fish market, the fountain is crowned by Lindavia, the patron goddess of the town. Its red marble basin is fed by water from four lion heads."
+    },
+    {
+      "id": "stop_altes_rathaus_lindau",
+      "name": "Old Town Hall",
+      "latitude": 47.545952,
+      "longitude": 9.684084,
+      "order": 4,
+      "shortDescription": "Built in 1422–1436 and later extended in Renaissance style, the Old Town Hall is famous for its colourfully painted facade showing scenes from the town's history. The Imperial Diet met here in 1496, and the former Imperial City Library on the ground floor holds rare early printed books."
+    },
+    {
+      "id": "stop_haus_zum_cavazzen",
+      "name": "Marktplatz & Haus zum Cavazzen",
+      "latitude": 47.54715,
+      "longitude": 9.686555,
+      "order": 5,
+      "shortDescription": "Rebuilt after a town fire in 1728–29 to a design by Swiss architect Jakob Grubenmann, the Haus zum Cavazzen is considered one of the most beautiful Baroque townhouses on Lake Constance. Restored and reopened in 2025, it houses the city museum, and it overlooks the Marktplatz with its Neptune Fountain."
+    },
+    {
+      "id": "stop_st_stephan_lindau",
+      "name": "St. Stephan Church",
+      "latitude": 47.547396,
+      "longitude": 9.687801,
+      "order": 6,
+      "shortDescription": "Founded in the 12th century and rebuilt several times, Lindau's Protestant parish church has a bright interior with delicate pale-green stucco. It stands right next to the Catholic Minster, a reminder of the town's divided religious history after Lindau joined the Reformation in the 16th century."
+    },
+    {
+      "id": "stop_muenster_lindau",
+      "name": "Minster of Our Lady (Lindau)",
+      "latitude": 47.546995,
+      "longitude": 9.687684,
+      "order": 7,
+      "shortDescription": "Rebuilt in 1748–52 after a fire destroyed its 12th-century predecessor, this late-Baroque church once belonged to a convent of noble ladies. Its interior is decorated with sweeping ceiling paintings."
+    },
+    {
+      "id": "stop_stadttheater_lindau",
+      "name": "Stadttheater Lindau",
+      "latitude": 47.545978,
+      "longitude": 9.687327,
+      "order": 8,
+      "shortDescription": "Lindau's theatre sits inside a former Franciscan church from the 13th century. It opened as a theatre in 1951 with Mozart's 'The Marriage of Figaro'."
+    },
+    {
+      "id": "stop_gerberschanze",
+      "name": "Gerberschanze",
+      "latitude": 47.54587,
+      "longitude": 9.688866,
+      "order": 9,
+      "shortDescription": "A small, quiet park on an old bastion on the island's southern shore, reached through a low historic passage from Fischergasse. It is one of the best spots on the island to sit by the water and look across the lake towards the Austrian shore and the Alps."
+    },
+    {
+      "id": "stop_maximilianstrasse_lindau",
+      "name": "Maximilianstraße",
+      "latitude": 47.546345,
+      "longitude": 9.683881,
+      "order": 10,
+      "shortDescription": "The island's main street, lined with grand patrician houses, painted facades, gables and arcades. Since the Middle Ages it has been the commercial heart of the former Free Imperial City of Lindau."
+    },
+    {
+      "id": "stop_diebsturm",
+      "name": "Diebsturm (Thieves' Tower)",
+      "latitude": 47.546626,
+      "longitude": 9.681644,
+      "order": 11,
+      "shortDescription": "Built around 1380 at the western end of the town walls, this round tower with its turrets and colourful tiled roof is one of Lindau's most famous sights. It served as a watchtower and then as a prison. In 1817 master mason Johann Jacob Götzger saved it from demolition by buying it for 250 guilders."
+    },
+    {
+      "id": "stop_peterskirche_lindau",
+      "name": "Peterskirche",
+      "latitude": 47.54674,
+      "longitude": 9.682028,
+      "order": 12,
+      "shortDescription": "More than 1,000 years old, St. Peter's is the oldest church in Lindau and one of the oldest around Lake Constance. Inside are rare late-Gothic Passion frescoes attributed to Hans Holbein the Elder. Since 1928 it has served as the town's war memorial church."
+    },
+    {
+      "id": "stop_narrenbrunnen_lindau",
+      "name": "Narrenbrunnen & Zeughaus",
+      "latitude": 47.547191,
+      "longitude": 9.682082,
+      "order": 13,
+      "shortDescription": "On the Unterer Schrannenplatz, the bronze Fools' Fountain celebrates the region's Swabian-Alemannic carnival with its masked figures. Behind it stands the old Zeughaus, the town armoury built in the time of Emperor Maximilian I."
+    },
+    {
+      "id": "stop_pulverturm_lindau",
+      "name": "Pulverturm & Ring for Peace",
+      "latitude": 47.545768,
+      "longitude": 9.675375,
+      "order": 14,
+      "shortDescription": "At the island's western tip stands the Gunpowder Tower, built in 1508 as part of the town walls. Its roof was lowered by two metres in 1629 to offer attackers a smaller target. Nearby is the Ring for Peace, a large wooden sculpture created in 2019 for the World Assembly of Religions for Peace held in Lindau."
+    }
+  ]
+}

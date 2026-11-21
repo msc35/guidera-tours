@@ -1,121 +1,185 @@
 {
   "id": "prague_old_town",
-  "name": "Prague: The Royal Route",
+  "name": "Prague: Old Town, Jewish Quarter & New Town - Kurulu Düzen Special",
   "city": "Prague",
   "category": "historical",
-  "version": 1,
+  "version": 3,
   "stops": [
     {
       "id": "stop_powder_tower",
       "name": "Powder Tower",
-      "latitude": 50.087222,
-      "longitude": 14.428056,
+      "latitude": 50.087243,
+      "longitude": 14.427756,
       "order": 0,
-      "shortDescription": "A striking Gothic tower that once served as one of the original 13 city gates. In the 17th century, it was used to store gunpowder, which earned it its modern name."
+      "shortDescription": "A Gothic city gate begun in 1475 that took its name from storing gunpowder in the 17th century. It marks the start of the Royal Route, the path Bohemian kings followed on their way to be crowned at Prague Castle."
+    },
+    {
+      "id": "stop_municipal_house",
+      "name": "Municipal House",
+      "latitude": 50.087756,
+      "longitude": 14.427764,
+      "order": 1,
+      "shortDescription": "Prague's finest Art Nouveau building (1905–1912), decorated by Alfons Mucha and other leading Czech artists, with the golden 'Homage to Prague' mosaic above its entrance. Czechoslovakia's independence was proclaimed here on 28 October 1918. The ornate lobby can be seen for free."
     },
     {
       "id": "stop_house_of_the_black_madonna",
       "name": "House of the Black Madonna",
-      "latitude": 50.086944,
-      "longitude": 14.425556,
-      "order": 1,
-      "shortDescription": "A unique masterpiece of Czech Cubist architecture, easily identified by the Baroque statue of the Black Madonna on its corner. The building houses a spectacular Cubist cafe on the first floor."
+      "latitude": 50.087096,
+      "longitude": 14.425437,
+      "order": 2,
+      "shortDescription": "Built in 1911–12 by Josef Gočár, it is the first and finest example of Czech Cubist architecture, a style found almost nowhere else in the world. It is named after the Baroque statue of the Black Madonna on its corner, and the first-floor Grand Café Orient keeps its original Cubist interior."
     },
     {
-      "id": "stop_old_town_square",
-      "name": "Old Town Square",
-      "latitude": 50.0875,
-      "longitude": 14.421389,
-      "order": 2,
-      "shortDescription": "The historic core of Prague, untouched by modern development. The sprawling square is surrounded by stunning, colorful buildings spanning Gothic, Renaissance, and Baroque architectural styles."
+      "id": "stop_estates_theatre",
+      "name": "Estates Theatre",
+      "latitude": 50.085962,
+      "longitude": 14.423638,
+      "order": 3,
+      "shortDescription": "Opened in 1783, this is one of the very few historic theatres where Mozart himself performed. He conducted the world premiere of Don Giovanni here on 29 October 1787, and the theatre still stages his operas today."
+    },
+    {
+      "id": "stop_havelska_market",
+      "name": "Havelská Market",
+      "latitude": 50.084772,
+      "longitude": 14.420994,
+      "order": 4,
+      "shortDescription": "An open-air market whose history on this street goes back to the 13th century. Today its stalls sell fresh fruit, flowers, wooden toys and souvenirs, a small slice of everyday Old Town life."
     },
     {
       "id": "stop_astronomical_clock",
       "name": "Prague Astronomical Clock",
-      "latitude": 50.086968,
-      "longitude": 14.420653,
-      "order": 3,
-      "shortDescription": "Installed in 1410, it is the oldest still-operating astronomical clock in the world. Every hour, massive crowds gather to watch the mechanical procession of the Twelve Apostles."
+      "latitude": 50.08698,
+      "longitude": 14.420714,
+      "order": 5,
+      "shortDescription": "Built in 1410 by clockmaker Mikuláš of Kadaň, it is the oldest astronomical clock in the world that still works. Every hour the Twelve Apostles parade past its little windows while Death rings his bell. Legend says the councillors blinded master Hanuš so he could never build another one, and he stopped the clock in revenge."
+    },
+    {
+      "id": "stop_old_town_square",
+      "name": "Old Town Square & Jan Hus Memorial",
+      "latitude": 50.087715,
+      "longitude": 14.42114,
+      "order": 6,
+      "shortDescription": "The medieval heart of Prague. The Jan Hus Memorial (1915) honours the reformer burned at the stake in 1415, and 27 white crosses in the pavement mark where 27 Bohemian leaders were executed in 1621. Christmas markets fill the square from late November to early January."
+    },
+    {
+      "id": "stop_tyn_church",
+      "name": "Church of Our Lady before Týn",
+      "latitude": 50.087721,
+      "longitude": 14.422695,
+      "order": 7,
+      "shortDescription": "The twin 80-metre Gothic spires of this church, nicknamed 'Adam and Eve' for their slightly different sizes, dominate the Old Town skyline. Inside lies the tomb of the Danish astronomer Tycho Brahe. The entrance is hidden in the arcades of the houses in front of it."
+    },
+    {
+      "id": "stop_ungelt",
+      "name": "Ungelt (Týn Courtyard)",
+      "latitude": 50.088054,
+      "longitude": 14.423782,
+      "order": 8,
+      "shortDescription": "A quiet medieval courtyard behind the Týn Church where foreign merchants once paid customs duties and found lodging. Its centrepiece, the Granovský Palace, has one of the finest Renaissance loggias in Prague."
+    },
+    {
+      "id": "stop_spanish_synagogue",
+      "name": "Spanish Synagogue & Franz Kafka Statue",
+      "latitude": 50.090359,
+      "longitude": 14.420847,
+      "order": 9,
+      "shortDescription": "Built in 1868 in a lavish Moorish Revival style, its interior glows with gilded, Alhambra-inspired patterns. Right outside stands Jaroslav Róna's statue of Franz Kafka riding on the shoulders of an empty suit, inspired by his story 'Description of a Struggle'."
+    },
+    {
+      "id": "stop_old_new_synagogue",
+      "name": "Old-New Synagogue",
+      "latitude": 50.090039,
+      "longitude": 14.41859,
+      "order": 10,
+      "shortDescription": "Completed around 1270, it is the oldest active synagogue in Europe. Legend says the Golem created by Rabbi Judah Loew still lies hidden in its attic. Closed on Saturdays and Jewish holidays."
+    },
+    {
+      "id": "stop_old_jewish_cemetery",
+      "name": "Old Jewish Cemetery",
+      "latitude": 50.089975,
+      "longitude": 14.416915,
+      "order": 11,
+      "shortDescription": "Used from the early 15th century until 1787, it holds around 12,000 crowded, tilting gravestones, with burials stacked up to 12 layers deep because the ghetto could not grow. Visitors leave notes with wishes on Rabbi Loew's tomb. Entry is through the Pinkas Synagogue, whose walls list the names of nearly 80,000 Holocaust victims from Bohemia and Moravia."
+    },
+    {
+      "id": "stop_rudolfinum",
+      "name": "Rudolfinum",
+      "latitude": 50.089939,
+      "longitude": 14.415501,
+      "order": 12,
+      "shortDescription": "A grand Neo-Renaissance concert hall opened in 1885 and named after Crown Prince Rudolf. It is home to the Czech Philharmonic, and between the two World Wars it served as the seat of the Czechoslovak Parliament."
     },
     {
       "id": "stop_clementinum",
       "name": "Clementinum",
-      "latitude": 50.086389,
-      "longitude": 14.416111,
-      "order": 4,
-      "shortDescription": "A vast complex of historic buildings that once housed a Jesuit college. It is famous for its breathtaking Baroque library hall, complete with intricate frescoes and rare antique globes."
-    },
-    {
-      "id": "stop_charles_bridge",
-      "name": "Charles Bridge",
-      "latitude": 50.086447,
-      "longitude": 14.411856,
-      "order": 5,
-      "shortDescription": "A historic stone bridge crossing the Vltava river, commissioned by King Charles IV in 1357. Lined with 30 statues of saints, it is one of the most romantic and photographed locations in Europe."
-    },
-    {
-      "id": "stop_lesser_town_bridge_tower",
-      "name": "Lesser Town Bridge Towers",
-      "latitude": 50.0872,
-      "longitude": 14.4072,
-      "order": 6,
-      "shortDescription": "Guarding the western end of the Charles Bridge, these two distinct, connected towers mark the dramatic entrance into Malá Strana, the Lesser Town."
-    },
-    {
-      "id": "stop_lennon_wall",
-      "name": "John Lennon Wall",
-      "latitude": 50.0862,
-      "longitude": 14.4068,
-      "order": 7,
-      "shortDescription": "A continuously changing, vibrant wall filled with graffiti, lyrics, and messages of peace. It originated in the 1980s as a form of silent youth protest against the communist regime."
-    },
-    {
-      "id": "stop_st_nicholas_church",
-      "name": "Church of St. Nicholas",
-      "latitude": 50.0880,
-      "longitude": 14.4032,
-      "order": 8,
-      "shortDescription": "Widely considered the ultimate masterpiece of Prague Baroque architecture. Its massive green copper dome and adjacent bell tower dominate the skyline of the Lesser Town."
-    },
-    {
-      "id": "stop_nerudova_street",
-      "name": "Nerudova Street",
-      "latitude": 50.0886,
-      "longitude": 14.3995,
-      "order": 9,
-      "shortDescription": "A picturesque, steep, and winding cobblestone street that formed part of the historic Royal Route. Look up to see the fascinating historic signs and sculpted emblems above the doorways."
-    },
-    {
-      "id": "stop_prague_castle_gates",
-      "name": "Prague Castle Gates",
-      "latitude": 50.0898,
-      "longitude": 14.3983,
-      "order": 10,
-      "shortDescription": "The grand entrance to the largest ancient castle complex in the world. Guarded by the imposing 'Battling Titans' statues, it marks the entry into the historic seat of Bohemian kings."
-    },
-    {
-      "id": "stop_st_vitus_cathedral",
-      "name": "St. Vitus Cathedral",
-      "latitude": 50.0908,
-      "longitude": 14.4005,
-      "order": 11,
-      "shortDescription": "A magnificent Gothic cathedral located entirely within the castle walls. It took nearly 600 years to complete and features dazzling stained glass windows designed by Alphonse Mucha."
-    },
-    {
-      "id": "stop_old_royal_palace",
-      "name": "Old Royal Palace",
-      "latitude": 50.0903,
-      "longitude": 14.4014,
-      "order": 12,
-      "shortDescription": "The original seat of Bohemian princes, famous for the massive Vladislav Hall, a spectacular late-Gothic vaulted space that was once used for indoor jousting tournaments."
-    },
-    {
-      "id": "stop_golden_lane",
-      "name": "Golden Lane",
-      "latitude": 50.0919,
-      "longitude": 14.4036,
+      "latitude": 50.086655,
+      "longitude": 14.416119,
       "order": 13,
-      "shortDescription": "A charming, narrow street of tiny, brightly colored 16th-century houses built directly into the castle walls. Famous writer Franz Kafka once lived and worked at No. 22."
+      "shortDescription": "After Prague Castle, this former Jesuit college is the largest building complex in the city. Its Baroque Library Hall, with frescoed ceilings and rare globes, is often called the most beautiful library in the world, and weather has been recorded at its Astronomical Tower since 1775. Visits are by guided tour only."
+    },
+    {
+      "id": "stop_old_town_bridge_tower",
+      "name": "Old Town Bridge Tower",
+      "latitude": 50.086175,
+      "longitude": 14.413609,
+      "order": 14,
+      "shortDescription": "Designed by Peter Parler and completed around 1380, it is considered one of the most beautiful Gothic towers in Europe. Its facade shows statues of Charles IV and Wenceslas IV, and the gallery at the top looks straight down Charles Bridge towards the Castle."
+    },
+    {
+      "id": "stop_bethlehem_chapel",
+      "name": "Bethlehem Chapel",
+      "latitude": 50.084345,
+      "longitude": 14.417499,
+      "order": 15,
+      "shortDescription": "The church reformer Jan Hus preached here in Czech rather than Latin from 1402 to 1413, inspiring the Hussite movement a century before Luther. The chapel was demolished in the 18th century and faithfully rebuilt in the 1950s."
+    },
+    {
+      "id": "stop_national_theatre",
+      "name": "National Theatre",
+      "latitude": 50.080864,
+      "longitude": 14.41357,
+      "order": 16,
+      "shortDescription": "Paid for by public collections, it opened in 1881 and burned down only months later. The nation donated again and it reopened in 1883, hence the motto 'Národ sobě' ('The nation to itself'). Its golden roof is a symbol of the Czech National Revival."
+    },
+    {
+      "id": "stop_dancing_house",
+      "name": "Dancing House",
+      "latitude": 50.075426,
+      "longitude": 14.414172,
+      "order": 17,
+      "shortDescription": "Designed by Vlado Milunić and Frank Gehry and completed in 1996, this curving building is nicknamed 'Fred and Ginger' after the dancers Fred Astaire and Ginger Rogers. It stands on a site destroyed by a bombing raid in 1945, and the rooftop bar offers a great view of the river and the Castle."
+    },
+    {
+      "id": "stop_kafka_rotating_head",
+      "name": "Franz Kafka Rotating Head",
+      "latitude": 50.081661,
+      "longitude": 14.420813,
+      "order": 18,
+      "shortDescription": "David Černý's 11-metre kinetic sculpture is made of 42 rotating stainless-steel layers that keep breaking apart and reassembling Franz Kafka's face. Installed in 2014 beside the Quadrio shopping centre, it is especially mesmerising in the evening."
+    },
+    {
+      "id": "stop_franciscan_garden",
+      "name": "Franciscan Garden & Our Lady of the Snows",
+      "latitude": 50.082151,
+      "longitude": 14.42393,
+      "order": 19,
+      "shortDescription": "A hidden green oasis just steps from Wenceslas Square, once the garden of a Franciscan monastery. It is overlooked by the Church of Our Lady of the Snows, founded by Charles IV in 1347 to be Prague's largest church. Only its choir was finished, yet it still has the highest vault in the city."
+    },
+    {
+      "id": "stop_lucerna_passage",
+      "name": "Lucerna Passage – Hanging Horse",
+      "latitude": 50.081109,
+      "longitude": 14.425792,
+      "order": 20,
+      "shortDescription": "This Art Nouveau arcade was built in 1907–1921 by the grandfather of President Václav Havel. Under its glass dome hangs David Černý's provocative 'Horse', a parody of the famous statue outside showing St. Wenceslas riding his dead horse upside down."
+    },
+    {
+      "id": "stop_wenceslas_square",
+      "name": "Wenceslas Square & National Museum",
+      "latitude": 50.079777,
+      "longitude": 14.429728,
+      "order": 21,
+      "shortDescription": "More a 750-metre boulevard than a square, it has witnessed the great moments of modern Czech history: the 1918 independence celebrations, Jan Palach's self-immolation in 1969 and the mass protests of the 1989 Velvet Revolution. At its top, Myslbek's statue of St. Wenceslas stands in front of the Neo-Renaissance National Museum (1891)."
     }
   ]
 }

@@ -1,0 +1,169 @@
+{
+  "id": "prague_castle_lesser_town",
+  "name": "Prague: Castle Hill & the Lesser Town - Kurulu Düzen Special",
+  "city": "Prague",
+  "category": "historical",
+  "version": 1,
+  "stops": [
+    {
+      "id": "stop_petrin_lookout_tower",
+      "name": "Petřín Lookout Tower",
+      "latitude": 50.083517,
+      "longitude": 14.395086,
+      "order": 0,
+      "shortDescription": "Built for the 1891 Jubilee Exhibition as a 1:5 scale homage to the Eiffel Tower, this 58.7 m steel tower crowns Petřín Hill. Climb its 299 steps for a sweeping panorama over Prague Castle and the red roofs of the city. Tip: ride the Petřín funicular up from Újezd, back in service since 2026 with brand-new cabins."
+    },
+    {
+      "id": "stop_strahov_monastery",
+      "name": "Strahov Monastery & Library",
+      "latitude": 50.086258,
+      "longitude": 14.389069,
+      "order": 1,
+      "shortDescription": "Founded in 1140, this is the oldest Premonstratensian monastery in Bohemia. Its Baroque Theological and Philosophical Halls, lined with carved wooden shelves, antique globes and ceiling frescoes, form one of the most beautiful historic libraries in the world. Step behind the monastery for one of the best free views over Prague."
+    },
+    {
+      "id": "stop_loreta",
+      "name": "Loreta",
+      "latitude": 50.089282,
+      "longitude": 14.391546,
+      "order": 2,
+      "shortDescription": "A Baroque pilgrimage site founded in 1626 around a replica of the Holy House of Loreto. Its tower carillon of 27 bells, cast in Amsterdam in the 1690s, plays a melody every hour, and the treasury holds a monstrance set with over 6,000 diamonds. Directly opposite stands Černín Palace, the largest Baroque palace in Prague."
+    },
+    {
+      "id": "stop_novy_svet",
+      "name": "Nový Svět",
+      "latitude": 50.090917,
+      "longitude": 14.391443,
+      "order": 3,
+      "shortDescription": "A hidden lane of tiny, crooked houses just behind the Castle, built in the 16th–18th centuries for the castle's craftsmen and servants. Astronomer Tycho Brahe once lived here, and later it became a haven for artists. Today it is one of the quietest and most authentic corners of old Prague."
+    },
+    {
+      "id": "stop_hradcany_square",
+      "name": "Hradčany Square",
+      "latitude": 50.089589,
+      "longitude": 14.397671,
+      "order": 4,
+      "shortDescription": "The grand square in front of the Castle gates, framed by the Rococo Archbishop's Palace and the Renaissance Schwarzenberg Palace with its striking black-and-white sgraffito facade. From the terrace at its edge you get a postcard view over the domes and rooftops of the Lesser Town."
+    },
+    {
+      "id": "stop_prague_castle_gates",
+      "name": "Prague Castle – First Courtyard",
+      "latitude": 50.089828,
+      "longitude": 14.398572,
+      "order": 5,
+      "shortDescription": "The ceremonial entrance to Prague Castle, founded around 880 and listed as the largest ancient castle complex in the world. The gate is guarded by the dramatic 'Battling Titans' statues, and the official changing of the guard takes place here every day at noon with a fanfare."
+    },
+    {
+      "id": "stop_st_vitus_cathedral",
+      "name": "St. Vitus Cathedral",
+      "latitude": 50.090864,
+      "longitude": 14.400571,
+      "order": 6,
+      "shortDescription": "Charles IV laid its foundation stone in 1344, but the cathedral was only completed in 1929, almost 600 years later. Inside are the gem-encrusted St. Wenceslas Chapel, the tombs of Bohemian kings and a dazzling Art Nouveau stained-glass window by Alfons Mucha. The front of the nave is free to enter; the 287-step Great South Tower offers one of the best views in Prague."
+    },
+    {
+      "id": "stop_old_royal_palace",
+      "name": "Old Royal Palace",
+      "latitude": 50.090577,
+      "longitude": 14.401574,
+      "order": 7,
+      "shortDescription": "For centuries the seat of Bohemian princes and kings. Its vast Vladislav Hall, finished around 1502, has spectacular late-Gothic ribbed vaulting and was big enough for indoor jousting tournaments. In 1618 two imperial governors were thrown out of a window here, an event that sparked the Thirty Years' War."
+    },
+    {
+      "id": "stop_st_georges_basilica",
+      "name": "St. George's Basilica",
+      "latitude": 50.091194,
+      "longitude": 14.402567,
+      "order": 8,
+      "shortDescription": "Founded in 920, this is the best-preserved Romanesque church in Prague, hidden behind a striking red Baroque facade. Its austere stone nave holds the tombs of early Přemyslid princes and feels centuries away from the crowds outside."
+    },
+    {
+      "id": "stop_golden_lane",
+      "name": "Golden Lane",
+      "latitude": 50.092057,
+      "longitude": 14.40427,
+      "order": 9,
+      "shortDescription": "A row of tiny, colourful 16th-century cottages built right into the castle walls, once home to castle guards and craftsmen. Franz Kafka wrote in the little blue house at No. 22 in 1916–17. Tip: once the ticketed hours end in the evening, the lane is usually free to walk through."
+    },
+    {
+      "id": "stop_old_castle_steps",
+      "name": "Old Castle Steps",
+      "latitude": 50.092092,
+      "longitude": 14.407371,
+      "order": 10,
+      "shortDescription": "This historic stairway leads from the Castle's eastern gate down towards the Lesser Town. On the way down you get one of the finest views over the red roofs, spires and bridges of Prague, especially beautiful at sunset."
+    },
+    {
+      "id": "stop_wallenstein_garden",
+      "name": "Wallenstein Garden",
+      "latitude": 50.090164,
+      "longitude": 14.406429,
+      "order": 11,
+      "shortDescription": "An early Baroque garden laid out in 1623–30 for general Albrecht von Wallenstein, whose palace now houses the Czech Senate. Look for the eerie dripstone wall full of hidden faces, the bronze statues after Adriaen de Vries, the grand sala terrena and the peacocks roaming freely. Free entry, open April to October."
+    },
+    {
+      "id": "stop_st_nicholas_church_lesser_town",
+      "name": "St. Nicholas Church (Lesser Town)",
+      "latitude": 50.087976,
+      "longitude": 14.403222,
+      "order": 12,
+      "shortDescription": "Built by father and son Christoph and Kilian Ignaz Dientzenhofer between 1703 and 1755, this is the crowning masterpiece of Prague Baroque. Mozart played its organ in 1787, and during the communist era its bell tower was used by the secret police to spy on the Western embassies nearby."
+    },
+    {
+      "id": "stop_vrtba_garden",
+      "name": "Vrtba Garden",
+      "latitude": 50.086489,
+      "longitude": 14.402482,
+      "order": 13,
+      "shortDescription": "A small terraced Baroque garden from around 1720, hidden behind a gate on Karmelitská Street. Its statues by Matthias Bernard Braun and balustraded terraces offer an intimate view over the Lesser Town and the Castle, a peaceful alternative to the crowds. Open April to October."
+    },
+    {
+      "id": "stop_our_lady_victorious",
+      "name": "Church of Our Lady Victorious – Infant Jesus of Prague",
+      "latitude": 50.085689,
+      "longitude": 14.403479,
+      "order": 14,
+      "shortDescription": "Home of the world-famous Infant Jesus of Prague, a small wax-coated wooden statue brought from Spain and given to the Carmelite friars here in 1628. Pilgrims come from all over the world to see it, and its wardrobe of more than 100 robes is changed according to the church calendar."
+    },
+    {
+      "id": "stop_memorial_victims_of_communism",
+      "name": "Memorial to the Victims of Communism",
+      "latitude": 50.081157,
+      "longitude": 14.403975,
+      "order": 15,
+      "shortDescription": "Unveiled in 2002, Olbram Zoubek's bronze figures descend a staircase at the foot of Petřín Hill, each one more broken and fragmented than the last. A bronze strip records the numbers of people imprisoned, executed and killed trying to flee during the communist era of 1948–1989."
+    },
+    {
+      "id": "stop_kampa_park",
+      "name": "Kampa Park & David Černý's Babies",
+      "latitude": 50.084106,
+      "longitude": 14.408376,
+      "order": 16,
+      "shortDescription": "A peaceful riverside park on Kampa Island, separated from the Lesser Town by the narrow Čertovka stream. Next to Museum Kampa crawl David Černý's giant faceless bronze 'Babies', cousins of the figures that climb Prague's Žižkov TV Tower."
+    },
+    {
+      "id": "stop_certovka",
+      "name": "Čertovka & the Grand Priory Mill",
+      "latitude": 50.086241,
+      "longitude": 14.407456,
+      "order": 17,
+      "shortDescription": "Known as the 'Devil's Stream' and often called Prague's little Venice, this narrow millrace is said to be named after a bad-tempered woman who lived on its banks. The restored wooden wheel of the Grand Priory Mill still turns here, and the little bridge nearby is covered in love locks."
+    },
+    {
+      "id": "stop_lennon_wall",
+      "name": "John Lennon Wall",
+      "latitude": 50.086242,
+      "longitude": 14.406815,
+      "order": 18,
+      "shortDescription": "After John Lennon's murder in 1980, young Praguers began painting his portrait and Beatles lyrics on this wall as a quiet protest against the communist regime, even though the police kept whitewashing it. The wall belongs to the Knights of Malta and is constantly repainted with new messages of peace and love."
+    },
+    {
+      "id": "stop_charles_bridge",
+      "name": "Charles Bridge",
+      "latitude": 50.086626,
+      "longitude": 14.410149,
+      "order": 19,
+      "shortDescription": "Begun under Charles IV in 1357, this 516 m stone bridge was Prague's only crossing over the Vltava until 1841. It is lined with 30 Baroque statues, and touching the polished relief of St. John of Nepomuk, who was thrown from the bridge in 1393, is said to guarantee your return to Prague. Come before 8 am to have it almost to yourself."
+    }
+  ]
+}

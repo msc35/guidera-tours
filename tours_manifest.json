@@ -93,7 +93,7 @@
     },
     {
       "id": "prague_old_town",
-      "version": 2,
+      "version": 3,
       "fileName": "prague_old_town.json"
     },
     {
@@ -195,6 +195,11 @@
       "id": "manchester_industrial_gothic",
       "version": 1,
       "fileName": "manchester_industrial_gothic.json"
+    },
+    {
+      "id": "prague_castle_lesser_town",
+      "version": 1,
+      "fileName": "prague_castle_lesser_town.json"
     }
   ]
 }
